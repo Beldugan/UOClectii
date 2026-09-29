@@ -17,7 +17,7 @@ EV = "/tmp/claude-0/uoc/ev1.json"
 F = dict(
     MF=f"{SRC}/AR IF/Mecanica Fluidelor/MF_Indrumar_laborator_2026-2027.pdf",
     SAA=f"{SRC}/AR IF/Sisteme auxiliare ale autovehiculelor/SAA_Indrumar_laborator_2026-2027.pdf",
-    DA=f"{SRC}/AR IF/Diagnosticarea autovehiculelor/diagnosticare/haicu finalul diagnosticare/Diagnosticarea_autovehiculelor_Indrumar_laborator_2026.pdf",
+    DA=f"{SRC}/AR IF/Diagnosticarea autovehiculelor/Diagnosticarea_autovehiculelor_Indrumar_laborator_2026-2027.pdf",
     MAM=f"{SRC}/AR IF/Mecatronica automobilului modern I/MAM_I_Indrumar_laborator_2026-2027.pdf",
     PC=f"{SRC}/AR IF/PCMAI proiect/PCMAI_Indrumar_proiect_2026-2027.pdf",
     IAII=f"{SRC}/IAII/IAII_Laboratoare_Beldugan_2026-2027.pdf",
@@ -34,30 +34,30 @@ MAN = dict(MF="Îndrumar de laborator – Mecanica fluidelor", SAA="Îndrumar de
 MF = [
     ("Vâscozitatea uleiurilor de motor în funcție de temperatură", 6, 10),
     ("Compresibilitatea lichidului de frână și efectul aerului din circuit", 11, 15),
-    ("Legea lui Pascal: transmiterea hidraulică a forței în sistemul de frânare", 16, 19),
-    ("Ecuația lui Bernoulli și măsurarea debitului: tubul Venturi și tubul Pitot", 20, 23),
-    ("Regimuri de curgere. Experiența lui Reynolds", 24, 27),
-    ("Pierderi de sarcină longitudinale și locale într-un circuit de răcire", 28, 32),
-    ("Definitivarea și susținerea referatelor", 33, 38),
+    ("Legea lui Pascal: transmiterea hidraulică a forței în sistemul de frânare", 16, 20),
+    ("Ecuația lui Bernoulli și măsurarea debitului: tubul Venturi și tubul Pitot", 21, 24),
+    ("Regimuri de curgere. Experiența lui Reynolds", 25, 28),
+    ("Pierderi de sarcină longitudinale și locale într-un circuit de răcire", 29, 33),
+    ("Definitivarea și susținerea referatelor", 34, 39),
 ]
 SAA = [
     ("Sistemul de injecție de benzină multipunct – caracteristicile de funcționare pe standul motorului 1.4 MPI", 5, 9),
     ("Modelarea duratei de injecție pe baza debitului de aer – aplicație virtuală LabVIEW", 10, 12),
     ("Sistemul de injecție common-rail – reglarea presiunii în rampă și injecția multiplă (1.5 dCi)", 13, 16),
     ("Sistemul de ungere – caracteristica presiunii uleiului", 17, 19),
-    ("Sistemul de răcire și managementul termic", 20, 23),
-    ("Sistemul de supraalimentare – presiunea de supraalimentare și actuatorii turbosuflantei", 24, 27),
-    ("Sistemul de pornire și bilanțul energetic al sistemelor stop-start și mild-hybrid 48 V", 28, 32),
-    ("Sistemul de climatizare și pompa de căldură – determinarea parametrilor de funcționare", 33, 37),
+    ("Sistemul de răcire și managementul termic", 20, 22),
+    ("Sistemul de supraalimentare – presiunea de supraalimentare și actuatorii turbosuflantei", 23, 25),
+    ("Sistemul de pornire și bilanțul energetic al sistemelor stop-start și mild-hybrid 48 V", 26, 30),
+    ("Sistemul de climatizare și pompa de căldură – determinarea parametrilor de funcționare", 31, 35),
 ]
 DA = [
     ("Diagnoza computerizată și rețeaua de date CAN", 5, 9),
     ("Senzori și actuatori – date live și semnale reale", 10, 14),
     ("Starea mecanică a motorului", 15, 18),
-    ("Sistemul de alimentare MAS și analiza gazelor de evacuare", 19, 22),
-    ("Motorul diesel common rail și sistemele de post-tratare (EGR, DPF, SCR)", 23, 27),
-    ("Sistemul de frânare cu ABS/ESC și sistemele ADAS", 28, 31),
-    ("Vehicule electrice și hibride: siguranța HV, bateria, invertorul și motorul electric", 32, 36),
+    ("Sistemul de alimentare MAS și analiza gazelor de evacuare", 19, 23),
+    ("Motorul diesel common rail și sistemele de post-tratare (EGR, DPF, SCR)", 24, 28),
+    ("Sistemul de frânare cu ABS/ESC și sistemele ADAS", 29, 32),
+    ("Vehicule electrice și hibride: siguranța HV, bateria, invertorul și motorul electric", 33, 37),
 ]
 MAM = [
     ("Microcontrolere: intrări/ieșiri, convertor A/D, timere, întreruperi și PWM", 6, 9),
@@ -72,7 +72,7 @@ MAM = [
     ("Magistrala CAN: construirea mesajelor, arbitrajul și decodarea semnalelor", 38, 41),
 ]
 PCS = [  # etape de proiect: (titlu, ore, pagini)
-    ("Prezentarea proiectului și a temei; alegerea parametrilor inițiali; motorul de referință", 2, [(4, 5), (6, 6), (17, 17), (23, 23), (34, 35)]),
+    ("Prezentarea proiectului și a temei; alegerea parametrilor inițiali; motorul de referință", 2, [(4, 5), (6, 6), (17, 17), (23, 23), (33, 34)]),
     ("Calculul procesului de admisie", 3, [(7, 8), (17, 17), (23, 23)]),
     ("Calculul procesului de comprimare", 2, [(9, 9), (18, 18), (24, 24)]),
     ("Arderea: MAS – izocoră; MAC – întârzierea la autoaprindere și arderea izocoră", 3, [(10, 11), (18, 18), (24, 24)]),
@@ -80,9 +80,9 @@ PCS = [  # etape de proiect: (titlu, ore, pagini)
     ("Destinderea; verificarea temperaturii gazelor reziduale", 2, [(12, 12), (19, 19), (25, 25)]),
     ("Parametrii indicați și efectivi", 3, [(13, 13), (19, 19), (26, 26)]),
     ("Parametrii constructivi; compararea cu motorul de referință", 3, [(14, 14), (19, 19), (22, 22), (26, 26), (28, 28)]),
-    ("Diagrama indicată p–V și p–α", 3, [(15, 15), (20, 20), (26, 26)]),
-    ("Caracteristica exterioară de turație; definitivarea memoriului", 3, [(16, 16), (21, 21), (27, 28), (30, 31)]),
-    ("Colocviu – susținerea proiectului", 2, [(30, 31)]),
+    ("Diagrama indicată p–V și p–α", 3, [(15, 15), (20, 20), (27, 27)]),
+    ("Caracteristica exterioară de turație; definitivarea memoriului", 3, [(16, 16), (21, 21), (28, 28), (30, 30)]),
+    ("Colocviu – susținerea proiectului", 2, [(30, 30)]),
 ]
 ST = ["Norme de securitate a muncii. Prezentarea laboratorului, a aparaturii și a platformei de achiziție",
       "Caracteristicile statice ale traductoarelor: sensibilitate, liniaritate, histerezis",
@@ -129,7 +129,7 @@ def lab_units(doc, labs, groups, intro=True):
     return out
 
 
-PORTF = dict(DA=[(4, 4), (37, 37)], MAM=[(4, 4), (42, 43)], SAA=[(3, 3)])
+PORTF = dict(DA=[(4, 4), (38, 38)], MAM=[(4, 4), (42, 43)], SAA=[(3, 3)])
 
 
 def portfolio(doc):

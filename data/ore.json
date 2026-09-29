@@ -26,8 +26,6 @@
 "cls": "arifr",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 1. Prezentarea proiectului și a temei; alegerea parametrilor inițiali; motorul de referință · Etapa 2. Calculul procesului de admisie",
-"nr": "E1, E2",
 "date": "2026-10-06",
 "time": "19:00",
 "end": "21:00",
@@ -37,8 +35,10 @@
 "loc": "A05",
 "seq": 1,
 "n": 13,
+"title": "Etapa 1. Prezentarea proiectului și a temei; alegerea parametrilor inițiali; motorul de referință · Etapa 2. Calculul procesului de admisie",
+"nr": "E1, E2",
 "parts": [
-"Îndrumar de proiect – PCMAI – p. 4–5, p. 6, p. 7–8, p. 17, p. 23, p. 34–35",
+"Îndrumar de proiect – PCMAI – p. 4–5, p. 6, p. 7–8, p. 17, p. 23, p. 33–34",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
 ],
 "extra": [
@@ -47,15 +47,13 @@
 "files/PCMAI_Calcul_termic_2026-2027.xlsx"
 ]
 ],
-"pdf": "pdf/arifr-pc-2026-10-06-1900-06a1af.pdf"
+"pdf": "pdf/arifr-pc-2026-10-06-1900-fae880.pdf"
 },
 {
 "id": "ar3-pc-s1-2026-10-07-1800",
 "cls": "ar3",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 1. Prezentarea proiectului și a temei; alegerea parametrilor inițiali; motorul de referință",
-"nr": "E1",
 "date": "2026-10-07",
 "time": "18:00",
 "end": "20:00",
@@ -65,8 +63,10 @@
 "loc": "C1M13",
 "seq": 1,
 "n": 14,
+"title": "Etapa 1. Prezentarea proiectului și a temei; alegerea parametrilor inițiali; motorul de referință",
+"nr": "E1",
 "parts": [
-"Îndrumar de proiect – PCMAI – p. 4–5, p. 6, p. 17, p. 23, p. 34–35",
+"Îndrumar de proiect – PCMAI – p. 4–5, p. 6, p. 17, p. 23, p. 33–34",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
 ],
 "extra": [
@@ -75,15 +75,13 @@
 "files/PCMAI_Calcul_termic_2026-2027.xlsx"
 ]
 ],
-"pdf": "pdf/ar3-pc-s1-2026-10-07-1800-8277ab.pdf"
+"pdf": "pdf/ar3-pc-s1-2026-10-07-1800-e89209.pdf"
 },
 {
 "id": "ar2-mf-s1-2026-10-08-1600",
 "cls": "ar2",
 "disc": "mf",
 "type": "l",
-"title": "Lucrarea 1. Vâscozitatea uleiurilor de motor în funcție de temperatură",
-"nr": "L1",
 "date": "2026-10-08",
 "time": "16:00",
 "end": "18:00",
@@ -93,6 +91,8 @@
 "loc": "C1M13",
 "seq": 1,
 "n": 7,
+"title": "Lucrarea 1. Vâscozitatea uleiurilor de motor în funcție de temperatură",
+"nr": "L1",
 "parts": [
 "Îndrumar de laborator – Mecanica fluidelor – Introducere și norme de securitate",
 "Îndrumar de laborator – Mecanica fluidelor – Lucrarea 1"
@@ -104,8 +104,6 @@
 "cls": "ar3",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 1. Prezentarea proiectului și a temei; alegerea parametrilor inițiali; motorul de referință",
-"nr": "E1",
 "date": "2026-10-08",
 "time": "18:00",
 "end": "20:00",
@@ -115,8 +113,10 @@
 "loc": "C1M13",
 "seq": 1,
 "n": 14,
+"title": "Etapa 1. Prezentarea proiectului și a temei; alegerea parametrilor inițiali; motorul de referință",
+"nr": "E1",
 "parts": [
-"Îndrumar de proiect – PCMAI – p. 4–5, p. 6, p. 17, p. 23, p. 34–35",
+"Îndrumar de proiect – PCMAI – p. 4–5, p. 6, p. 17, p. 23, p. 33–34",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
 ],
 "extra": [
@@ -125,7 +125,7 @@
 "files/PCMAI_Calcul_termic_2026-2027.xlsx"
 ]
 ],
-"pdf": "pdf/ar3-pc-s2-2026-10-08-1800-4176bb.pdf"
+"pdf": "pdf/ar3-pc-s2-2026-10-08-1800-d7695b.pdf"
 },
 {
 "id": "ar4-da-2026-10-09-1600",
@@ -175,8 +175,6 @@
 "cls": "arifr",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 2. Calculul procesului de admisie",
-"nr": "E2",
 "date": "2026-10-13",
 "time": "19:00",
 "end": "21:00",
@@ -186,6 +184,8 @@
 "loc": "A05",
 "seq": 2,
 "n": 13,
+"title": "Etapa 2. Calculul procesului de admisie",
+"nr": "E2",
 "parts": [
 "Îndrumar de proiect – PCMAI – p. 7–8, p. 17, p. 23",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
@@ -203,8 +203,6 @@
 "cls": "ar3",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 2. Calculul procesului de admisie",
-"nr": "E2",
 "date": "2026-10-14",
 "time": "18:00",
 "end": "20:00",
@@ -214,6 +212,8 @@
 "loc": "C1M13",
 "seq": 2,
 "n": 14,
+"title": "Etapa 2. Calculul procesului de admisie",
+"nr": "E2",
 "parts": [
 "Îndrumar de proiect – PCMAI – p. 7–8, p. 17, p. 23",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
@@ -231,8 +231,6 @@
 "cls": "ar2",
 "disc": "mf",
 "type": "l",
-"title": "Lucrarea 1. Vâscozitatea uleiurilor de motor în funcție de temperatură",
-"nr": "L1",
 "date": "2026-10-15",
 "time": "16:00",
 "end": "18:00",
@@ -242,6 +240,8 @@
 "loc": "C1M13",
 "seq": 1,
 "n": 7,
+"title": "Lucrarea 1. Vâscozitatea uleiurilor de motor în funcție de temperatură",
+"nr": "L1",
 "parts": [
 "Îndrumar de laborator – Mecanica fluidelor – Introducere și norme de securitate",
 "Îndrumar de laborator – Mecanica fluidelor – Lucrarea 1"
@@ -253,8 +253,6 @@
 "cls": "ar3",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 2. Calculul procesului de admisie",
-"nr": "E2",
 "date": "2026-10-15",
 "time": "18:00",
 "end": "20:00",
@@ -264,6 +262,8 @@
 "loc": "C1M13",
 "seq": 2,
 "n": 14,
+"title": "Etapa 2. Calculul procesului de admisie",
+"nr": "E2",
 "parts": [
 "Îndrumar de proiect – PCMAI – p. 7–8, p. 17, p. 23",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
@@ -324,8 +324,6 @@
 "cls": "arifr",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 2. Calculul procesului de admisie · Etapa 3. Calculul procesului de comprimare",
-"nr": "E2, E3",
 "date": "2026-10-20",
 "time": "19:00",
 "end": "21:00",
@@ -335,6 +333,8 @@
 "loc": "A05",
 "seq": 3,
 "n": 13,
+"title": "Etapa 2. Calculul procesului de admisie · Etapa 3. Calculul procesului de comprimare",
+"nr": "E2, E3",
 "parts": [
 "Îndrumar de proiect – PCMAI – p. 7–8, p. 9, p. 17, p. 18, p. 23, p. 24",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
@@ -352,8 +352,6 @@
 "cls": "ar3",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 2. Calculul procesului de admisie · Etapa 3. Calculul procesului de comprimare",
-"nr": "E2, E3",
 "date": "2026-10-21",
 "time": "18:00",
 "end": "20:00",
@@ -363,6 +361,8 @@
 "loc": "C1M13",
 "seq": 3,
 "n": 14,
+"title": "Etapa 2. Calculul procesului de admisie · Etapa 3. Calculul procesului de comprimare",
+"nr": "E2, E3",
 "parts": [
 "Îndrumar de proiect – PCMAI – p. 7–8, p. 9, p. 17, p. 18, p. 23, p. 24",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
@@ -380,8 +380,6 @@
 "cls": "ar2",
 "disc": "mf",
 "type": "l",
-"title": "Lucrarea 2. Compresibilitatea lichidului de frână și efectul aerului din circuit",
-"nr": "L2",
 "date": "2026-10-22",
 "time": "16:00",
 "end": "18:00",
@@ -391,6 +389,8 @@
 "loc": "C1M13",
 "seq": 2,
 "n": 7,
+"title": "Lucrarea 2. Compresibilitatea lichidului de frână și efectul aerului din circuit",
+"nr": "L2",
 "parts": [
 "Îndrumar de laborator – Mecanica fluidelor – Lucrarea 2"
 ],
@@ -401,8 +401,6 @@
 "cls": "ar3",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 2. Calculul procesului de admisie · Etapa 3. Calculul procesului de comprimare",
-"nr": "E2, E3",
 "date": "2026-10-22",
 "time": "18:00",
 "end": "20:00",
@@ -412,6 +410,8 @@
 "loc": "C1M13",
 "seq": 3,
 "n": 14,
+"title": "Etapa 2. Calculul procesului de admisie · Etapa 3. Calculul procesului de comprimare",
+"nr": "E2, E3",
 "parts": [
 "Îndrumar de proiect – PCMAI – p. 7–8, p. 9, p. 17, p. 18, p. 23, p. 24",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
@@ -472,8 +472,6 @@
 "cls": "arifr",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 3. Calculul procesului de comprimare · Etapa 4. Arderea: MAS – izocoră; MAC – întârzierea la autoaprindere și arderea izocoră",
-"nr": "E3, E4",
 "date": "2026-10-27",
 "time": "19:00",
 "end": "21:00",
@@ -483,6 +481,8 @@
 "loc": "A05",
 "seq": 4,
 "n": 13,
+"title": "Etapa 3. Calculul procesului de comprimare · Etapa 4. Arderea: MAS – izocoră; MAC – întârzierea la autoaprindere și arderea izocoră",
+"nr": "E3, E4",
 "parts": [
 "Îndrumar de proiect – PCMAI – p. 9, p. 10–11, p. 18, p. 24",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
@@ -500,8 +500,6 @@
 "cls": "ar3",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 3. Calculul procesului de comprimare · Etapa 4. Arderea: MAS – izocoră; MAC – întârzierea la autoaprindere și arderea izocoră",
-"nr": "E3, E4",
 "date": "2026-10-28",
 "time": "18:00",
 "end": "20:00",
@@ -511,6 +509,8 @@
 "loc": "C1M13",
 "seq": 4,
 "n": 14,
+"title": "Etapa 3. Calculul procesului de comprimare · Etapa 4. Arderea: MAS – izocoră; MAC – întârzierea la autoaprindere și arderea izocoră",
+"nr": "E3, E4",
 "parts": [
 "Îndrumar de proiect – PCMAI – p. 9, p. 10–11, p. 18, p. 24",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
@@ -528,8 +528,6 @@
 "cls": "ar2",
 "disc": "mf",
 "type": "l",
-"title": "Lucrarea 2. Compresibilitatea lichidului de frână și efectul aerului din circuit",
-"nr": "L2",
 "date": "2026-10-29",
 "time": "16:00",
 "end": "18:00",
@@ -539,6 +537,8 @@
 "loc": "C1M13",
 "seq": 2,
 "n": 7,
+"title": "Lucrarea 2. Compresibilitatea lichidului de frână și efectul aerului din circuit",
+"nr": "L2",
 "parts": [
 "Îndrumar de laborator – Mecanica fluidelor – Lucrarea 2"
 ],
@@ -549,8 +549,6 @@
 "cls": "ar3",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 3. Calculul procesului de comprimare · Etapa 4. Arderea: MAS – izocoră; MAC – întârzierea la autoaprindere și arderea izocoră",
-"nr": "E3, E4",
 "date": "2026-10-29",
 "time": "18:00",
 "end": "20:00",
@@ -560,6 +558,8 @@
 "loc": "C1M13",
 "seq": 4,
 "n": 14,
+"title": "Etapa 3. Calculul procesului de comprimare · Etapa 4. Arderea: MAS – izocoră; MAC – întârzierea la autoaprindere și arderea izocoră",
+"nr": "E3, E4",
 "parts": [
 "Îndrumar de proiect – PCMAI – p. 9, p. 10–11, p. 18, p. 24",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
@@ -620,8 +620,6 @@
 "cls": "arifr",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 4. Arderea: MAS – izocoră; MAC – întârzierea la autoaprindere și arderea izocoră · Etapa 5. Arderea izobară la MAC; rapoartele λp și ρ",
-"nr": "E4, E5",
 "date": "2026-11-03",
 "time": "19:00",
 "end": "21:00",
@@ -631,6 +629,8 @@
 "loc": "A05",
 "seq": 5,
 "n": 13,
+"title": "Etapa 4. Arderea: MAS – izocoră; MAC – întârzierea la autoaprindere și arderea izocoră · Etapa 5. Arderea izobară la MAC; rapoartele λp și ρ",
+"nr": "E4, E5",
 "parts": [
 "Îndrumar de proiect – PCMAI – p. 10–11, p. 18, p. 24, p. 24–25",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
@@ -648,8 +648,6 @@
 "cls": "ar3",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 4. Arderea: MAS – izocoră; MAC – întârzierea la autoaprindere și arderea izocoră",
-"nr": "E4",
 "date": "2026-11-04",
 "time": "18:00",
 "end": "20:00",
@@ -659,6 +657,8 @@
 "loc": "C1M13",
 "seq": 5,
 "n": 14,
+"title": "Etapa 4. Arderea: MAS – izocoră; MAC – întârzierea la autoaprindere și arderea izocoră",
+"nr": "E4",
 "parts": [
 "Îndrumar de proiect – PCMAI – p. 10–11, p. 18, p. 24",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
@@ -676,8 +676,6 @@
 "cls": "ar2",
 "disc": "mf",
 "type": "l",
-"title": "Lucrarea 3. Legea lui Pascal: transmiterea hidraulică a forței în sistemul de frânare",
-"nr": "L3",
 "date": "2026-11-05",
 "time": "16:00",
 "end": "18:00",
@@ -687,18 +685,18 @@
 "loc": "C1M13",
 "seq": 3,
 "n": 7,
+"title": "Lucrarea 3. Legea lui Pascal: transmiterea hidraulică a forței în sistemul de frânare",
+"nr": "L3",
 "parts": [
 "Îndrumar de laborator – Mecanica fluidelor – Lucrarea 3"
 ],
-"pdf": "pdf/ar2-mf-s1-2026-11-05-1600-34ab56.pdf"
+"pdf": "pdf/ar2-mf-s1-2026-11-05-1600-0a848e.pdf"
 },
 {
 "id": "ar3-pc-s2-2026-11-05-1800",
 "cls": "ar3",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 4. Arderea: MAS – izocoră; MAC – întârzierea la autoaprindere și arderea izocoră",
-"nr": "E4",
 "date": "2026-11-05",
 "time": "18:00",
 "end": "20:00",
@@ -708,6 +706,8 @@
 "loc": "C1M13",
 "seq": 5,
 "n": 14,
+"title": "Etapa 4. Arderea: MAS – izocoră; MAC – întârzierea la autoaprindere și arderea izocoră",
+"nr": "E4",
 "parts": [
 "Îndrumar de proiect – PCMAI – p. 10–11, p. 18, p. 24",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
@@ -740,7 +740,7 @@
 "Îndrumar de laborator – Diagnosticarea autovehiculelor – Lucrarea 3",
 "Îndrumar de laborator – Diagnosticarea autovehiculelor – Lucrarea 4"
 ],
-"pdf": "pdf/ar4-da-2026-11-06-1600-eb6b89.pdf"
+"pdf": "pdf/ar4-da-2026-11-06-1600-03f6b6.pdf"
 },
 {
 "id": "ar4-mam-2026-11-10-1600",
@@ -768,8 +768,6 @@
 "cls": "arifr",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 5. Arderea izobară la MAC; rapoartele λp și ρ · Etapa 6. Destinderea; verificarea temperaturii gazelor reziduale",
-"nr": "E5, E6",
 "date": "2026-11-10",
 "time": "19:00",
 "end": "21:00",
@@ -779,6 +777,8 @@
 "loc": "A05",
 "seq": 6,
 "n": 13,
+"title": "Etapa 5. Arderea izobară la MAC; rapoartele λp și ρ · Etapa 6. Destinderea; verificarea temperaturii gazelor reziduale",
+"nr": "E5, E6",
 "parts": [
 "Îndrumar de proiect – PCMAI – p. 10–11, p. 12, p. 19, p. 24–25, p. 25",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
@@ -796,8 +796,6 @@
 "cls": "ar3",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 5. Arderea izobară la MAC; rapoartele λp și ρ",
-"nr": "E5",
 "date": "2026-11-11",
 "time": "18:00",
 "end": "20:00",
@@ -807,6 +805,8 @@
 "loc": "C1M13",
 "seq": 6,
 "n": 14,
+"title": "Etapa 5. Arderea izobară la MAC; rapoartele λp și ρ",
+"nr": "E5",
 "parts": [
 "Îndrumar de proiect – PCMAI – p. 10–11, p. 24–25",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
@@ -824,8 +824,6 @@
 "cls": "ar2",
 "disc": "mf",
 "type": "l",
-"title": "Lucrarea 3. Legea lui Pascal: transmiterea hidraulică a forței în sistemul de frânare",
-"nr": "L3",
 "date": "2026-11-12",
 "time": "16:00",
 "end": "18:00",
@@ -835,18 +833,18 @@
 "loc": "C1M13",
 "seq": 3,
 "n": 7,
+"title": "Lucrarea 3. Legea lui Pascal: transmiterea hidraulică a forței în sistemul de frânare",
+"nr": "L3",
 "parts": [
 "Îndrumar de laborator – Mecanica fluidelor – Lucrarea 3"
 ],
-"pdf": "pdf/ar2-mf-s2-2026-11-12-1600-aa418e.pdf"
+"pdf": "pdf/ar2-mf-s2-2026-11-12-1600-bfc909.pdf"
 },
 {
 "id": "ar3-pc-s2-2026-11-12-1800",
 "cls": "ar3",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 5. Arderea izobară la MAC; rapoartele λp și ρ",
-"nr": "E5",
 "date": "2026-11-12",
 "time": "18:00",
 "end": "20:00",
@@ -856,6 +854,8 @@
 "loc": "C1M13",
 "seq": 6,
 "n": 14,
+"title": "Etapa 5. Arderea izobară la MAC; rapoartele λp și ρ",
+"nr": "E5",
 "parts": [
 "Îndrumar de proiect – PCMAI – p. 10–11, p. 24–25",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
@@ -915,8 +915,6 @@
 "cls": "arifr",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 6. Destinderea; verificarea temperaturii gazelor reziduale · Etapa 7. Parametrii indicați și efectivi",
-"nr": "E6, E7",
 "date": "2026-11-17",
 "time": "19:00",
 "end": "21:00",
@@ -926,6 +924,8 @@
 "loc": "A05",
 "seq": 7,
 "n": 13,
+"title": "Etapa 6. Destinderea; verificarea temperaturii gazelor reziduale · Etapa 7. Parametrii indicați și efectivi",
+"nr": "E6, E7",
 "parts": [
 "Îndrumar de proiect – PCMAI – p. 12, p. 13, p. 19, p. 25, p. 26",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
@@ -943,8 +943,6 @@
 "cls": "ar3",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 6. Destinderea; verificarea temperaturii gazelor reziduale",
-"nr": "E6",
 "date": "2026-11-18",
 "time": "18:00",
 "end": "20:00",
@@ -954,6 +952,8 @@
 "loc": "C1M13",
 "seq": 7,
 "n": 14,
+"title": "Etapa 6. Destinderea; verificarea temperaturii gazelor reziduale",
+"nr": "E6",
 "parts": [
 "Îndrumar de proiect – PCMAI – p. 12, p. 19, p. 25",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
@@ -971,8 +971,6 @@
 "cls": "ar2",
 "disc": "mf",
 "type": "l",
-"title": "Lucrarea 4. Ecuația lui Bernoulli și măsurarea debitului: tubul Venturi și tubul Pitot",
-"nr": "L4",
 "date": "2026-11-19",
 "time": "16:00",
 "end": "18:00",
@@ -982,18 +980,18 @@
 "loc": "C1M13",
 "seq": 4,
 "n": 7,
+"title": "Lucrarea 4. Ecuația lui Bernoulli și măsurarea debitului: tubul Venturi și tubul Pitot",
+"nr": "L4",
 "parts": [
 "Îndrumar de laborator – Mecanica fluidelor – Lucrarea 4"
 ],
-"pdf": "pdf/ar2-mf-s1-2026-11-19-1600-883a18.pdf"
+"pdf": "pdf/ar2-mf-s1-2026-11-19-1600-4d8d98.pdf"
 },
 {
 "id": "ar3-pc-s2-2026-11-19-1800",
 "cls": "ar3",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 6. Destinderea; verificarea temperaturii gazelor reziduale",
-"nr": "E6",
 "date": "2026-11-19",
 "time": "18:00",
 "end": "20:00",
@@ -1003,6 +1001,8 @@
 "loc": "C1M13",
 "seq": 7,
 "n": 14,
+"title": "Etapa 6. Destinderea; verificarea temperaturii gazelor reziduale",
+"nr": "E6",
 "parts": [
 "Îndrumar de proiect – PCMAI – p. 12, p. 19, p. 25",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
@@ -1034,7 +1034,7 @@
 "parts": [
 "Îndrumar de laborator – Diagnosticarea autovehiculelor – Lucrarea 5"
 ],
-"pdf": "pdf/ar4-da-2026-11-20-1600-a3a707.pdf"
+"pdf": "pdf/ar4-da-2026-11-20-1600-81a1f8.pdf"
 },
 {
 "id": "ar4-mam-2026-11-24-1600",
@@ -1062,8 +1062,6 @@
 "cls": "arifr",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 7. Parametrii indicați și efectivi · Etapa 8. Parametrii constructivi; compararea cu motorul de referință",
-"nr": "E7, E8",
 "date": "2026-11-24",
 "time": "19:00",
 "end": "21:00",
@@ -1073,6 +1071,8 @@
 "loc": "A05",
 "seq": 8,
 "n": 13,
+"title": "Etapa 7. Parametrii indicați și efectivi · Etapa 8. Parametrii constructivi; compararea cu motorul de referință",
+"nr": "E7, E8",
 "parts": [
 "Îndrumar de proiect – PCMAI – p. 13, p. 14, p. 19, p. 22, p. 26, p. 28",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
@@ -1090,8 +1090,6 @@
 "cls": "ar3",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 7. Parametrii indicați și efectivi",
-"nr": "E7",
 "date": "2026-11-25",
 "time": "18:00",
 "end": "20:00",
@@ -1101,6 +1099,8 @@
 "loc": "C1M13",
 "seq": 8,
 "n": 14,
+"title": "Etapa 7. Parametrii indicați și efectivi",
+"nr": "E7",
 "parts": [
 "Îndrumar de proiect – PCMAI – p. 13, p. 19, p. 26",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
@@ -1118,8 +1118,6 @@
 "cls": "ar2",
 "disc": "mf",
 "type": "l",
-"title": "Lucrarea 4. Ecuația lui Bernoulli și măsurarea debitului: tubul Venturi și tubul Pitot",
-"nr": "L4",
 "date": "2026-11-26",
 "time": "16:00",
 "end": "18:00",
@@ -1129,18 +1127,18 @@
 "loc": "C1M13",
 "seq": 4,
 "n": 7,
+"title": "Lucrarea 4. Ecuația lui Bernoulli și măsurarea debitului: tubul Venturi și tubul Pitot",
+"nr": "L4",
 "parts": [
 "Îndrumar de laborator – Mecanica fluidelor – Lucrarea 4"
 ],
-"pdf": "pdf/ar2-mf-s2-2026-11-26-1600-c66bf6.pdf"
+"pdf": "pdf/ar2-mf-s2-2026-11-26-1600-adb940.pdf"
 },
 {
 "id": "ar3-pc-s2-2026-11-26-1800",
 "cls": "ar3",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 7. Parametrii indicați și efectivi",
-"nr": "E7",
 "date": "2026-11-26",
 "time": "18:00",
 "end": "20:00",
@@ -1150,6 +1148,8 @@
 "loc": "C1M13",
 "seq": 8,
 "n": 14,
+"title": "Etapa 7. Parametrii indicați și efectivi",
+"nr": "E7",
 "parts": [
 "Îndrumar de proiect – PCMAI – p. 13, p. 19, p. 26",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
@@ -1182,15 +1182,13 @@
 "Îndrumar de laborator – Sisteme auxiliare ale autovehiculelor – Lucrarea 5",
 "Îndrumar de laborator – Sisteme auxiliare ale autovehiculelor – Lucrarea 6"
 ],
-"pdf": "pdf/ar4-saa-2026-11-27-1600-32993f.pdf"
+"pdf": "pdf/ar4-saa-2026-11-27-1600-c525ac.pdf"
 },
 {
 "id": "ar3-pc-s1-2026-12-02-1800",
 "cls": "ar3",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 7. Parametrii indicați și efectivi · Etapa 8. Parametrii constructivi; compararea cu motorul de referință",
-"nr": "E7, E8",
 "date": "2026-12-02",
 "time": "18:00",
 "end": "20:00",
@@ -1200,6 +1198,8 @@
 "loc": "C1M13",
 "seq": 9,
 "n": 14,
+"title": "Etapa 7. Parametrii indicați și efectivi · Etapa 8. Parametrii constructivi; compararea cu motorul de referință",
+"nr": "E7, E8",
 "parts": [
 "Îndrumar de proiect – PCMAI – p. 13, p. 14, p. 19, p. 22, p. 26, p. 28",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
@@ -1217,8 +1217,6 @@
 "cls": "ar2",
 "disc": "mf",
 "type": "l",
-"title": "Lucrarea 5. Regimuri de curgere. Experiența lui Reynolds",
-"nr": "L5",
 "date": "2026-12-03",
 "time": "16:00",
 "end": "18:00",
@@ -1228,18 +1226,18 @@
 "loc": "C1M13",
 "seq": 5,
 "n": 7,
+"title": "Lucrarea 5. Regimuri de curgere. Experiența lui Reynolds",
+"nr": "L5",
 "parts": [
 "Îndrumar de laborator – Mecanica fluidelor – Lucrarea 5"
 ],
-"pdf": "pdf/ar2-mf-s1-2026-12-03-1600-f06b94.pdf"
+"pdf": "pdf/ar2-mf-s1-2026-12-03-1600-cdfa7f.pdf"
 },
 {
 "id": "ar3-pc-s2-2026-12-03-1800",
 "cls": "ar3",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 7. Parametrii indicați și efectivi · Etapa 8. Parametrii constructivi; compararea cu motorul de referință",
-"nr": "E7, E8",
 "date": "2026-12-03",
 "time": "18:00",
 "end": "20:00",
@@ -1249,6 +1247,8 @@
 "loc": "C1M13",
 "seq": 9,
 "n": 14,
+"title": "Etapa 7. Parametrii indicați și efectivi · Etapa 8. Parametrii constructivi; compararea cu motorul de referință",
+"nr": "E7, E8",
 "parts": [
 "Îndrumar de proiect – PCMAI – p. 13, p. 14, p. 19, p. 22, p. 26, p. 28",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
@@ -1280,7 +1280,7 @@
 "parts": [
 "Îndrumar de laborator – Diagnosticarea autovehiculelor – Lucrarea 6"
 ],
-"pdf": "pdf/ar4-da-2026-12-04-1600-d4b31e.pdf"
+"pdf": "pdf/ar4-da-2026-12-04-1600-10db91.pdf"
 },
 {
 "id": "ar4-mam-2026-12-07-1800",
@@ -1330,8 +1330,6 @@
 "cls": "arifr",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 8. Parametrii constructivi; compararea cu motorul de referință",
-"nr": "E8",
 "date": "2026-12-08",
 "time": "19:00",
 "end": "21:00",
@@ -1341,6 +1339,8 @@
 "loc": "A05",
 "seq": 9,
 "n": 13,
+"title": "Etapa 8. Parametrii constructivi; compararea cu motorul de referință",
+"nr": "E8",
 "parts": [
 "Îndrumar de proiect – PCMAI – p. 14, p. 19, p. 22, p. 26, p. 28",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
@@ -1358,8 +1358,6 @@
 "cls": "ar3",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 8. Parametrii constructivi; compararea cu motorul de referință",
-"nr": "E8",
 "date": "2026-12-09",
 "time": "18:00",
 "end": "20:00",
@@ -1369,6 +1367,8 @@
 "loc": "C1M13",
 "seq": 10,
 "n": 14,
+"title": "Etapa 8. Parametrii constructivi; compararea cu motorul de referință",
+"nr": "E8",
 "parts": [
 "Îndrumar de proiect – PCMAI – p. 14, p. 19, p. 22, p. 26, p. 28",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
@@ -1386,8 +1386,6 @@
 "cls": "ar2",
 "disc": "mf",
 "type": "l",
-"title": "Lucrarea 5. Regimuri de curgere. Experiența lui Reynolds",
-"nr": "L5",
 "date": "2026-12-10",
 "time": "16:00",
 "end": "18:00",
@@ -1397,18 +1395,18 @@
 "loc": "C1M13",
 "seq": 5,
 "n": 7,
+"title": "Lucrarea 5. Regimuri de curgere. Experiența lui Reynolds",
+"nr": "L5",
 "parts": [
 "Îndrumar de laborator – Mecanica fluidelor – Lucrarea 5"
 ],
-"pdf": "pdf/ar2-mf-s2-2026-12-10-1600-b2266a.pdf"
+"pdf": "pdf/ar2-mf-s2-2026-12-10-1600-83d69b.pdf"
 },
 {
 "id": "ar3-pc-s2-2026-12-10-1800",
 "cls": "ar3",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 8. Parametrii constructivi; compararea cu motorul de referință",
-"nr": "E8",
 "date": "2026-12-10",
 "time": "18:00",
 "end": "20:00",
@@ -1418,6 +1416,8 @@
 "loc": "C1M13",
 "seq": 10,
 "n": 14,
+"title": "Etapa 8. Parametrii constructivi; compararea cu motorul de referință",
+"nr": "E8",
 "parts": [
 "Îndrumar de proiect – PCMAI – p. 14, p. 19, p. 22, p. 26, p. 28",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
@@ -1449,15 +1449,13 @@
 "parts": [
 "Îndrumar de laborator – Sisteme auxiliare ale autovehiculelor – Lucrarea 7"
 ],
-"pdf": "pdf/ar4-saa-2026-12-11-1600-ceb7b7.pdf"
+"pdf": "pdf/ar4-saa-2026-12-11-1600-e2ccb0.pdf"
 },
 {
 "id": "ar3-pc-s2-2026-12-14-1800",
 "cls": "ar3",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 9. Diagrama indicată p–V și p–α",
-"nr": "E9",
 "date": "2026-12-14",
 "time": "18:00",
 "end": "20:00",
@@ -1467,8 +1465,10 @@
 "loc": "C1M13",
 "seq": 11,
 "n": 14,
+"title": "Etapa 9. Diagrama indicată p–V și p–α",
+"nr": "E9",
 "parts": [
-"Îndrumar de proiect – PCMAI – p. 15, p. 20, p. 26",
+"Îndrumar de proiect – PCMAI – p. 15, p. 20, p. 27",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
 ],
 "rec": true,
@@ -1478,7 +1478,7 @@
 "files/PCMAI_Calcul_termic_2026-2027.xlsx"
 ]
 ],
-"pdf": "pdf/ar3-pc-s2-2026-12-14-1800-856687.pdf"
+"pdf": "pdf/ar3-pc-s2-2026-12-14-1800-fcde8f.pdf"
 },
 {
 "id": "ar4-mam-2026-12-15-1600",
@@ -1506,8 +1506,6 @@
 "cls": "arifr",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 8. Parametrii constructivi; compararea cu motorul de referință · Etapa 9. Diagrama indicată p–V și p–α",
-"nr": "E8, E9",
 "date": "2026-12-15",
 "time": "19:00",
 "end": "21:00",
@@ -1517,8 +1515,10 @@
 "loc": "A05",
 "seq": 10,
 "n": 13,
+"title": "Etapa 8. Parametrii constructivi; compararea cu motorul de referință · Etapa 9. Diagrama indicată p–V și p–α",
+"nr": "E8, E9",
 "parts": [
-"Îndrumar de proiect – PCMAI – p. 14, p. 15, p. 19, p. 20, p. 22, p. 26, p. 28",
+"Îndrumar de proiect – PCMAI – p. 14, p. 15, p. 19, p. 20, p. 22, p. 26, p. 27, p. 28",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
 ],
 "extra": [
@@ -1527,15 +1527,13 @@
 "files/PCMAI_Calcul_termic_2026-2027.xlsx"
 ]
 ],
-"pdf": "pdf/arifr-pc-2026-12-15-1900-0aa041.pdf"
+"pdf": "pdf/arifr-pc-2026-12-15-1900-202d2e.pdf"
 },
 {
 "id": "ar3-pc-s1-2026-12-16-1800",
 "cls": "ar3",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 9. Diagrama indicată p–V și p–α",
-"nr": "E9",
 "date": "2026-12-16",
 "time": "18:00",
 "end": "20:00",
@@ -1545,8 +1543,10 @@
 "loc": "C1M13",
 "seq": 11,
 "n": 14,
+"title": "Etapa 9. Diagrama indicată p–V și p–α",
+"nr": "E9",
 "parts": [
-"Îndrumar de proiect – PCMAI – p. 15, p. 20, p. 26",
+"Îndrumar de proiect – PCMAI – p. 15, p. 20, p. 27",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
 ],
 "extra": [
@@ -1555,15 +1555,13 @@
 "files/PCMAI_Calcul_termic_2026-2027.xlsx"
 ]
 ],
-"pdf": "pdf/ar3-pc-s1-2026-12-16-1800-e89d4f.pdf"
+"pdf": "pdf/ar3-pc-s1-2026-12-16-1800-12020d.pdf"
 },
 {
 "id": "ar2-mf-s1-2026-12-17-1600",
 "cls": "ar2",
 "disc": "mf",
 "type": "l",
-"title": "Lucrarea 6. Pierderi de sarcină longitudinale și locale într-un circuit de răcire",
-"nr": "L6",
 "date": "2026-12-17",
 "time": "16:00",
 "end": "18:00",
@@ -1573,18 +1571,18 @@
 "loc": "C1M13",
 "seq": 6,
 "n": 7,
+"title": "Lucrarea 6. Pierderi de sarcină longitudinale și locale într-un circuit de răcire",
+"nr": "L6",
 "parts": [
 "Îndrumar de laborator – Mecanica fluidelor – Lucrarea 6"
 ],
-"pdf": "pdf/ar2-mf-s1-2026-12-17-1600-08275f.pdf"
+"pdf": "pdf/ar2-mf-s1-2026-12-17-1600-849cee.pdf"
 },
 {
 "id": "ar3-pc-s2-2026-12-17-1800",
 "cls": "ar3",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 9. Diagrama indicată p–V și p–α · Etapa 10. Caracteristica exterioară de turație; definitivarea memoriului",
-"nr": "E9, E10",
 "date": "2026-12-17",
 "time": "18:00",
 "end": "20:00",
@@ -1594,8 +1592,10 @@
 "loc": "C1M13",
 "seq": 12,
 "n": 14,
+"title": "Etapa 9. Diagrama indicată p–V și p–α · Etapa 10. Caracteristica exterioară de turație; definitivarea memoriului",
+"nr": "E9, E10",
 "parts": [
-"Îndrumar de proiect – PCMAI – p. 15, p. 16, p. 20, p. 21, p. 26, p. 27–28, p. 30–31",
+"Îndrumar de proiect – PCMAI – p. 15, p. 16, p. 20, p. 21, p. 27, p. 28, p. 30",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
 ],
 "extra": [
@@ -1604,7 +1604,7 @@
 "files/PCMAI_Calcul_termic_2026-2027.xlsx"
 ]
 ],
-"pdf": "pdf/ar3-pc-s2-2026-12-17-1800-77031a.pdf"
+"pdf": "pdf/ar3-pc-s2-2026-12-17-1800-45735d.pdf"
 },
 {
 "id": "ar4-da-2026-12-18-1600",
@@ -1625,7 +1625,7 @@
 "parts": [
 "Îndrumar de laborator – Diagnosticarea autovehiculelor – Lucrarea 7"
 ],
-"pdf": "pdf/ar4-da-2026-12-18-1600-4d8171.pdf"
+"pdf": "pdf/ar4-da-2026-12-18-1600-f60e0c.pdf"
 },
 {
 "id": "ar4-saa-2026-12-18-1800",
@@ -1647,15 +1647,13 @@
 "Îndrumar de laborator – Sisteme auxiliare ale autovehiculelor – Lucrarea 8"
 ],
 "rec": true,
-"pdf": "pdf/ar4-saa-2026-12-18-1800-01dc93.pdf"
+"pdf": "pdf/ar4-saa-2026-12-18-1800-d89c48.pdf"
 },
 {
 "id": "ar2-mf-s2-2026-12-21-1800",
 "cls": "ar2",
 "disc": "mf",
 "type": "l",
-"title": "Lucrarea 6. Pierderi de sarcină longitudinale și locale într-un circuit de răcire",
-"nr": "L6",
 "date": "2026-12-21",
 "time": "18:00",
 "end": "20:00",
@@ -1665,11 +1663,13 @@
 "loc": "C1M13",
 "seq": 6,
 "n": 7,
+"title": "Lucrarea 6. Pierderi de sarcină longitudinale și locale într-un circuit de răcire",
+"nr": "L6",
 "parts": [
 "Îndrumar de laborator – Mecanica fluidelor – Lucrarea 6"
 ],
 "rec": true,
-"pdf": "pdf/ar2-mf-s2-2026-12-21-1800-66b2b7.pdf"
+"pdf": "pdf/ar2-mf-s2-2026-12-21-1800-4ec026.pdf"
 },
 {
 "id": "ar4-mam-2026-12-22-1600",
@@ -1697,8 +1697,6 @@
 "cls": "arifr",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 9. Diagrama indicată p–V și p–α · Etapa 10. Caracteristica exterioară de turație; definitivarea memoriului",
-"nr": "E9, E10",
 "date": "2026-12-22",
 "time": "19:00",
 "end": "21:00",
@@ -1708,8 +1706,10 @@
 "loc": "A05",
 "seq": 11,
 "n": 13,
+"title": "Etapa 9. Diagrama indicată p–V și p–α · Etapa 10. Caracteristica exterioară de turație; definitivarea memoriului",
+"nr": "E9, E10",
 "parts": [
-"Îndrumar de proiect – PCMAI – p. 15, p. 16, p. 20, p. 21, p. 26, p. 27–28, p. 30–31",
+"Îndrumar de proiect – PCMAI – p. 15, p. 16, p. 20, p. 21, p. 27, p. 28, p. 30",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
 ],
 "extra": [
@@ -1718,15 +1718,13 @@
 "files/PCMAI_Calcul_termic_2026-2027.xlsx"
 ]
 ],
-"pdf": "pdf/arifr-pc-2026-12-22-1900-b806a3.pdf"
+"pdf": "pdf/arifr-pc-2026-12-22-1900-bbd6a4.pdf"
 },
 {
 "id": "ar3-pc-s1-2026-12-23-1800",
 "cls": "ar3",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 9. Diagrama indicată p–V și p–α · Etapa 10. Caracteristica exterioară de turație; definitivarea memoriului",
-"nr": "E9, E10",
 "date": "2026-12-23",
 "time": "18:00",
 "end": "20:00",
@@ -1736,8 +1734,10 @@
 "loc": "C1M13",
 "seq": 12,
 "n": 14,
+"title": "Etapa 9. Diagrama indicată p–V și p–α · Etapa 10. Caracteristica exterioară de turație; definitivarea memoriului",
+"nr": "E9, E10",
 "parts": [
-"Îndrumar de proiect – PCMAI – p. 15, p. 16, p. 20, p. 21, p. 26, p. 27–28, p. 30–31",
+"Îndrumar de proiect – PCMAI – p. 15, p. 16, p. 20, p. 21, p. 27, p. 28, p. 30",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
 ],
 "extra": [
@@ -1746,7 +1746,7 @@
 "files/PCMAI_Calcul_termic_2026-2027.xlsx"
 ]
 ],
-"pdf": "pdf/ar3-pc-s1-2026-12-23-1800-e1c754.pdf"
+"pdf": "pdf/ar3-pc-s1-2026-12-23-1800-0e217f.pdf"
 },
 {
 "id": "ar4-mam-2027-01-12-1600",
@@ -1774,8 +1774,6 @@
 "cls": "arifr",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 10. Caracteristica exterioară de turație; definitivarea memoriului",
-"nr": "E10",
 "date": "2027-01-12",
 "time": "19:00",
 "end": "21:00",
@@ -1785,8 +1783,10 @@
 "loc": "A05",
 "seq": 12,
 "n": 13,
+"title": "Etapa 10. Caracteristica exterioară de turație; definitivarea memoriului",
+"nr": "E10",
 "parts": [
-"Îndrumar de proiect – PCMAI – p. 16, p. 21, p. 27–28, p. 30–31",
+"Îndrumar de proiect – PCMAI – p. 16, p. 21, p. 28, p. 30",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
 ],
 "extra": [
@@ -1795,15 +1795,13 @@
 "files/PCMAI_Calcul_termic_2026-2027.xlsx"
 ]
 ],
-"pdf": "pdf/arifr-pc-2027-01-12-1900-39194c.pdf"
+"pdf": "pdf/arifr-pc-2027-01-12-1900-38505f.pdf"
 },
 {
 "id": "ar3-pc-s1-2027-01-13-1800",
 "cls": "ar3",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 10. Caracteristica exterioară de turație; definitivarea memoriului",
-"nr": "E10",
 "date": "2027-01-13",
 "time": "18:00",
 "end": "20:00",
@@ -1813,8 +1811,10 @@
 "loc": "C1M13",
 "seq": 13,
 "n": 14,
+"title": "Etapa 10. Caracteristica exterioară de turație; definitivarea memoriului",
+"nr": "E10",
 "parts": [
-"Îndrumar de proiect – PCMAI – p. 16, p. 21, p. 27–28, p. 30–31",
+"Îndrumar de proiect – PCMAI – p. 16, p. 21, p. 28, p. 30",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
 ],
 "extra": [
@@ -1823,15 +1823,13 @@
 "files/PCMAI_Calcul_termic_2026-2027.xlsx"
 ]
 ],
-"pdf": "pdf/ar3-pc-s1-2027-01-13-1800-81dd14.pdf"
+"pdf": "pdf/ar3-pc-s1-2027-01-13-1800-c8a80c.pdf"
 },
 {
 "id": "ar2-mf-s2-2027-01-14-1600",
 "cls": "ar2",
 "disc": "mf",
 "type": "l",
-"title": "Lucrarea 7. Definitivarea și susținerea referatelor",
-"nr": "L7",
 "date": "2027-01-14",
 "time": "16:00",
 "end": "18:00",
@@ -1841,18 +1839,18 @@
 "loc": "C1M13",
 "seq": 7,
 "n": 7,
+"title": "Lucrarea 7. Definitivarea și susținerea referatelor",
+"nr": "L7",
 "parts": [
 "Îndrumar de laborator – Mecanica fluidelor – Lucrarea 7"
 ],
-"pdf": "pdf/ar2-mf-s2-2027-01-14-1600-d2824f.pdf"
+"pdf": "pdf/ar2-mf-s2-2027-01-14-1600-ac8c10.pdf"
 },
 {
 "id": "ar3-pc-s2-2027-01-14-1800",
 "cls": "ar3",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 10. Caracteristica exterioară de turație; definitivarea memoriului",
-"nr": "E10",
 "date": "2027-01-14",
 "time": "18:00",
 "end": "20:00",
@@ -1862,8 +1860,10 @@
 "loc": "C1M13",
 "seq": 13,
 "n": 14,
+"title": "Etapa 10. Caracteristica exterioară de turație; definitivarea memoriului",
+"nr": "E10",
 "parts": [
-"Îndrumar de proiect – PCMAI – p. 16, p. 21, p. 27–28, p. 30–31",
+"Îndrumar de proiect – PCMAI – p. 16, p. 21, p. 28, p. 30",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
 ],
 "extra": [
@@ -1872,7 +1872,7 @@
 "files/PCMAI_Calcul_termic_2026-2027.xlsx"
 ]
 ],
-"pdf": "pdf/ar3-pc-s2-2027-01-14-1800-6b888d.pdf"
+"pdf": "pdf/ar3-pc-s2-2027-01-14-1800-9171d3.pdf"
 },
 {
 "id": "ar4-saa-2027-01-15-1600",
@@ -1923,8 +1923,6 @@
 "cls": "arifr",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 10. Caracteristica exterioară de turație; definitivarea memoriului · Etapa 11. Colocviu – susținerea proiectului",
-"nr": "E10, E11",
 "date": "2027-01-19",
 "time": "19:00",
 "end": "21:00",
@@ -1934,8 +1932,10 @@
 "loc": "A05",
 "seq": 13,
 "n": 13,
+"title": "Etapa 10. Caracteristica exterioară de turație; definitivarea memoriului · Etapa 11. Colocviu – susținerea proiectului",
+"nr": "E10, E11",
 "parts": [
-"Îndrumar de proiect – PCMAI – p. 16, p. 21, p. 27–28, p. 30–31",
+"Îndrumar de proiect – PCMAI – p. 16, p. 21, p. 28, p. 30",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
 ],
 "extra": [
@@ -1944,15 +1944,13 @@
 "files/PCMAI_Calcul_termic_2026-2027.xlsx"
 ]
 ],
-"pdf": "pdf/arifr-pc-2027-01-19-1900-d79d6c.pdf"
+"pdf": "pdf/arifr-pc-2027-01-19-1900-d04c29.pdf"
 },
 {
 "id": "ar3-pc-s1-2027-01-20-1800",
 "cls": "ar3",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 11. Colocviu – susținerea proiectului",
-"nr": "E11",
 "date": "2027-01-20",
 "time": "18:00",
 "end": "20:00",
@@ -1962,8 +1960,10 @@
 "loc": "C1M13",
 "seq": 14,
 "n": 14,
+"title": "Etapa 11. Colocviu – susținerea proiectului",
+"nr": "E11",
 "parts": [
-"Îndrumar de proiect – PCMAI – p. 30–31",
+"Îndrumar de proiect – PCMAI – p. 30",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
 ],
 "extra": [
@@ -1972,15 +1972,13 @@
 "files/PCMAI_Calcul_termic_2026-2027.xlsx"
 ]
 ],
-"pdf": "pdf/ar3-pc-s1-2027-01-20-1800-7edac2.pdf"
+"pdf": "pdf/ar3-pc-s1-2027-01-20-1800-e593e1.pdf"
 },
 {
 "id": "ar2-mf-s1-2027-01-21-1600",
 "cls": "ar2",
 "disc": "mf",
 "type": "l",
-"title": "Lucrarea 7. Definitivarea și susținerea referatelor",
-"nr": "L7",
 "date": "2027-01-21",
 "time": "16:00",
 "end": "18:00",
@@ -1990,18 +1988,18 @@
 "loc": "C1M13",
 "seq": 7,
 "n": 7,
+"title": "Lucrarea 7. Definitivarea și susținerea referatelor",
+"nr": "L7",
 "parts": [
 "Îndrumar de laborator – Mecanica fluidelor – Lucrarea 7"
 ],
-"pdf": "pdf/ar2-mf-s1-2027-01-21-1600-b000c6.pdf"
+"pdf": "pdf/ar2-mf-s1-2027-01-21-1600-2b7343.pdf"
 },
 {
 "id": "ar3-pc-s2-2027-01-21-1800",
 "cls": "ar3",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 11. Colocviu – susținerea proiectului",
-"nr": "E11",
 "date": "2027-01-21",
 "time": "18:00",
 "end": "20:00",
@@ -2011,8 +2009,10 @@
 "loc": "C1M13",
 "seq": 14,
 "n": 14,
+"title": "Etapa 11. Colocviu – susținerea proiectului",
+"nr": "E11",
 "parts": [
-"Îndrumar de proiect – PCMAI – p. 30–31",
+"Îndrumar de proiect – PCMAI – p. 30",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
 ],
 "extra": [
@@ -2021,7 +2021,7 @@
 "files/PCMAI_Calcul_termic_2026-2027.xlsx"
 ]
 ],
-"pdf": "pdf/ar3-pc-s2-2027-01-21-1800-db1d82.pdf"
+"pdf": "pdf/ar3-pc-s2-2027-01-21-1800-7265f7.pdf"
 },
 {
 "id": "ar4-da-2027-01-22-1600",
@@ -2043,6 +2043,6 @@
 "Îndrumar de laborator – Diagnosticarea autovehiculelor – cerințele referatului și evaluarea",
 "Portofoliul conține referatele tuturor lucrărilor efectuate, cu tabelele de rezultate completate"
 ],
-"pdf": "pdf/ar4-da-2027-01-22-1600-3ea235.pdf"
+"pdf": "pdf/ar4-da-2027-01-22-1600-1e1e46.pdf"
 }
 ]
