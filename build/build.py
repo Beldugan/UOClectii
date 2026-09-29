@@ -21,6 +21,7 @@ F = dict(
     MAM=f"{SRC}/AR IF/Mecatronica automobilului modern I/MAM_I_Indrumar_laborator_2026-2027.pdf",
     PC=f"{SRC}/AR IF/PCMAI proiect/PCMAI_Indrumar_proiect_2026-2027.pdf",
     IAII=f"{SRC}/IAII/IAII_Laboratoare_Beldugan_2026-2027.pdf",
+    ST=f"{SRC}/IAII/Senzori si traductoare/ST_Indrumar_laborator_2026-2027.pdf",
 )
 XLSX = f"{SRC}/AR IF/PCMAI proiect/PCMAI_Calcul_termic_2026-2027.xlsx"
 if not os.path.exists(XLSX):
@@ -28,7 +29,8 @@ if not os.path.exists(XLSX):
 
 MAN = dict(MF="Îndrumar de laborator – Mecanica fluidelor", SAA="Îndrumar de laborator – Sisteme auxiliare ale autovehiculelor",
            DA="Îndrumar de laborator – Diagnosticarea autovehiculelor", MAM="Îndrumar de laborator – Mecatronica automobilului modern I",
-           PC="Îndrumar de proiect – PCMAI", IAII="Programa propusă a laboratoarelor IAII")
+           PC="Îndrumar de proiect – PCMAI", IAII="Programa propusă a laboratoarelor IAII",
+           ST="Îndrumar de laborator – Senzori și traductoare")
 
 # ------------------------------------------------ conținut pe lucrări: (titlu, [(doc, a, b), ...])
 MF = [
@@ -175,6 +177,34 @@ def iaii_units(names, page, groups):
     return out
 
 
+STL = [
+    ('Norme de securitate a muncii. Lanțul de măsură și platforma de achiziție', 6, 9),
+    ('Caracteristicile statice ale traductoarelor și incertitudinea de măsurare', 10, 13),
+    ('Traductoare rezistive de temperatură (Pt100/Pt1000) – condiționare în punte, liniarizare', 14, 17),
+    ('Termistoare NTC și termocupluri – condiționare, compensarea joncțiunii reci', 18, 21),
+    ('Traductoare de deplasare liniară: potențiometric, capacitiv și LVDT', 22, 25),
+    ('Encodere incrementale și absolute – decodarea semnalelor A/B, măsurarea turației', 26, 29),
+    ('Traductoare tensometrice – măsurarea forței și a deformației (punte Wheatstone, celulă de sarcină)', 30, 33),
+    ('Traductoare de presiune piezorezistive – ieșire analogică și 4–20 mA', 34, 36),
+    ('Senzori inductivi și capacitivi de proximitate (industriali, PNP/NPN)', 37, 40),
+    ('Senzori optici și ultrasonici de distanță și prezență', 41, 43),
+    ('Accelerometre și IMU – măsurarea vibrațiilor', 44, 46),
+    ('Interfațarea industrială: bucla de curent 4–20 mA, conversia analog-numerică', 47, 49),
+    ('Senzori digitali și rețele de senzori: I²C, SPI, Modbus RTU, IO-Link', 50, 53),
+    ('Aplicație finală de achiziție de date. Verificarea referatelor – colocviu de laborator', 54, 56),
+]
+
+
+def st_portfolio():
+    """Ultima ședință ST: evaluarea portofoliului; aplicația finală (L14) se prezintă aici."""
+    return dict(title="Evaluarea portofoliului de lucrări de laborator (referatele L1–L13 și aplicația finală – Lucrarea 14)",
+                pages=[("ST", 54, 58)],
+                parts=[f"{MAN['ST']} – Lucrarea 14. Aplicație finală de achiziție de date",
+                       f"{MAN['ST']} – Anexa A (modelul referatului) și Anexa B (grila de evaluare)",
+                       "Portofoliul conține referatele lucrărilor 1–13, cu fișierele de date, și aplicația finală"],
+                nr="Portofoliu")
+
+
 S = lambda *ix: [(i, "") for i in ix]
 UNITS = {
     "mf": lab_units("MF", MF, [S(i) for i in range(7)]),
@@ -183,7 +213,8 @@ UNITS = {
     "da": lab_units("DA", DA, [S(0), S(1), S(2, 3), S(4), S(5), S(6)]) + [portfolio("DA")],
     "mam": lab_units("MAM", MAM, [[(0, "a")], [(0, "b")], S(1), S(2, 3), S(4), S(5), S(6),
                                    [(7, "a")], [(7, "b")], [(8, "a")], [(8, "b")], [(9, "a")], [(9, "b")]]) + [portfolio("MAM")],
-    "st": iaii_units(ST, 1, [[i] for i in range(14)]),
+    # IAII III: 13 lucrări + ultima ședință = evaluarea portofoliului
+    "st": lab_units("ST", STL, [S(i) for i in range(13)]) + [st_portfolio()],
     "api": iaii_units(API, 2, [[i] for i in range(14)]),
 }
 

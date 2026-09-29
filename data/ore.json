@@ -1,5 +1,27 @@
 [
 {
+"id": "iaii3-st-2026-10-05-1600",
+"cls": "iaii3",
+"disc": "st",
+"type": "l",
+"date": "2026-10-05",
+"time": "16:00",
+"end": "18:00",
+"week": 2,
+"module": "Senzori și traductoare",
+"sgr": "",
+"loc": "sală de stabilit",
+"seq": 1,
+"n": 14,
+"title": "Lucrarea 1. Norme de securitate a muncii. Lanțul de măsură și platforma de achiziție",
+"nr": "L1",
+"parts": [
+"Îndrumar de laborator – Senzori și traductoare – Introducere și norme de securitate",
+"Îndrumar de laborator – Senzori și traductoare – Lucrarea 1"
+],
+"pdf": "pdf/iaii3-st-2026-10-05-1600-69f1f7.pdf"
+},
+{
 "id": "ar4-mam-2026-10-06-1600",
 "cls": "ar4",
 "disc": "mam",
@@ -148,6 +170,27 @@
 "Îndrumar de laborator – Diagnosticarea autovehiculelor – Lucrarea 1"
 ],
 "pdf": "pdf/ar4-da-2026-10-09-1600-ed3c3a.pdf"
+},
+{
+"id": "iaii3-st-2026-10-12-1600",
+"cls": "iaii3",
+"disc": "st",
+"type": "l",
+"date": "2026-10-12",
+"time": "16:00",
+"end": "18:00",
+"week": 3,
+"module": "Senzori și traductoare",
+"sgr": "",
+"loc": "sală de stabilit",
+"seq": 2,
+"n": 14,
+"title": "Lucrarea 2. Caracteristicile statice ale traductoarelor și incertitudinea de măsurare",
+"nr": "L2",
+"parts": [
+"Îndrumar de laborator – Senzori și traductoare – Lucrarea 2"
+],
+"pdf": "pdf/iaii3-st-2026-10-12-1600-ec0c5f.pdf"
 },
 {
 "id": "ar4-mam-2026-10-13-1600",
@@ -299,6 +342,27 @@
 "pdf": "pdf/ar4-saa-2026-10-16-1600-4d97f3.pdf"
 },
 {
+"id": "iaii3-st-2026-10-19-1600",
+"cls": "iaii3",
+"disc": "st",
+"type": "l",
+"date": "2026-10-19",
+"time": "16:00",
+"end": "18:00",
+"week": 4,
+"module": "Senzori și traductoare",
+"sgr": "",
+"loc": "sală de stabilit",
+"seq": 3,
+"n": 14,
+"title": "Lucrarea 3. Traductoare rezistive de temperatură (Pt100/Pt1000) – condiționare în punte, liniarizare",
+"nr": "L3",
+"parts": [
+"Îndrumar de laborator – Senzori și traductoare – Lucrarea 3"
+],
+"pdf": "pdf/iaii3-st-2026-10-19-1600-6a987a.pdf"
+},
+{
 "id": "ar4-mam-2026-10-20-1600",
 "cls": "ar4",
 "disc": "mam",
@@ -444,6 +508,27 @@
 "Îndrumar de laborator – Diagnosticarea autovehiculelor – Lucrarea 2"
 ],
 "pdf": "pdf/ar4-da-2026-10-23-1600-3afc1c.pdf"
+},
+{
+"id": "iaii3-st-2026-10-26-1600",
+"cls": "iaii3",
+"disc": "st",
+"type": "l",
+"date": "2026-10-26",
+"time": "16:00",
+"end": "18:00",
+"week": 5,
+"module": "Senzori și traductoare",
+"sgr": "",
+"loc": "sală de stabilit",
+"seq": 4,
+"n": 14,
+"title": "Lucrarea 4. Termistoare NTC și termocupluri – condiționare, compensarea joncțiunii reci",
+"nr": "L4",
+"parts": [
+"Îndrumar de laborator – Senzori și traductoare – Lucrarea 4"
+],
+"pdf": "pdf/iaii3-st-2026-10-26-1600-824106.pdf"
 },
 {
 "id": "ar4-mam-2026-10-27-1600",
@@ -595,6 +680,27 @@
 "pdf": "pdf/ar4-saa-2026-10-30-1600-619424.pdf"
 },
 {
+"id": "iaii3-st-2026-11-02-1600",
+"cls": "iaii3",
+"disc": "st",
+"type": "l",
+"date": "2026-11-02",
+"time": "16:00",
+"end": "18:00",
+"week": 6,
+"module": "Senzori și traductoare",
+"sgr": "",
+"loc": "sală de stabilit",
+"seq": 5,
+"n": 14,
+"title": "Lucrarea 5. Traductoare de deplasare liniară: potențiometric, capacitiv și LVDT",
+"nr": "L5",
+"parts": [
+"Îndrumar de laborator – Senzori și traductoare – Lucrarea 5"
+],
+"pdf": "pdf/iaii3-st-2026-11-02-1600-04aa08.pdf"
+},
+{
 "id": "ar4-mam-2026-11-03-1600",
 "cls": "ar4",
 "disc": "mam",
@@ -741,6 +847,27 @@
 "Îndrumar de laborator – Diagnosticarea autovehiculelor – Lucrarea 4"
 ],
 "pdf": "pdf/ar4-da-2026-11-06-1600-03f6b6.pdf"
+},
+{
+"id": "iaii3-st-2026-11-09-1600",
+"cls": "iaii3",
+"disc": "st",
+"type": "l",
+"date": "2026-11-09",
+"time": "16:00",
+"end": "18:00",
+"week": 7,
+"module": "Senzori și traductoare",
+"sgr": "",
+"loc": "sală de stabilit",
+"seq": 6,
+"n": 14,
+"title": "Lucrarea 6. Encodere incrementale și absolute – decodarea semnalelor A/B, măsurarea turației",
+"nr": "L6",
+"parts": [
+"Îndrumar de laborator – Senzori și traductoare – Lucrarea 6"
+],
+"pdf": "pdf/iaii3-st-2026-11-09-1600-bf80b1.pdf"
 },
 {
 "id": "ar4-mam-2026-11-10-1600",
@@ -890,6 +1017,27 @@
 "pdf": "pdf/ar4-saa-2026-11-13-1600-94a89f.pdf"
 },
 {
+"id": "iaii3-st-2026-11-16-1600",
+"cls": "iaii3",
+"disc": "st",
+"type": "l",
+"date": "2026-11-16",
+"time": "16:00",
+"end": "18:00",
+"week": 8,
+"module": "Senzori și traductoare",
+"sgr": "",
+"loc": "sală de stabilit",
+"seq": 7,
+"n": 14,
+"title": "Lucrarea 7. Traductoare tensometrice – măsurarea forței și a deformației (punte Wheatstone, celulă de sarcină)",
+"nr": "L7",
+"parts": [
+"Îndrumar de laborator – Senzori și traductoare – Lucrarea 7"
+],
+"pdf": "pdf/iaii3-st-2026-11-16-1600-3d7992.pdf"
+},
+{
 "id": "ar4-mam-2026-11-17-1600",
 "cls": "ar4",
 "disc": "mam",
@@ -1035,6 +1183,27 @@
 "Îndrumar de laborator – Diagnosticarea autovehiculelor – Lucrarea 5"
 ],
 "pdf": "pdf/ar4-da-2026-11-20-1600-81a1f8.pdf"
+},
+{
+"id": "iaii3-st-2026-11-23-1600",
+"cls": "iaii3",
+"disc": "st",
+"type": "l",
+"date": "2026-11-23",
+"time": "16:00",
+"end": "18:00",
+"week": 9,
+"module": "Senzori și traductoare",
+"sgr": "",
+"loc": "sală de stabilit",
+"seq": 8,
+"n": 14,
+"title": "Lucrarea 8. Traductoare de presiune piezorezistive – ieșire analogică și 4–20 mA",
+"nr": "L8",
+"parts": [
+"Îndrumar de laborator – Senzori și traductoare – Lucrarea 8"
+],
+"pdf": "pdf/iaii3-st-2026-11-23-1600-92170b.pdf"
 },
 {
 "id": "ar4-mam-2026-11-24-1600",
@@ -1283,6 +1452,48 @@
 "pdf": "pdf/ar4-da-2026-12-04-1600-10db91.pdf"
 },
 {
+"id": "iaii3-st-2026-12-04-1800",
+"cls": "iaii3",
+"disc": "st",
+"type": "l",
+"date": "2026-12-04",
+"time": "18:00",
+"end": "20:00",
+"week": 10,
+"module": "Senzori și traductoare",
+"sgr": "",
+"loc": "sală de stabilit",
+"seq": 9,
+"n": 14,
+"title": "Lucrarea 9. Senzori inductivi și capacitivi de proximitate (industriali, PNP/NPN)",
+"nr": "L9",
+"parts": [
+"Îndrumar de laborator – Senzori și traductoare – Lucrarea 9"
+],
+"pdf": "pdf/iaii3-st-2026-12-04-1800-787f50.pdf"
+},
+{
+"id": "iaii3-st-2026-12-07-1600",
+"cls": "iaii3",
+"disc": "st",
+"type": "l",
+"date": "2026-12-07",
+"time": "16:00",
+"end": "18:00",
+"week": 11,
+"module": "Senzori și traductoare",
+"sgr": "",
+"loc": "sală de stabilit",
+"seq": 10,
+"n": 14,
+"title": "Lucrarea 10. Senzori optici și ultrasonici de distanță și prezență",
+"nr": "L10",
+"parts": [
+"Îndrumar de laborator – Senzori și traductoare – Lucrarea 10"
+],
+"pdf": "pdf/iaii3-st-2026-12-07-1600-6bc9b6.pdf"
+},
+{
 "id": "ar4-mam-2026-12-07-1800",
 "cls": "ar4",
 "disc": "mam",
@@ -1450,6 +1661,27 @@
 "Îndrumar de laborator – Sisteme auxiliare ale autovehiculelor – Lucrarea 7"
 ],
 "pdf": "pdf/ar4-saa-2026-12-11-1600-e2ccb0.pdf"
+},
+{
+"id": "iaii3-st-2026-12-14-1600",
+"cls": "iaii3",
+"disc": "st",
+"type": "l",
+"date": "2026-12-14",
+"time": "16:00",
+"end": "18:00",
+"week": 12,
+"module": "Senzori și traductoare",
+"sgr": "",
+"loc": "sală de stabilit",
+"seq": 11,
+"n": 14,
+"title": "Lucrarea 11. Accelerometre și IMU – măsurarea vibrațiilor",
+"nr": "L11",
+"parts": [
+"Îndrumar de laborator – Senzori și traductoare – Lucrarea 11"
+],
+"pdf": "pdf/iaii3-st-2026-12-14-1600-af1aca.pdf"
 },
 {
 "id": "ar3-pc-s2-2026-12-14-1800",
@@ -1650,6 +1882,27 @@
 "pdf": "pdf/ar4-saa-2026-12-18-1800-d89c48.pdf"
 },
 {
+"id": "iaii3-st-2026-12-21-1600",
+"cls": "iaii3",
+"disc": "st",
+"type": "l",
+"date": "2026-12-21",
+"time": "16:00",
+"end": "18:00",
+"week": 13,
+"module": "Senzori și traductoare",
+"sgr": "",
+"loc": "sală de stabilit",
+"seq": 12,
+"n": 14,
+"title": "Lucrarea 12. Interfațarea industrială: bucla de curent 4–20 mA, conversia analog-numerică",
+"nr": "L12",
+"parts": [
+"Îndrumar de laborator – Senzori și traductoare – Lucrarea 12"
+],
+"pdf": "pdf/iaii3-st-2026-12-21-1600-e8b6bb.pdf"
+},
+{
 "id": "ar2-mf-s2-2026-12-21-1800",
 "cls": "ar2",
 "disc": "mf",
@@ -1747,6 +2000,27 @@
 ]
 ],
 "pdf": "pdf/ar3-pc-s1-2026-12-23-1800-0e217f.pdf"
+},
+{
+"id": "iaii3-st-2027-01-11-1600",
+"cls": "iaii3",
+"disc": "st",
+"type": "l",
+"date": "2027-01-11",
+"time": "16:00",
+"end": "18:00",
+"week": 14,
+"module": "Senzori și traductoare",
+"sgr": "",
+"loc": "sală de stabilit",
+"seq": 13,
+"n": 14,
+"title": "Lucrarea 13. Senzori digitali și rețele de senzori: I²C, SPI, Modbus RTU, IO-Link",
+"nr": "L13",
+"parts": [
+"Îndrumar de laborator – Senzori și traductoare – Lucrarea 13"
+],
+"pdf": "pdf/iaii3-st-2027-01-11-1600-a16d8b.pdf"
 },
 {
 "id": "ar4-mam-2027-01-12-1600",
@@ -1895,6 +2169,29 @@
 "Portofoliul conține referatele tuturor lucrărilor efectuate, cu tabelele de rezultate completate"
 ],
 "pdf": "pdf/ar4-saa-2027-01-15-1600-5b389b.pdf"
+},
+{
+"id": "iaii3-st-2027-01-18-1600",
+"cls": "iaii3",
+"disc": "st",
+"type": "l",
+"date": "2027-01-18",
+"time": "16:00",
+"end": "18:00",
+"week": 15,
+"module": "Senzori și traductoare",
+"sgr": "",
+"loc": "sală de stabilit",
+"seq": 14,
+"n": 14,
+"title": "Evaluarea portofoliului de lucrări de laborator (referatele L1–L13 și aplicația finală – Lucrarea 14)",
+"nr": "Portofoliu",
+"parts": [
+"Îndrumar de laborator – Senzori și traductoare – Lucrarea 14. Aplicație finală de achiziție de date",
+"Îndrumar de laborator – Senzori și traductoare – Anexa A (modelul referatului) și Anexa B (grila de evaluare)",
+"Portofoliul conține referatele lucrărilor 1–13, cu fișierele de date, și aplicația finală"
+],
+"pdf": "pdf/iaii3-st-2027-01-18-1600-79207b.pdf"
 },
 {
 "id": "ar4-mam-2027-01-19-1600",
