@@ -191,7 +191,7 @@ STL = [
     ('Accelerometre și IMU – măsurarea vibrațiilor', 44, 46),
     ('Interfațarea industrială: bucla de curent 4–20 mA, conversia analog-numerică', 47, 49),
     ('Senzori digitali și rețele de senzori: I²C, SPI, Modbus RTU, IO-Link', 50, 53),
-    ('Aplicație finală de achiziție de date. Verificarea referatelor – colocviu de laborator', 54, 56),
+    ('Aplicație finală de achiziție de date. Evaluarea portofoliului de lucrări de laborator', 54, 56),
 ]
 
 
@@ -199,7 +199,7 @@ def st_portfolio():
     """Ultima ședință ST: evaluarea portofoliului; aplicația finală (L14) se prezintă aici."""
     return dict(title="Evaluarea portofoliului de lucrări de laborator (referatele L1–L13 și aplicația finală – Lucrarea 14)",
                 pages=[("ST", 54, 58)],
-                parts=[f"{MAN['ST']} – Lucrarea 14. Aplicație finală de achiziție de date",
+                parts=[f"{MAN['ST']} – Lucrarea 14. Aplicație finală de achiziție de date. Evaluarea portofoliului de lucrări de laborator",
                        f"{MAN['ST']} – Anexa A (modelul referatului) și Anexa B (grila de evaluare)",
                        "Portofoliul conține referatele lucrărilor 1–13, cu fișierele de date, și aplicația finală"],
                 nr="Portofoliu")
