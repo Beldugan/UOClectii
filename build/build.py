@@ -17,7 +17,7 @@ EV = "/tmp/claude-0/uoc/ev1.json"
 F = dict(
     MF=f"{SRC}/AR IF/Mecanica Fluidelor/MF_Indrumar_laborator_2026-2027.pdf",
     SAA=f"{SRC}/AR IF/Sisteme auxiliare ale autovehiculelor/SAA_Indrumar_laborator_2026-2027.pdf",
-    DA=f"{SRC}/AR IF/Diagnosticarea autovehiculelor/Diagnosticarea_autovehiculelor_Indrumar_laborator_2026-2027.pdf",
+    DA=f"{SRC}/AR IF/Diagnosticarea autovehiculelor/diagnosticare/haicu finalul diagnosticare/Diagnosticarea_autovehiculelor_Indrumar_laborator_2026.pdf",
     MAM=f"{SRC}/AR IF/Mecatronica automobilului modern I/MAM_I_Indrumar_laborator_2026-2027.pdf",
     PC=f"{SRC}/AR IF/PCMAI proiect/PCMAI_Indrumar_proiect_2026-2027.pdf",
     IAII=f"{SRC}/IAII/IAII_Laboratoare_Beldugan_2026-2027.pdf",
@@ -51,13 +51,13 @@ SAA = [
     ("Sistemul de climatizare și pompa de căldură – determinarea parametrilor de funcționare", 33, 37),
 ]
 DA = [
-    ("Diagnoza computerizată și rețeaua de date CAN", 6, 11),
-    ("Senzori și actuatori – date live și semnale reale", 12, 17),
-    ("Starea mecanică a motorului", 18, 22),
-    ("Sistemul de alimentare MAS și analiza gazelor de evacuare", 23, 27),
-    ("Motorul diesel common rail și sistemele de post-tratare (EGR, DPF, SCR)", 28, 33),
-    ("Sistemul de frânare cu ABS/ESC și sistemele ADAS", 34, 39),
-    ("Vehicule electrice și hibride; diagnoza pe bază de date", 40, 48),
+    ("Diagnoza computerizată și rețeaua de date CAN", 5, 9),
+    ("Senzori și actuatori – date live și semnale reale", 10, 14),
+    ("Starea mecanică a motorului", 15, 18),
+    ("Sistemul de alimentare MAS și analiza gazelor de evacuare", 19, 22),
+    ("Motorul diesel common rail și sistemele de post-tratare (EGR, DPF, SCR)", 23, 27),
+    ("Sistemul de frânare cu ABS/ESC și sistemele ADAS", 28, 31),
+    ("Vehicule electrice și hibride: siguranța HV, bateria, invertorul și motorul electric", 32, 38),
 ]
 MAM = [
     ("Microcontrolere: intrări/ieșiri, convertor A/D, timere, întreruperi și PWM", 6, 9),
@@ -72,7 +72,7 @@ MAM = [
     ("Magistrala CAN: construirea mesajelor, arbitrajul și decodarea semnalelor", 38, 44),
 ]
 PCS = [  # etape de proiect: (titlu, ore, pagini)
-    ("Prezentarea proiectului și a temei; alegerea parametrilor inițiali; motorul de referință", 2, [(6, 6), (17, 17), (23, 23), (34, 35)]),
+    ("Prezentarea proiectului și a temei; alegerea parametrilor inițiali; motorul de referință", 2, [(4, 5), (6, 6), (17, 17), (23, 23), (34, 35)]),
     ("Calculul procesului de admisie", 3, [(7, 8), (17, 17), (23, 23)]),
     ("Calculul procesului de comprimare", 2, [(9, 9), (18, 18), (24, 24)]),
     ("Arderea: MAS – izocoră; MAC – întârzierea la autoaprindere și arderea izocoră", 3, [(10, 11), (18, 18), (24, 24)]),

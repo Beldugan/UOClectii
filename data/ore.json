@@ -1,27 +1,5 @@
 [
 {
-"id": "iaii3-st-2026-10-05-1600",
-"cls": "iaii3",
-"disc": "st",
-"type": "l",
-"title": "Lucrarea 1. Norme de securitate a muncii. Prezentarea laboratorului, a aparaturii și a platformei de achiziție",
-"nr": "L1",
-"date": "2026-10-05",
-"time": "16:00",
-"end": "18:00",
-"week": 2,
-"module": "Senzori și traductoare",
-"sgr": "",
-"loc": "sală de stabilit",
-"seq": 1,
-"n": 14,
-"parts": [
-"Programa propusă a laboratoarelor (de validat cu titularul de curs)",
-"Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
-],
-"pdf": "pdf/iaii3-st-2026-10-05-1600-d5731c.pdf"
-},
-{
 "id": "ar4-mam-2026-10-06-1600",
 "cls": "ar4",
 "disc": "mam",
@@ -60,7 +38,7 @@
 "seq": 1,
 "n": 13,
 "parts": [
-"Îndrumar de proiect – PCMAI – p. 6, p. 7–8, p. 17, p. 23, p. 34–35",
+"Îndrumar de proiect – PCMAI – p. 4–5, p. 6, p. 7–8, p. 17, p. 23, p. 34–35",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
 ],
 "extra": [
@@ -69,29 +47,7 @@
 "files/PCMAI_Calcul_termic_2026-2027.xlsx"
 ]
 ],
-"pdf": "pdf/arifr-pc-2026-10-06-1900-2037c6.pdf"
-},
-{
-"id": "iaii3-api-2026-10-07-1600",
-"cls": "iaii3",
-"disc": "api",
-"type": "l",
-"title": "Lucrarea 1. Norme de securitate a muncii. Mediul de lucru Python + OpenCV; citirea și afișarea imaginilor",
-"nr": "L1",
-"date": "2026-10-07",
-"time": "16:00",
-"end": "18:00",
-"week": 2,
-"module": "Analiza și prelucrarea imaginilor",
-"sgr": "",
-"loc": "sală de stabilit",
-"seq": 1,
-"n": 14,
-"parts": [
-"Programa propusă a laboratoarelor (de validat cu titularul de curs)",
-"Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
-],
-"pdf": "pdf/iaii3-api-2026-10-07-1600-70daf2.pdf"
+"pdf": "pdf/arifr-pc-2026-10-06-1900-06a1af.pdf"
 },
 {
 "id": "ar3-pc-s1-2026-10-07-1800",
@@ -110,7 +66,7 @@
 "seq": 1,
 "n": 14,
 "parts": [
-"Îndrumar de proiect – PCMAI – p. 6, p. 17, p. 23, p. 34–35",
+"Îndrumar de proiect – PCMAI – p. 4–5, p. 6, p. 17, p. 23, p. 34–35",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
 ],
 "extra": [
@@ -119,7 +75,7 @@
 "files/PCMAI_Calcul_termic_2026-2027.xlsx"
 ]
 ],
-"pdf": "pdf/ar3-pc-s1-2026-10-07-1800-2087c4.pdf"
+"pdf": "pdf/ar3-pc-s1-2026-10-07-1800-8277ab.pdf"
 },
 {
 "id": "ar2-mf-s1-2026-10-08-1600",
@@ -160,7 +116,7 @@
 "seq": 1,
 "n": 14,
 "parts": [
-"Îndrumar de proiect – PCMAI – p. 6, p. 17, p. 23, p. 34–35",
+"Îndrumar de proiect – PCMAI – p. 4–5, p. 6, p. 17, p. 23, p. 34–35",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
 ],
 "extra": [
@@ -169,7 +125,7 @@
 "files/PCMAI_Calcul_termic_2026-2027.xlsx"
 ]
 ],
-"pdf": "pdf/ar3-pc-s2-2026-10-08-1800-d90974.pdf"
+"pdf": "pdf/ar3-pc-s2-2026-10-08-1800-4176bb.pdf"
 },
 {
 "id": "ar4-da-2026-10-09-1600",
@@ -191,29 +147,7 @@
 "Îndrumar de laborator – Diagnosticarea autovehiculelor – Introducere și norme de securitate",
 "Îndrumar de laborator – Diagnosticarea autovehiculelor – Lucrarea 1"
 ],
-"pdf": "pdf/ar4-da-2026-10-09-1600-45d214.pdf"
-},
-{
-"id": "iaii3-st-2026-10-12-1600",
-"cls": "iaii3",
-"disc": "st",
-"type": "l",
-"title": "Lucrarea 2. Caracteristicile statice ale traductoarelor: sensibilitate, liniaritate, histerezis",
-"nr": "L2",
-"date": "2026-10-12",
-"time": "16:00",
-"end": "18:00",
-"week": 3,
-"module": "Senzori și traductoare",
-"sgr": "",
-"loc": "sală de stabilit",
-"seq": 2,
-"n": 14,
-"parts": [
-"Programa propusă a laboratoarelor (de validat cu titularul de curs)",
-"Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
-],
-"pdf": "pdf/iaii3-st-2026-10-12-1600-5f0f63.pdf"
+"pdf": "pdf/ar4-da-2026-10-09-1600-ed3c3a.pdf"
 },
 {
 "id": "ar4-mam-2026-10-13-1600",
@@ -263,28 +197,6 @@
 ]
 ],
 "pdf": "pdf/arifr-pc-2026-10-13-1900-82a110.pdf"
-},
-{
-"id": "iaii3-api-2026-10-14-1600",
-"cls": "iaii3",
-"disc": "api",
-"type": "l",
-"title": "Lucrarea 2. Reprezentarea imaginilor digitale; spații de culoare și conversii (RGB, HSV, niveluri de gri)",
-"nr": "L2",
-"date": "2026-10-14",
-"time": "16:00",
-"end": "18:00",
-"week": 3,
-"module": "Analiza și prelucrarea imaginilor",
-"sgr": "",
-"loc": "sală de stabilit",
-"seq": 2,
-"n": 14,
-"parts": [
-"Programa propusă a laboratoarelor (de validat cu titularul de curs)",
-"Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
-],
-"pdf": "pdf/iaii3-api-2026-10-14-1600-bb7090.pdf"
 },
 {
 "id": "ar3-pc-s1-2026-10-14-1800",
@@ -387,28 +299,6 @@
 "pdf": "pdf/ar4-saa-2026-10-16-1600-4d97f3.pdf"
 },
 {
-"id": "iaii3-st-2026-10-19-1600",
-"cls": "iaii3",
-"disc": "st",
-"type": "l",
-"title": "Lucrarea 3. Traductoare rezistive de temperatură (Pt100/Pt1000) – condiționare în punte, liniarizare",
-"nr": "L3",
-"date": "2026-10-19",
-"time": "16:00",
-"end": "18:00",
-"week": 4,
-"module": "Senzori și traductoare",
-"sgr": "",
-"loc": "sală de stabilit",
-"seq": 3,
-"n": 14,
-"parts": [
-"Programa propusă a laboratoarelor (de validat cu titularul de curs)",
-"Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
-],
-"pdf": "pdf/iaii3-st-2026-10-19-1600-5bd426.pdf"
-},
-{
 "id": "ar4-mam-2026-10-20-1600",
 "cls": "ar4",
 "disc": "mam",
@@ -456,28 +346,6 @@
 ]
 ],
 "pdf": "pdf/arifr-pc-2026-10-20-1900-ccc96c.pdf"
-},
-{
-"id": "iaii3-api-2026-10-21-1600",
-"cls": "iaii3",
-"disc": "api",
-"type": "l",
-"title": "Lucrarea 3. Histograma; operații punctuale – ajustarea contrastului, egalizarea histogramei",
-"nr": "L3",
-"date": "2026-10-21",
-"time": "16:00",
-"end": "18:00",
-"week": 4,
-"module": "Analiza și prelucrarea imaginilor",
-"sgr": "",
-"loc": "sală de stabilit",
-"seq": 3,
-"n": 14,
-"parts": [
-"Programa propusă a laboratoarelor (de validat cu titularul de curs)",
-"Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
-],
-"pdf": "pdf/iaii3-api-2026-10-21-1600-1297f4.pdf"
 },
 {
 "id": "ar3-pc-s1-2026-10-21-1800",
@@ -575,29 +443,7 @@
 "parts": [
 "Îndrumar de laborator – Diagnosticarea autovehiculelor – Lucrarea 2"
 ],
-"pdf": "pdf/ar4-da-2026-10-23-1600-7b6571.pdf"
-},
-{
-"id": "iaii3-st-2026-10-26-1600",
-"cls": "iaii3",
-"disc": "st",
-"type": "l",
-"title": "Lucrarea 4. Termistoare NTC/PTC și termocupluri – condiționare, compensarea joncțiunii reci",
-"nr": "L4",
-"date": "2026-10-26",
-"time": "16:00",
-"end": "18:00",
-"week": 5,
-"module": "Senzori și traductoare",
-"sgr": "",
-"loc": "sală de stabilit",
-"seq": 4,
-"n": 14,
-"parts": [
-"Programa propusă a laboratoarelor (de validat cu titularul de curs)",
-"Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
-],
-"pdf": "pdf/iaii3-st-2026-10-26-1600-177bc6.pdf"
+"pdf": "pdf/ar4-da-2026-10-23-1600-3afc1c.pdf"
 },
 {
 "id": "ar4-mam-2026-10-27-1600",
@@ -647,28 +493,6 @@
 ]
 ],
 "pdf": "pdf/arifr-pc-2026-10-27-1900-63da7a.pdf"
-},
-{
-"id": "iaii3-api-2026-10-28-1600",
-"cls": "iaii3",
-"disc": "api",
-"type": "l",
-"title": "Lucrarea 4. Binarizarea imaginilor: prag global, metoda Otsu, prag adaptiv",
-"nr": "L4",
-"date": "2026-10-28",
-"time": "16:00",
-"end": "18:00",
-"week": 5,
-"module": "Analiza și prelucrarea imaginilor",
-"sgr": "",
-"loc": "sală de stabilit",
-"seq": 4,
-"n": 14,
-"parts": [
-"Programa propusă a laboratoarelor (de validat cu titularul de curs)",
-"Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
-],
-"pdf": "pdf/iaii3-api-2026-10-28-1600-3c6589.pdf"
 },
 {
 "id": "ar3-pc-s1-2026-10-28-1800",
@@ -770,28 +594,6 @@
 "pdf": "pdf/ar4-saa-2026-10-30-1600-619424.pdf"
 },
 {
-"id": "iaii3-st-2026-11-02-1600",
-"cls": "iaii3",
-"disc": "st",
-"type": "l",
-"title": "Lucrarea 5. Traductoare de deplasare liniară și unghiulară: potențiometric, LVDT",
-"nr": "L5",
-"date": "2026-11-02",
-"time": "16:00",
-"end": "18:00",
-"week": 6,
-"module": "Senzori și traductoare",
-"sgr": "",
-"loc": "sală de stabilit",
-"seq": 5,
-"n": 14,
-"parts": [
-"Programa propusă a laboratoarelor (de validat cu titularul de curs)",
-"Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
-],
-"pdf": "pdf/iaii3-st-2026-11-02-1600-78dffb.pdf"
-},
-{
 "id": "ar4-mam-2026-11-03-1600",
 "cls": "ar4",
 "disc": "mam",
@@ -839,28 +641,6 @@
 ]
 ],
 "pdf": "pdf/arifr-pc-2026-11-03-1900-82feae.pdf"
-},
-{
-"id": "iaii3-api-2026-11-04-1600",
-"cls": "iaii3",
-"disc": "api",
-"type": "l",
-"title": "Lucrarea 5. Filtrarea în domeniul spațial; reducerea zgomotului (filtre medie, Gauss, median)",
-"nr": "L5",
-"date": "2026-11-04",
-"time": "16:00",
-"end": "18:00",
-"week": 6,
-"module": "Analiza și prelucrarea imaginilor",
-"sgr": "",
-"loc": "sală de stabilit",
-"seq": 5,
-"n": 14,
-"parts": [
-"Programa propusă a laboratoarelor (de validat cu titularul de curs)",
-"Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
-],
-"pdf": "pdf/iaii3-api-2026-11-04-1600-fc53b3.pdf"
 },
 {
 "id": "ar3-pc-s1-2026-11-04-1800",
@@ -958,29 +738,7 @@
 "parts": [
 "Îndrumar de laborator – Diagnosticarea autovehiculelor – Lucrarea 3"
 ],
-"pdf": "pdf/ar4-da-2026-11-06-1600-ff3a57.pdf"
-},
-{
-"id": "iaii3-st-2026-11-09-1600",
-"cls": "iaii3",
-"disc": "st",
-"type": "l",
-"title": "Lucrarea 6. Encodere incrementale/absolute – decodarea semnalelor A/B, măsurarea turației",
-"nr": "L6",
-"date": "2026-11-09",
-"time": "16:00",
-"end": "18:00",
-"week": 7,
-"module": "Senzori și traductoare",
-"sgr": "",
-"loc": "sală de stabilit",
-"seq": 6,
-"n": 14,
-"parts": [
-"Programa propusă a laboratoarelor (de validat cu titularul de curs)",
-"Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
-],
-"pdf": "pdf/iaii3-st-2026-11-09-1600-c6e6b8.pdf"
+"pdf": "pdf/ar4-da-2026-11-06-1600-714a80.pdf"
 },
 {
 "id": "ar4-mam-2026-11-10-1600",
@@ -1030,28 +788,6 @@
 ]
 ],
 "pdf": "pdf/arifr-pc-2026-11-10-1900-b72ef4.pdf"
-},
-{
-"id": "iaii3-api-2026-11-11-1600",
-"cls": "iaii3",
-"disc": "api",
-"type": "l",
-"title": "Lucrarea 6. Detecția muchiilor: operatori Sobel, Prewitt, Canny",
-"nr": "L6",
-"date": "2026-11-11",
-"time": "16:00",
-"end": "18:00",
-"week": 7,
-"module": "Analiza și prelucrarea imaginilor",
-"sgr": "",
-"loc": "sală de stabilit",
-"seq": 6,
-"n": 14,
-"parts": [
-"Programa propusă a laboratoarelor (de validat cu titularul de curs)",
-"Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
-],
-"pdf": "pdf/iaii3-api-2026-11-11-1600-c86f65.pdf"
 },
 {
 "id": "ar3-pc-s1-2026-11-11-1800",
@@ -1152,28 +888,6 @@
 "pdf": "pdf/ar4-saa-2026-11-13-1600-94a89f.pdf"
 },
 {
-"id": "iaii3-st-2026-11-16-1600",
-"cls": "iaii3",
-"disc": "st",
-"type": "l",
-"title": "Lucrarea 7. Traductoare tensometrice – măsurarea forței și a deformației (punte Wheatstone, celulă de sarcină)",
-"nr": "L7",
-"date": "2026-11-16",
-"time": "16:00",
-"end": "18:00",
-"week": 8,
-"module": "Senzori și traductoare",
-"sgr": "",
-"loc": "sală de stabilit",
-"seq": 7,
-"n": 14,
-"parts": [
-"Programa propusă a laboratoarelor (de validat cu titularul de curs)",
-"Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
-],
-"pdf": "pdf/iaii3-st-2026-11-16-1600-56823d.pdf"
-},
-{
 "id": "ar4-mam-2026-11-17-1600",
 "cls": "ar4",
 "disc": "mam",
@@ -1221,28 +935,6 @@
 ]
 ],
 "pdf": "pdf/arifr-pc-2026-11-17-1900-49cf3c.pdf"
-},
-{
-"id": "iaii3-api-2026-11-18-1600",
-"cls": "iaii3",
-"disc": "api",
-"type": "l",
-"title": "Lucrarea 7. Operații morfologice pe imagini binare: eroziune, dilatare, deschidere, închidere",
-"nr": "L7",
-"date": "2026-11-18",
-"time": "16:00",
-"end": "18:00",
-"week": 8,
-"module": "Analiza și prelucrarea imaginilor",
-"sgr": "",
-"loc": "sală de stabilit",
-"seq": 7,
-"n": 14,
-"parts": [
-"Programa propusă a laboratoarelor (de validat cu titularul de curs)",
-"Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
-],
-"pdf": "pdf/iaii3-api-2026-11-18-1600-84062a.pdf"
 },
 {
 "id": "ar3-pc-s1-2026-11-18-1800",
@@ -1340,29 +1032,7 @@
 "parts": [
 "Îndrumar de laborator – Diagnosticarea autovehiculelor – Lucrarea 4"
 ],
-"pdf": "pdf/ar4-da-2026-11-20-1600-a3a707.pdf"
-},
-{
-"id": "iaii3-st-2026-11-23-1600",
-"cls": "iaii3",
-"disc": "st",
-"type": "l",
-"title": "Lucrarea 8. Traductoare de presiune piezorezistive – ieșire analogică și digitală",
-"nr": "L8",
-"date": "2026-11-23",
-"time": "16:00",
-"end": "18:00",
-"week": 9,
-"module": "Senzori și traductoare",
-"sgr": "",
-"loc": "sală de stabilit",
-"seq": 8,
-"n": 14,
-"parts": [
-"Programa propusă a laboratoarelor (de validat cu titularul de curs)",
-"Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
-],
-"pdf": "pdf/iaii3-st-2026-11-23-1600-9573c6.pdf"
+"pdf": "pdf/ar4-da-2026-11-20-1600-676190.pdf"
 },
 {
 "id": "ar4-mam-2026-11-24-1600",
@@ -1412,28 +1082,6 @@
 ]
 ],
 "pdf": "pdf/arifr-pc-2026-11-24-1900-8af990.pdf"
-},
-{
-"id": "iaii3-api-2026-11-25-1600",
-"cls": "iaii3",
-"disc": "api",
-"type": "l",
-"title": "Lucrarea 8. Etichetarea componentelor conexe; proprietăți geometrice ale obiectelor",
-"nr": "L8",
-"date": "2026-11-25",
-"time": "16:00",
-"end": "18:00",
-"week": 9,
-"module": "Analiza și prelucrarea imaginilor",
-"sgr": "",
-"loc": "sală de stabilit",
-"seq": 8,
-"n": 14,
-"parts": [
-"Programa propusă a laboratoarelor (de validat cu titularul de curs)",
-"Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
-],
-"pdf": "pdf/iaii3-api-2026-11-25-1600-9570e6.pdf"
 },
 {
 "id": "ar3-pc-s1-2026-11-25-1800",
@@ -1534,28 +1182,6 @@
 "pdf": "pdf/ar4-saa-2026-11-27-1600-17fe42.pdf"
 },
 {
-"id": "iaii3-api-2026-12-02-1600",
-"cls": "iaii3",
-"disc": "api",
-"type": "l",
-"title": "Lucrarea 9. Transformări geometrice; calibrarea camerei și măsurarea dimensională din imagini",
-"nr": "L9",
-"date": "2026-12-02",
-"time": "16:00",
-"end": "18:00",
-"week": 10,
-"module": "Analiza și prelucrarea imaginilor",
-"sgr": "",
-"loc": "sală de stabilit",
-"seq": 9,
-"n": 14,
-"parts": [
-"Programa propusă a laboratoarelor (de validat cu titularul de curs)",
-"Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
-],
-"pdf": "pdf/iaii3-api-2026-12-02-1600-dd1595.pdf"
-},
-{
 "id": "ar3-pc-s1-2026-12-02-1800",
 "cls": "ar3",
 "disc": "pc",
@@ -1651,52 +1277,7 @@
 "parts": [
 "Îndrumar de laborator – Diagnosticarea autovehiculelor – Lucrarea 5"
 ],
-"pdf": "pdf/ar4-da-2026-12-04-1600-3d7ea7.pdf"
-},
-{
-"id": "iaii3-st-2026-12-04-1800",
-"cls": "iaii3",
-"disc": "st",
-"type": "l",
-"title": "Lucrarea 9. Senzori inductivi și capacitivi de proximitate (industriali, PNP/NPN)",
-"nr": "L9",
-"date": "2026-12-04",
-"time": "18:00",
-"end": "20:00",
-"week": 10,
-"module": "Senzori și traductoare",
-"sgr": "",
-"loc": "sală de stabilit",
-"seq": 9,
-"n": 14,
-"parts": [
-"Programa propusă a laboratoarelor (de validat cu titularul de curs)",
-"Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
-],
-"rec": true,
-"pdf": "pdf/iaii3-st-2026-12-04-1800-8c9cf1.pdf"
-},
-{
-"id": "iaii3-st-2026-12-07-1600",
-"cls": "iaii3",
-"disc": "st",
-"type": "l",
-"title": "Lucrarea 10. Senzori optici și ultrasonici de distanță/prezență",
-"nr": "L10",
-"date": "2026-12-07",
-"time": "16:00",
-"end": "18:00",
-"week": 11,
-"module": "Senzori și traductoare",
-"sgr": "",
-"loc": "sală de stabilit",
-"seq": 10,
-"n": 14,
-"parts": [
-"Programa propusă a laboratoarelor (de validat cu titularul de curs)",
-"Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
-],
-"pdf": "pdf/iaii3-st-2026-12-07-1600-439e68.pdf"
+"pdf": "pdf/ar4-da-2026-12-04-1600-1c2f03.pdf"
 },
 {
 "id": "ar4-mam-2026-12-07-1800",
@@ -1768,28 +1349,6 @@
 ]
 ],
 "pdf": "pdf/arifr-pc-2026-12-08-1900-5cbd49.pdf"
-},
-{
-"id": "iaii3-api-2026-12-09-1600",
-"cls": "iaii3",
-"disc": "api",
-"type": "l",
-"title": "Lucrarea 10. Transformata Hough – detecția liniilor și a cercurilor",
-"nr": "L10",
-"date": "2026-12-09",
-"time": "16:00",
-"end": "18:00",
-"week": 11,
-"module": "Analiza și prelucrarea imaginilor",
-"sgr": "",
-"loc": "sală de stabilit",
-"seq": 10,
-"n": 14,
-"parts": [
-"Programa propusă a laboratoarelor (de validat cu titularul de curs)",
-"Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
-],
-"pdf": "pdf/iaii3-api-2026-12-09-1600-da13ca.pdf"
 },
 {
 "id": "ar3-pc-s1-2026-12-09-1800",
@@ -1890,28 +1449,6 @@
 "pdf": "pdf/ar4-saa-2026-12-11-1600-1d55d5.pdf"
 },
 {
-"id": "iaii3-st-2026-12-14-1600",
-"cls": "iaii3",
-"disc": "st",
-"type": "l",
-"title": "Lucrarea 11. Accelerometre și IMU – măsurarea vibrațiilor",
-"nr": "L11",
-"date": "2026-12-14",
-"time": "16:00",
-"end": "18:00",
-"week": 12,
-"module": "Senzori și traductoare",
-"sgr": "",
-"loc": "sală de stabilit",
-"seq": 11,
-"n": 14,
-"parts": [
-"Programa propusă a laboratoarelor (de validat cu titularul de curs)",
-"Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
-],
-"pdf": "pdf/iaii3-st-2026-12-14-1600-b697d6.pdf"
-},
-{
 "id": "ar3-pc-s2-2026-12-14-1800",
 "cls": "ar3",
 "disc": "pc",
@@ -1988,28 +1525,6 @@
 ]
 ],
 "pdf": "pdf/arifr-pc-2026-12-15-1900-0aa041.pdf"
-},
-{
-"id": "iaii3-api-2026-12-16-1600",
-"cls": "iaii3",
-"disc": "api",
-"type": "l",
-"title": "Lucrarea 11. Filtrarea în domeniul frecvență (transformata Fourier)",
-"nr": "L11",
-"date": "2026-12-16",
-"time": "16:00",
-"end": "18:00",
-"week": 12,
-"module": "Analiza și prelucrarea imaginilor",
-"sgr": "",
-"loc": "sală de stabilit",
-"seq": 11,
-"n": 14,
-"parts": [
-"Programa propusă a laboratoarelor (de validat cu titularul de curs)",
-"Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
-],
-"pdf": "pdf/iaii3-api-2026-12-16-1600-5da285.pdf"
 },
 {
 "id": "ar3-pc-s1-2026-12-16-1800",
@@ -2107,7 +1622,7 @@
 "parts": [
 "Îndrumar de laborator – Diagnosticarea autovehiculelor – Lucrarea 6"
 ],
-"pdf": "pdf/ar4-da-2026-12-18-1600-29cad7.pdf"
+"pdf": "pdf/ar4-da-2026-12-18-1600-9043a7.pdf"
 },
 {
 "id": "ar4-saa-2026-12-18-1800",
@@ -2130,28 +1645,6 @@
 ],
 "rec": true,
 "pdf": "pdf/ar4-saa-2026-12-18-1800-985f89.pdf"
-},
-{
-"id": "iaii3-st-2026-12-21-1600",
-"cls": "iaii3",
-"disc": "st",
-"type": "l",
-"title": "Lucrarea 12. Interfațarea industrială: bucla de curent 4–20 mA, conversia analog-numerică",
-"nr": "L12",
-"date": "2026-12-21",
-"time": "16:00",
-"end": "18:00",
-"week": 13,
-"module": "Senzori și traductoare",
-"sgr": "",
-"loc": "sală de stabilit",
-"seq": 12,
-"n": 14,
-"parts": [
-"Programa propusă a laboratoarelor (de validat cu titularul de curs)",
-"Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
-],
-"pdf": "pdf/iaii3-st-2026-12-21-1600-d8d07a.pdf"
 },
 {
 "id": "ar2-mf-s2-2026-12-21-1800",
@@ -2225,28 +1718,6 @@
 "pdf": "pdf/arifr-pc-2026-12-22-1900-b806a3.pdf"
 },
 {
-"id": "iaii3-api-2026-12-23-1600",
-"cls": "iaii3",
-"disc": "api",
-"type": "l",
-"title": "Lucrarea 12. Detecția și potrivirea trăsăturilor: template matching, ORB/SIFT",
-"nr": "L12",
-"date": "2026-12-23",
-"time": "16:00",
-"end": "18:00",
-"week": 13,
-"module": "Analiza și prelucrarea imaginilor",
-"sgr": "",
-"loc": "sală de stabilit",
-"seq": 12,
-"n": 14,
-"parts": [
-"Programa propusă a laboratoarelor (de validat cu titularul de curs)",
-"Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
-],
-"pdf": "pdf/iaii3-api-2026-12-23-1600-61d2b8.pdf"
-},
-{
 "id": "ar3-pc-s1-2026-12-23-1800",
 "cls": "ar3",
 "disc": "pc",
@@ -2273,28 +1744,6 @@
 ]
 ],
 "pdf": "pdf/ar3-pc-s1-2026-12-23-1800-e1c754.pdf"
-},
-{
-"id": "iaii3-st-2027-01-11-1600",
-"cls": "iaii3",
-"disc": "st",
-"type": "l",
-"title": "Lucrarea 13. Senzori digitali și rețele de senzori: I²C, SPI, Modbus/IO-Link – achiziția și prelucrarea datelor",
-"nr": "L13",
-"date": "2027-01-11",
-"time": "16:00",
-"end": "18:00",
-"week": 14,
-"module": "Senzori și traductoare",
-"sgr": "",
-"loc": "sală de stabilit",
-"seq": 13,
-"n": 14,
-"parts": [
-"Programa propusă a laboratoarelor (de validat cu titularul de curs)",
-"Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
-],
-"pdf": "pdf/iaii3-st-2027-01-11-1600-de096f.pdf"
 },
 {
 "id": "ar4-mam-2027-01-12-1600",
@@ -2344,28 +1793,6 @@
 ]
 ],
 "pdf": "pdf/arifr-pc-2027-01-12-1900-39194c.pdf"
-},
-{
-"id": "iaii3-api-2027-01-13-1600",
-"cls": "iaii3",
-"disc": "api",
-"type": "l",
-"title": "Lucrarea 13. Aplicație industrială: inspecția vizuală a pieselor și detecția defectelor",
-"nr": "L13",
-"date": "2027-01-13",
-"time": "16:00",
-"end": "18:00",
-"week": 14,
-"module": "Analiza și prelucrarea imaginilor",
-"sgr": "",
-"loc": "sală de stabilit",
-"seq": 13,
-"n": 14,
-"parts": [
-"Programa propusă a laboratoarelor (de validat cu titularul de curs)",
-"Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
-],
-"pdf": "pdf/iaii3-api-2027-01-13-1600-92e3ce.pdf"
 },
 {
 "id": "ar3-pc-s1-2027-01-13-1800",
@@ -2466,28 +1893,6 @@
 "pdf": "pdf/ar4-saa-2027-01-15-1600-b910f5.pdf"
 },
 {
-"id": "iaii3-st-2027-01-18-1600",
-"cls": "iaii3",
-"disc": "st",
-"type": "l",
-"title": "Lucrarea 14. Aplicație finală de achiziție de date. Verificarea referatelor – colocviu de laborator",
-"nr": "L14",
-"date": "2027-01-18",
-"time": "16:00",
-"end": "18:00",
-"week": 15,
-"module": "Senzori și traductoare",
-"sgr": "",
-"loc": "sală de stabilit",
-"seq": 14,
-"n": 14,
-"parts": [
-"Programa propusă a laboratoarelor (de validat cu titularul de curs)",
-"Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
-],
-"pdf": "pdf/iaii3-st-2027-01-18-1600-415b92.pdf"
-},
-{
 "id": "ar4-mam-2027-01-19-1600",
 "cls": "ar4",
 "disc": "mam",
@@ -2535,28 +1940,6 @@
 ]
 ],
 "pdf": "pdf/arifr-pc-2027-01-19-1900-d79d6c.pdf"
-},
-{
-"id": "iaii3-api-2027-01-20-1600",
-"cls": "iaii3",
-"disc": "api",
-"type": "l",
-"title": "Lucrarea 14. Verificarea finală a lucrărilor – colocviu de laborator",
-"nr": "L14",
-"date": "2027-01-20",
-"time": "16:00",
-"end": "18:00",
-"week": 15,
-"module": "Analiza și prelucrarea imaginilor",
-"sgr": "",
-"loc": "sală de stabilit",
-"seq": 14,
-"n": 14,
-"parts": [
-"Programa propusă a laboratoarelor (de validat cu titularul de curs)",
-"Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
-],
-"pdf": "pdf/iaii3-api-2027-01-20-1600-4ec280.pdf"
 },
 {
 "id": "ar3-pc-s1-2027-01-20-1800",
@@ -2640,7 +2023,7 @@
 "cls": "ar4",
 "disc": "da",
 "type": "l",
-"title": "Lucrarea 7. Vehicule electrice și hibride; diagnoza pe bază de date",
+"title": "Lucrarea 7. Vehicule electrice și hibride: siguranța HV, bateria, invertorul și motorul electric",
 "nr": "L7",
 "date": "2027-01-22",
 "time": "16:00",
@@ -2654,6 +2037,6 @@
 "parts": [
 "Îndrumar de laborator – Diagnosticarea autovehiculelor – Lucrarea 7"
 ],
-"pdf": "pdf/ar4-da-2027-01-22-1600-005bee.pdf"
+"pdf": "pdf/ar4-da-2027-01-22-1600-af23b3.pdf"
 }
 ]
