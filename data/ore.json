@@ -1,77 +1,5 @@
 [
 {
-"id": "ar2-mf-s2-2026-10-01-1600",
-"cls": "ar2",
-"disc": "mf",
-"type": "l",
-"title": "Lucrarea 1. Vâscozitatea uleiurilor de motor în funcție de temperatură",
-"nr": "L1",
-"date": "2026-10-01",
-"time": "16:00",
-"end": "18:00",
-"week": 1,
-"module": "Mecanica fluidelor",
-"sgr": "subgrupa 2",
-"loc": "C1M13",
-"seq": 1,
-"n": 7,
-"parts": [
-"Îndrumar de laborator – Mecanica fluidelor – Introducere și norme de securitate",
-"Îndrumar de laborator – Mecanica fluidelor – Lucrarea 1"
-],
-"pdf": "pdf/ar2-mf-s2-2026-10-01-1600-132d31.pdf"
-},
-{
-"id": "ar3-pc-s2-2026-10-01-1800",
-"cls": "ar3",
-"disc": "pc",
-"type": "p",
-"title": "Etapa 1. Prezentarea proiectului și a temei; alegerea parametrilor inițiali; motorul de referință",
-"nr": "E1",
-"date": "2026-10-01",
-"time": "18:00",
-"end": "20:00",
-"week": 1,
-"module": "Procese și caracteristici ale motoarelor cu ardere internă",
-"sgr": "subgrupa 2",
-"loc": "C1M13",
-"seq": 1,
-"n": 14,
-"parts": [
-"Îndrumar de proiect – PCMAI – p. 6, p. 17, p. 23, p. 34–35",
-"Foaia de calcul PCMAI (Excel) – de descărcat separat"
-],
-"extra": [
-[
-"Foaia de calcul termic (.xlsx)",
-"files/PCMAI_Calcul_termic_2026-2027.xlsx"
-]
-],
-"pdf": "pdf/ar3-pc-s2-2026-10-01-1800-07e79d.pdf"
-},
-{
-"id": "ar4-saa-2026-10-02-1600",
-"cls": "ar4",
-"disc": "saa",
-"type": "l",
-"title": "Lucrarea 1. Sistemul de injecție de benzină multipunct – caracteristicile de funcționare pe standul motorului 1.4 MPI",
-"nr": "L1",
-"date": "2026-10-02",
-"time": "16:00",
-"end": "18:00",
-"week": 1,
-"module": "Sisteme auxiliare ale autovehiculelor",
-"sgr": "",
-"loc": "A02",
-"seq": 1,
-"n": 7,
-"parts": [
-"Îndrumar de laborator – Sisteme auxiliare ale autovehiculelor – Introducere și norme de securitate",
-"Îndrumar de laborator – Sisteme auxiliare ale autovehiculelor – Lucrarea 1"
-],
-"pdf": "pdf/ar4-saa-2026-10-02-1600-e7849b.pdf"
-},
-{
 "id": "iaii3-st-2026-10-05-1600",
 "cls": "iaii3",
 "disc": "st",
@@ -86,7 +14,7 @@
 "sgr": "",
 "loc": "sală de stabilit",
 "seq": 1,
-"n": 13,
+"n": 14,
 "parts": [
 "Programa propusă a laboratoarelor (de validat cu titularul de curs)",
 "Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
@@ -108,7 +36,7 @@
 "sgr": "",
 "loc": "A02",
 "seq": 1,
-"n": 13,
+"n": 14,
 "parts": [
 "Îndrumar de laborator – Mecatronica automobilului modern I – Introducere și norme de securitate",
 "Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 1a"
@@ -220,8 +148,8 @@
 "cls": "ar3",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 2. Calculul procesului de admisie",
-"nr": "E2",
+"title": "Etapa 1. Prezentarea proiectului și a temei; alegerea parametrilor inițiali; motorul de referință",
+"nr": "E1",
 "date": "2026-10-08",
 "time": "18:00",
 "end": "20:00",
@@ -229,10 +157,10 @@
 "module": "Procese și caracteristici ale motoarelor cu ardere internă",
 "sgr": "subgrupa 2",
 "loc": "C1M13",
-"seq": 2,
+"seq": 1,
 "n": 14,
 "parts": [
-"Îndrumar de proiect – PCMAI – p. 7–8, p. 17, p. 23",
+"Îndrumar de proiect – PCMAI – p. 6, p. 17, p. 23, p. 34–35",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
 ],
 "extra": [
@@ -241,7 +169,7 @@
 "files/PCMAI_Calcul_termic_2026-2027.xlsx"
 ]
 ],
-"pdf": "pdf/ar3-pc-s2-2026-10-08-1800-3d0f6d.pdf"
+"pdf": "pdf/ar3-pc-s2-2026-10-08-1800-d90974.pdf"
 },
 {
 "id": "ar4-da-2026-10-09-1600",
@@ -280,7 +208,7 @@
 "sgr": "",
 "loc": "sală de stabilit",
 "seq": 2,
-"n": 13,
+"n": 14,
 "parts": [
 "Programa propusă a laboratoarelor (de validat cu titularul de curs)",
 "Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
@@ -302,7 +230,7 @@
 "sgr": "",
 "loc": "A02",
 "seq": 2,
-"n": 13,
+"n": 14,
 "parts": [
 "Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 1b"
 ],
@@ -391,8 +319,8 @@
 "cls": "ar2",
 "disc": "mf",
 "type": "l",
-"title": "Lucrarea 2. Compresibilitatea lichidului de frână și efectul aerului din circuit",
-"nr": "L2",
+"title": "Lucrarea 1. Vâscozitatea uleiurilor de motor în funcție de temperatură",
+"nr": "L1",
 "date": "2026-10-15",
 "time": "16:00",
 "end": "18:00",
@@ -400,20 +328,21 @@
 "module": "Mecanica fluidelor",
 "sgr": "subgrupa 2",
 "loc": "C1M13",
-"seq": 2,
+"seq": 1,
 "n": 7,
 "parts": [
-"Îndrumar de laborator – Mecanica fluidelor – Lucrarea 2"
+"Îndrumar de laborator – Mecanica fluidelor – Introducere și norme de securitate",
+"Îndrumar de laborator – Mecanica fluidelor – Lucrarea 1"
 ],
-"pdf": "pdf/ar2-mf-s2-2026-10-15-1600-ccf067.pdf"
+"pdf": "pdf/ar2-mf-s2-2026-10-15-1600-7d6e04.pdf"
 },
 {
 "id": "ar3-pc-s2-2026-10-15-1800",
 "cls": "ar3",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 2. Calculul procesului de admisie · Etapa 3. Calculul procesului de comprimare",
-"nr": "E2, E3",
+"title": "Etapa 2. Calculul procesului de admisie",
+"nr": "E2",
 "date": "2026-10-15",
 "time": "18:00",
 "end": "20:00",
@@ -421,10 +350,10 @@
 "module": "Procese și caracteristici ale motoarelor cu ardere internă",
 "sgr": "subgrupa 2",
 "loc": "C1M13",
-"seq": 3,
+"seq": 2,
 "n": 14,
 "parts": [
-"Îndrumar de proiect – PCMAI – p. 7–8, p. 9, p. 17, p. 18, p. 23, p. 24",
+"Îndrumar de proiect – PCMAI – p. 7–8, p. 17, p. 23",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
 ],
 "extra": [
@@ -433,15 +362,15 @@
 "files/PCMAI_Calcul_termic_2026-2027.xlsx"
 ]
 ],
-"pdf": "pdf/ar3-pc-s2-2026-10-15-1800-b7f2bb.pdf"
+"pdf": "pdf/ar3-pc-s2-2026-10-15-1800-9180bc.pdf"
 },
 {
 "id": "ar4-saa-2026-10-16-1600",
 "cls": "ar4",
 "disc": "saa",
 "type": "l",
-"title": "Lucrarea 2. Modelarea duratei de injecție pe baza debitului de aer – aplicație virtuală LabVIEW · Lucrarea 4. Sistemul de ungere – caracteristica presiunii uleiului",
-"nr": "L2, L4",
+"title": "Lucrarea 1. Sistemul de injecție de benzină multipunct – caracteristicile de funcționare pe standul motorului 1.4 MPI",
+"nr": "L1",
 "date": "2026-10-16",
 "time": "16:00",
 "end": "18:00",
@@ -449,13 +378,13 @@
 "module": "Sisteme auxiliare ale autovehiculelor",
 "sgr": "",
 "loc": "A02",
-"seq": 2,
+"seq": 1,
 "n": 7,
 "parts": [
-"Îndrumar de laborator – Sisteme auxiliare ale autovehiculelor – Lucrarea 2",
-"Îndrumar de laborator – Sisteme auxiliare ale autovehiculelor – Lucrarea 4"
+"Îndrumar de laborator – Sisteme auxiliare ale autovehiculelor – Introducere și norme de securitate",
+"Îndrumar de laborator – Sisteme auxiliare ale autovehiculelor – Lucrarea 1"
 ],
-"pdf": "pdf/ar4-saa-2026-10-16-1600-5370e8.pdf"
+"pdf": "pdf/ar4-saa-2026-10-16-1600-4d97f3.pdf"
 },
 {
 "id": "iaii3-st-2026-10-19-1600",
@@ -472,7 +401,7 @@
 "sgr": "",
 "loc": "sală de stabilit",
 "seq": 3,
-"n": 13,
+"n": 14,
 "parts": [
 "Programa propusă a laboratoarelor (de validat cu titularul de curs)",
 "Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
@@ -494,7 +423,7 @@
 "sgr": "",
 "loc": "A02",
 "seq": 3,
-"n": 13,
+"n": 14,
 "parts": [
 "Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 2"
 ],
@@ -604,8 +533,8 @@
 "cls": "ar3",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 3. Calculul procesului de comprimare · Etapa 4. Arderea: MAS – izocoră; MAC – întârzierea la autoaprindere și arderea izocoră",
-"nr": "E3, E4",
+"title": "Etapa 2. Calculul procesului de admisie · Etapa 3. Calculul procesului de comprimare",
+"nr": "E2, E3",
 "date": "2026-10-22",
 "time": "18:00",
 "end": "20:00",
@@ -613,10 +542,10 @@
 "module": "Procese și caracteristici ale motoarelor cu ardere internă",
 "sgr": "subgrupa 2",
 "loc": "C1M13",
-"seq": 4,
+"seq": 3,
 "n": 14,
 "parts": [
-"Îndrumar de proiect – PCMAI – p. 9, p. 10–11, p. 18, p. 24",
+"Îndrumar de proiect – PCMAI – p. 7–8, p. 9, p. 17, p. 18, p. 23, p. 24",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
 ],
 "extra": [
@@ -625,7 +554,7 @@
 "files/PCMAI_Calcul_termic_2026-2027.xlsx"
 ]
 ],
-"pdf": "pdf/ar3-pc-s2-2026-10-22-1800-213211.pdf"
+"pdf": "pdf/ar3-pc-s2-2026-10-22-1800-5ba992.pdf"
 },
 {
 "id": "ar4-da-2026-10-23-1600",
@@ -663,7 +592,7 @@
 "sgr": "",
 "loc": "sală de stabilit",
 "seq": 4,
-"n": 13,
+"n": 14,
 "parts": [
 "Programa propusă a laboratoarelor (de validat cu titularul de curs)",
 "Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
@@ -685,7 +614,7 @@
 "sgr": "",
 "loc": "A02",
 "seq": 4,
-"n": 13,
+"n": 14,
 "parts": [
 "Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 3"
 ],
@@ -774,8 +703,8 @@
 "cls": "ar2",
 "disc": "mf",
 "type": "l",
-"title": "Lucrarea 3. Legea lui Pascal: transmiterea hidraulică a forței în sistemul de frânare",
-"nr": "L3",
+"title": "Lucrarea 2. Compresibilitatea lichidului de frână și efectul aerului din circuit",
+"nr": "L2",
 "date": "2026-10-29",
 "time": "16:00",
 "end": "18:00",
@@ -783,20 +712,20 @@
 "module": "Mecanica fluidelor",
 "sgr": "subgrupa 2",
 "loc": "C1M13",
-"seq": 3,
+"seq": 2,
 "n": 7,
 "parts": [
-"Îndrumar de laborator – Mecanica fluidelor – Lucrarea 3"
+"Îndrumar de laborator – Mecanica fluidelor – Lucrarea 2"
 ],
-"pdf": "pdf/ar2-mf-s2-2026-10-29-1600-89e875.pdf"
+"pdf": "pdf/ar2-mf-s2-2026-10-29-1600-8e0805.pdf"
 },
 {
 "id": "ar3-pc-s2-2026-10-29-1800",
 "cls": "ar3",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 4. Arderea: MAS – izocoră; MAC – întârzierea la autoaprindere și arderea izocoră",
-"nr": "E4",
+"title": "Etapa 3. Calculul procesului de comprimare · Etapa 4. Arderea: MAS – izocoră; MAC – întârzierea la autoaprindere și arderea izocoră",
+"nr": "E3, E4",
 "date": "2026-10-29",
 "time": "18:00",
 "end": "20:00",
@@ -804,10 +733,10 @@
 "module": "Procese și caracteristici ale motoarelor cu ardere internă",
 "sgr": "subgrupa 2",
 "loc": "C1M13",
-"seq": 5,
+"seq": 4,
 "n": 14,
 "parts": [
-"Îndrumar de proiect – PCMAI – p. 10–11, p. 18, p. 24",
+"Îndrumar de proiect – PCMAI – p. 9, p. 10–11, p. 18, p. 24",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
 ],
 "extra": [
@@ -816,15 +745,15 @@
 "files/PCMAI_Calcul_termic_2026-2027.xlsx"
 ]
 ],
-"pdf": "pdf/ar3-pc-s2-2026-10-29-1800-6cb57c.pdf"
+"pdf": "pdf/ar3-pc-s2-2026-10-29-1800-e857d3.pdf"
 },
 {
 "id": "ar4-saa-2026-10-30-1600",
 "cls": "ar4",
 "disc": "saa",
 "type": "l",
-"title": "Lucrarea 3. Sistemul de injecție common-rail – reglarea presiunii în rampă și injecția multiplă (1.5 dCi)",
-"nr": "L3",
+"title": "Lucrarea 2. Modelarea duratei de injecție pe baza debitului de aer – aplicație virtuală LabVIEW · Lucrarea 4. Sistemul de ungere – caracteristica presiunii uleiului",
+"nr": "L2, L4",
 "date": "2026-10-30",
 "time": "16:00",
 "end": "18:00",
@@ -832,12 +761,13 @@
 "module": "Sisteme auxiliare ale autovehiculelor",
 "sgr": "",
 "loc": "A02",
-"seq": 3,
+"seq": 2,
 "n": 7,
 "parts": [
-"Îndrumar de laborator – Sisteme auxiliare ale autovehiculelor – Lucrarea 3"
+"Îndrumar de laborator – Sisteme auxiliare ale autovehiculelor – Lucrarea 2",
+"Îndrumar de laborator – Sisteme auxiliare ale autovehiculelor – Lucrarea 4"
 ],
-"pdf": "pdf/ar4-saa-2026-10-30-1600-776cf8.pdf"
+"pdf": "pdf/ar4-saa-2026-10-30-1600-619424.pdf"
 },
 {
 "id": "iaii3-st-2026-11-02-1600",
@@ -854,7 +784,7 @@
 "sgr": "",
 "loc": "sală de stabilit",
 "seq": 5,
-"n": 13,
+"n": 14,
 "parts": [
 "Programa propusă a laboratoarelor (de validat cu titularul de curs)",
 "Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
@@ -876,7 +806,7 @@
 "sgr": "",
 "loc": "A02",
 "seq": 5,
-"n": 13,
+"n": 14,
 "parts": [
 "Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 4"
 ],
@@ -986,8 +916,8 @@
 "cls": "ar3",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 5. Arderea izobară la MAC; rapoartele λp și ρ",
-"nr": "E5",
+"title": "Etapa 4. Arderea: MAS – izocoră; MAC – întârzierea la autoaprindere și arderea izocoră",
+"nr": "E4",
 "date": "2026-11-05",
 "time": "18:00",
 "end": "20:00",
@@ -995,10 +925,10 @@
 "module": "Procese și caracteristici ale motoarelor cu ardere internă",
 "sgr": "subgrupa 2",
 "loc": "C1M13",
-"seq": 6,
+"seq": 5,
 "n": 14,
 "parts": [
-"Îndrumar de proiect – PCMAI – p. 10–11, p. 24–25",
+"Îndrumar de proiect – PCMAI – p. 10–11, p. 18, p. 24",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
 ],
 "extra": [
@@ -1007,7 +937,7 @@
 "files/PCMAI_Calcul_termic_2026-2027.xlsx"
 ]
 ],
-"pdf": "pdf/ar3-pc-s2-2026-11-05-1800-279293.pdf"
+"pdf": "pdf/ar3-pc-s2-2026-11-05-1800-a4d010.pdf"
 },
 {
 "id": "ar4-da-2026-11-06-1600",
@@ -1045,7 +975,7 @@
 "sgr": "",
 "loc": "sală de stabilit",
 "seq": 6,
-"n": 13,
+"n": 14,
 "parts": [
 "Programa propusă a laboratoarelor (de validat cu titularul de curs)",
 "Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
@@ -1067,7 +997,7 @@
 "sgr": "",
 "loc": "A02",
 "seq": 6,
-"n": 13,
+"n": 14,
 "parts": [
 "Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 5"
 ],
@@ -1156,8 +1086,8 @@
 "cls": "ar2",
 "disc": "mf",
 "type": "l",
-"title": "Lucrarea 4. Ecuația lui Bernoulli și măsurarea debitului: tubul Venturi și tubul Pitot",
-"nr": "L4",
+"title": "Lucrarea 3. Legea lui Pascal: transmiterea hidraulică a forței în sistemul de frânare",
+"nr": "L3",
 "date": "2026-11-12",
 "time": "16:00",
 "end": "18:00",
@@ -1165,20 +1095,20 @@
 "module": "Mecanica fluidelor",
 "sgr": "subgrupa 2",
 "loc": "C1M13",
-"seq": 4,
+"seq": 3,
 "n": 7,
 "parts": [
-"Îndrumar de laborator – Mecanica fluidelor – Lucrarea 4"
+"Îndrumar de laborator – Mecanica fluidelor – Lucrarea 3"
 ],
-"pdf": "pdf/ar2-mf-s2-2026-11-12-1600-6f7e36.pdf"
+"pdf": "pdf/ar2-mf-s2-2026-11-12-1600-aa418e.pdf"
 },
 {
 "id": "ar3-pc-s2-2026-11-12-1800",
 "cls": "ar3",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 6. Destinderea; verificarea temperaturii gazelor reziduale",
-"nr": "E6",
+"title": "Etapa 5. Arderea izobară la MAC; rapoartele λp și ρ",
+"nr": "E5",
 "date": "2026-11-12",
 "time": "18:00",
 "end": "20:00",
@@ -1186,10 +1116,10 @@
 "module": "Procese și caracteristici ale motoarelor cu ardere internă",
 "sgr": "subgrupa 2",
 "loc": "C1M13",
-"seq": 7,
+"seq": 6,
 "n": 14,
 "parts": [
-"Îndrumar de proiect – PCMAI – p. 12, p. 19, p. 25",
+"Îndrumar de proiect – PCMAI – p. 10–11, p. 24–25",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
 ],
 "extra": [
@@ -1198,15 +1128,15 @@
 "files/PCMAI_Calcul_termic_2026-2027.xlsx"
 ]
 ],
-"pdf": "pdf/ar3-pc-s2-2026-11-12-1800-2327a5.pdf"
+"pdf": "pdf/ar3-pc-s2-2026-11-12-1800-1ef651.pdf"
 },
 {
 "id": "ar4-saa-2026-11-13-1600",
 "cls": "ar4",
 "disc": "saa",
 "type": "l",
-"title": "Lucrarea 5. Sistemul de răcire și managementul termic",
-"nr": "L5",
+"title": "Lucrarea 3. Sistemul de injecție common-rail – reglarea presiunii în rampă și injecția multiplă (1.5 dCi)",
+"nr": "L3",
 "date": "2026-11-13",
 "time": "16:00",
 "end": "18:00",
@@ -1214,12 +1144,12 @@
 "module": "Sisteme auxiliare ale autovehiculelor",
 "sgr": "",
 "loc": "A02",
-"seq": 4,
+"seq": 3,
 "n": 7,
 "parts": [
-"Îndrumar de laborator – Sisteme auxiliare ale autovehiculelor – Lucrarea 5"
+"Îndrumar de laborator – Sisteme auxiliare ale autovehiculelor – Lucrarea 3"
 ],
-"pdf": "pdf/ar4-saa-2026-11-13-1600-3e8281.pdf"
+"pdf": "pdf/ar4-saa-2026-11-13-1600-94a89f.pdf"
 },
 {
 "id": "iaii3-st-2026-11-16-1600",
@@ -1236,7 +1166,7 @@
 "sgr": "",
 "loc": "sală de stabilit",
 "seq": 7,
-"n": 13,
+"n": 14,
 "parts": [
 "Programa propusă a laboratoarelor (de validat cu titularul de curs)",
 "Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
@@ -1258,7 +1188,7 @@
 "sgr": "",
 "loc": "A02",
 "seq": 7,
-"n": 13,
+"n": 14,
 "parts": [
 "Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 6"
 ],
@@ -1368,8 +1298,8 @@
 "cls": "ar3",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 7. Parametrii indicați și efectivi",
-"nr": "E7",
+"title": "Etapa 6. Destinderea; verificarea temperaturii gazelor reziduale",
+"nr": "E6",
 "date": "2026-11-19",
 "time": "18:00",
 "end": "20:00",
@@ -1377,10 +1307,10 @@
 "module": "Procese și caracteristici ale motoarelor cu ardere internă",
 "sgr": "subgrupa 2",
 "loc": "C1M13",
-"seq": 8,
+"seq": 7,
 "n": 14,
 "parts": [
-"Îndrumar de proiect – PCMAI – p. 13, p. 19, p. 26",
+"Îndrumar de proiect – PCMAI – p. 12, p. 19, p. 25",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
 ],
 "extra": [
@@ -1389,7 +1319,7 @@
 "files/PCMAI_Calcul_termic_2026-2027.xlsx"
 ]
 ],
-"pdf": "pdf/ar3-pc-s2-2026-11-19-1800-5a067f.pdf"
+"pdf": "pdf/ar3-pc-s2-2026-11-19-1800-c873ad.pdf"
 },
 {
 "id": "ar4-da-2026-11-20-1600",
@@ -1427,7 +1357,7 @@
 "sgr": "",
 "loc": "sală de stabilit",
 "seq": 8,
-"n": 13,
+"n": 14,
 "parts": [
 "Programa propusă a laboratoarelor (de validat cu titularul de curs)",
 "Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
@@ -1449,7 +1379,7 @@
 "sgr": "",
 "loc": "A02",
 "seq": 8,
-"n": 13,
+"n": 14,
 "parts": [
 "Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 7"
 ],
@@ -1538,8 +1468,8 @@
 "cls": "ar2",
 "disc": "mf",
 "type": "l",
-"title": "Lucrarea 5. Regimuri de curgere. Experiența lui Reynolds",
-"nr": "L5",
+"title": "Lucrarea 4. Ecuația lui Bernoulli și măsurarea debitului: tubul Venturi și tubul Pitot",
+"nr": "L4",
 "date": "2026-11-26",
 "time": "16:00",
 "end": "18:00",
@@ -1547,20 +1477,20 @@
 "module": "Mecanica fluidelor",
 "sgr": "subgrupa 2",
 "loc": "C1M13",
-"seq": 5,
+"seq": 4,
 "n": 7,
 "parts": [
-"Îndrumar de laborator – Mecanica fluidelor – Lucrarea 5"
+"Îndrumar de laborator – Mecanica fluidelor – Lucrarea 4"
 ],
-"pdf": "pdf/ar2-mf-s2-2026-11-26-1600-b208bd.pdf"
+"pdf": "pdf/ar2-mf-s2-2026-11-26-1600-c66bf6.pdf"
 },
 {
 "id": "ar3-pc-s2-2026-11-26-1800",
 "cls": "ar3",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 7. Parametrii indicați și efectivi · Etapa 8. Parametrii constructivi; compararea cu motorul de referință",
-"nr": "E7, E8",
+"title": "Etapa 7. Parametrii indicați și efectivi",
+"nr": "E7",
 "date": "2026-11-26",
 "time": "18:00",
 "end": "20:00",
@@ -1568,10 +1498,10 @@
 "module": "Procese și caracteristici ale motoarelor cu ardere internă",
 "sgr": "subgrupa 2",
 "loc": "C1M13",
-"seq": 9,
+"seq": 8,
 "n": 14,
 "parts": [
-"Îndrumar de proiect – PCMAI – p. 13, p. 14, p. 19, p. 22, p. 26, p. 28",
+"Îndrumar de proiect – PCMAI – p. 13, p. 19, p. 26",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
 ],
 "extra": [
@@ -1580,15 +1510,15 @@
 "files/PCMAI_Calcul_termic_2026-2027.xlsx"
 ]
 ],
-"pdf": "pdf/ar3-pc-s2-2026-11-26-1800-d81fb0.pdf"
+"pdf": "pdf/ar3-pc-s2-2026-11-26-1800-cd793a.pdf"
 },
 {
 "id": "ar4-saa-2026-11-27-1600",
 "cls": "ar4",
 "disc": "saa",
 "type": "l",
-"title": "Lucrarea 6. Sistemul de supraalimentare – presiunea de supraalimentare și actuatorii turbosuflantei",
-"nr": "L6",
+"title": "Lucrarea 5. Sistemul de răcire și managementul termic",
+"nr": "L5",
 "date": "2026-11-27",
 "time": "16:00",
 "end": "18:00",
@@ -1596,12 +1526,12 @@
 "module": "Sisteme auxiliare ale autovehiculelor",
 "sgr": "",
 "loc": "A02",
-"seq": 5,
+"seq": 4,
 "n": 7,
 "parts": [
-"Îndrumar de laborator – Sisteme auxiliare ale autovehiculelor – Lucrarea 6"
+"Îndrumar de laborator – Sisteme auxiliare ale autovehiculelor – Lucrarea 5"
 ],
-"pdf": "pdf/ar4-saa-2026-11-27-1600-b9caee.pdf"
+"pdf": "pdf/ar4-saa-2026-11-27-1600-17fe42.pdf"
 },
 {
 "id": "iaii3-api-2026-12-02-1600",
@@ -1679,8 +1609,8 @@
 "cls": "ar3",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 8. Parametrii constructivi; compararea cu motorul de referință",
-"nr": "E8",
+"title": "Etapa 7. Parametrii indicați și efectivi · Etapa 8. Parametrii constructivi; compararea cu motorul de referință",
+"nr": "E7, E8",
 "date": "2026-12-03",
 "time": "18:00",
 "end": "20:00",
@@ -1688,10 +1618,10 @@
 "module": "Procese și caracteristici ale motoarelor cu ardere internă",
 "sgr": "subgrupa 2",
 "loc": "C1M13",
-"seq": 10,
+"seq": 9,
 "n": 14,
 "parts": [
-"Îndrumar de proiect – PCMAI – p. 14, p. 19, p. 22, p. 26, p. 28",
+"Îndrumar de proiect – PCMAI – p. 13, p. 14, p. 19, p. 22, p. 26, p. 28",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
 ],
 "extra": [
@@ -1700,7 +1630,7 @@
 "files/PCMAI_Calcul_termic_2026-2027.xlsx"
 ]
 ],
-"pdf": "pdf/ar3-pc-s2-2026-12-03-1800-4c4e01.pdf"
+"pdf": "pdf/ar3-pc-s2-2026-12-03-1800-c91ef0.pdf"
 },
 {
 "id": "ar4-da-2026-12-04-1600",
@@ -1724,12 +1654,35 @@
 "pdf": "pdf/ar4-da-2026-12-04-1600-3d7ea7.pdf"
 },
 {
-"id": "iaii3-st-2026-12-07-1600",
+"id": "iaii3-st-2026-12-04-1800",
 "cls": "iaii3",
 "disc": "st",
 "type": "l",
 "title": "Lucrarea 9. Senzori inductivi și capacitivi de proximitate (industriali, PNP/NPN)",
 "nr": "L9",
+"date": "2026-12-04",
+"time": "18:00",
+"end": "20:00",
+"week": 10,
+"module": "Senzori și traductoare",
+"sgr": "",
+"loc": "sală de stabilit",
+"seq": 9,
+"n": 14,
+"parts": [
+"Programa propusă a laboratoarelor (de validat cu titularul de curs)",
+"Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
+],
+"rec": true,
+"pdf": "pdf/iaii3-st-2026-12-04-1800-8c9cf1.pdf"
+},
+{
+"id": "iaii3-st-2026-12-07-1600",
+"cls": "iaii3",
+"disc": "st",
+"type": "l",
+"title": "Lucrarea 10. Senzori optici și ultrasonici de distanță/prezență",
+"nr": "L10",
 "date": "2026-12-07",
 "time": "16:00",
 "end": "18:00",
@@ -1737,8 +1690,8 @@
 "module": "Senzori și traductoare",
 "sgr": "",
 "loc": "sală de stabilit",
-"seq": 9,
-"n": 13,
+"seq": 10,
+"n": 14,
 "parts": [
 "Programa propusă a laboratoarelor (de validat cu titularul de curs)",
 "Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
@@ -1746,12 +1699,34 @@
 "pdf": "pdf/iaii3-st-2026-12-07-1600-439e68.pdf"
 },
 {
-"id": "ar4-mam-2026-12-08-1600",
+"id": "ar4-mam-2026-12-07-1800",
 "cls": "ar4",
 "disc": "mam",
 "type": "l",
 "title": "Lucrarea 8a. Senzori inerțiali (IMU): unghiurile de ruliu și tangaj, filtrul complementar",
 "nr": "L8a",
+"date": "2026-12-07",
+"time": "18:00",
+"end": "20:00",
+"week": 11,
+"module": "Mecatronica automobilului modern I",
+"sgr": "",
+"loc": "A02",
+"seq": 9,
+"n": 14,
+"parts": [
+"Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 8a"
+],
+"rec": true,
+"pdf": "pdf/ar4-mam-2026-12-07-1800-b7060c.pdf"
+},
+{
+"id": "ar4-mam-2026-12-08-1600",
+"cls": "ar4",
+"disc": "mam",
+"type": "l",
+"title": "Lucrarea 8b. Senzori inerțiali (IMU): unghiurile de ruliu și tangaj, filtrul complementar",
+"nr": "L8b",
 "date": "2026-12-08",
 "time": "16:00",
 "end": "18:00",
@@ -1759,10 +1734,10 @@
 "module": "Mecatronica automobilului modern I",
 "sgr": "",
 "loc": "A02",
-"seq": 9,
-"n": 13,
+"seq": 10,
+"n": 14,
 "parts": [
-"Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 8a"
+"Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 8b"
 ],
 "pdf": "pdf/ar4-mam-2026-12-08-1600-5f40f7.pdf"
 },
@@ -1849,8 +1824,8 @@
 "cls": "ar2",
 "disc": "mf",
 "type": "l",
-"title": "Lucrarea 6. Pierderi de sarcină longitudinale și locale într-un circuit de răcire",
-"nr": "L6",
+"title": "Lucrarea 5. Regimuri de curgere. Experiența lui Reynolds",
+"nr": "L5",
 "date": "2026-12-10",
 "time": "16:00",
 "end": "18:00",
@@ -1858,24 +1833,95 @@
 "module": "Mecanica fluidelor",
 "sgr": "subgrupa 2",
 "loc": "C1M13",
-"seq": 6,
+"seq": 5,
 "n": 7,
 "parts": [
-"Îndrumar de laborator – Mecanica fluidelor – Lucrarea 6"
+"Îndrumar de laborator – Mecanica fluidelor – Lucrarea 5"
 ],
-"pdf": "pdf/ar2-mf-s2-2026-12-10-1600-6ccd4c.pdf"
+"pdf": "pdf/ar2-mf-s2-2026-12-10-1600-b2266a.pdf"
 },
 {
 "id": "ar3-pc-s2-2026-12-10-1800",
 "cls": "ar3",
 "disc": "pc",
 "type": "p",
-"title": "Etapa 9. Diagrama indicată p–V și p–α",
-"nr": "E9",
+"title": "Etapa 8. Parametrii constructivi; compararea cu motorul de referință",
+"nr": "E8",
 "date": "2026-12-10",
 "time": "18:00",
 "end": "20:00",
 "week": 11,
+"module": "Procese și caracteristici ale motoarelor cu ardere internă",
+"sgr": "subgrupa 2",
+"loc": "C1M13",
+"seq": 10,
+"n": 14,
+"parts": [
+"Îndrumar de proiect – PCMAI – p. 14, p. 19, p. 22, p. 26, p. 28",
+"Foaia de calcul PCMAI (Excel) – de descărcat separat"
+],
+"extra": [
+[
+"Foaia de calcul termic (.xlsx)",
+"files/PCMAI_Calcul_termic_2026-2027.xlsx"
+]
+],
+"pdf": "pdf/ar3-pc-s2-2026-12-10-1800-663256.pdf"
+},
+{
+"id": "ar4-saa-2026-12-11-1600",
+"cls": "ar4",
+"disc": "saa",
+"type": "l",
+"title": "Lucrarea 6. Sistemul de supraalimentare – presiunea de supraalimentare și actuatorii turbosuflantei",
+"nr": "L6",
+"date": "2026-12-11",
+"time": "16:00",
+"end": "18:00",
+"week": 11,
+"module": "Sisteme auxiliare ale autovehiculelor",
+"sgr": "",
+"loc": "A02",
+"seq": 5,
+"n": 7,
+"parts": [
+"Îndrumar de laborator – Sisteme auxiliare ale autovehiculelor – Lucrarea 6"
+],
+"pdf": "pdf/ar4-saa-2026-12-11-1600-1d55d5.pdf"
+},
+{
+"id": "iaii3-st-2026-12-14-1600",
+"cls": "iaii3",
+"disc": "st",
+"type": "l",
+"title": "Lucrarea 11. Accelerometre și IMU – măsurarea vibrațiilor",
+"nr": "L11",
+"date": "2026-12-14",
+"time": "16:00",
+"end": "18:00",
+"week": 12,
+"module": "Senzori și traductoare",
+"sgr": "",
+"loc": "sală de stabilit",
+"seq": 11,
+"n": 14,
+"parts": [
+"Programa propusă a laboratoarelor (de validat cu titularul de curs)",
+"Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
+],
+"pdf": "pdf/iaii3-st-2026-12-14-1600-b697d6.pdf"
+},
+{
+"id": "ar3-pc-s2-2026-12-14-1800",
+"cls": "ar3",
+"disc": "pc",
+"type": "p",
+"title": "Etapa 9. Diagrama indicată p–V și p–α",
+"nr": "E9",
+"date": "2026-12-14",
+"time": "18:00",
+"end": "20:00",
+"week": 12,
 "module": "Procese și caracteristici ale motoarelor cu ardere internă",
 "sgr": "subgrupa 2",
 "loc": "C1M13",
@@ -1885,64 +1931,22 @@
 "Îndrumar de proiect – PCMAI – p. 15, p. 20, p. 26",
 "Foaia de calcul PCMAI (Excel) – de descărcat separat"
 ],
+"rec": true,
 "extra": [
 [
 "Foaia de calcul termic (.xlsx)",
 "files/PCMAI_Calcul_termic_2026-2027.xlsx"
 ]
 ],
-"pdf": "pdf/ar3-pc-s2-2026-12-10-1800-a58e06.pdf"
-},
-{
-"id": "ar4-saa-2026-12-11-1600",
-"cls": "ar4",
-"disc": "saa",
-"type": "l",
-"title": "Lucrarea 7. Sistemul de pornire și bilanțul energetic al sistemelor stop-start și mild-hybrid 48 V",
-"nr": "L7",
-"date": "2026-12-11",
-"time": "16:00",
-"end": "18:00",
-"week": 11,
-"module": "Sisteme auxiliare ale autovehiculelor",
-"sgr": "",
-"loc": "A02",
-"seq": 6,
-"n": 7,
-"parts": [
-"Îndrumar de laborator – Sisteme auxiliare ale autovehiculelor – Lucrarea 7"
-],
-"pdf": "pdf/ar4-saa-2026-12-11-1600-ceb7b7.pdf"
-},
-{
-"id": "iaii3-st-2026-12-14-1600",
-"cls": "iaii3",
-"disc": "st",
-"type": "l",
-"title": "Lucrarea 10. Senzori optici și ultrasonici de distanță/prezență",
-"nr": "L10",
-"date": "2026-12-14",
-"time": "16:00",
-"end": "18:00",
-"week": 12,
-"module": "Senzori și traductoare",
-"sgr": "",
-"loc": "sală de stabilit",
-"seq": 10,
-"n": 13,
-"parts": [
-"Programa propusă a laboratoarelor (de validat cu titularul de curs)",
-"Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
-],
-"pdf": "pdf/iaii3-st-2026-12-14-1600-b697d6.pdf"
+"pdf": "pdf/ar3-pc-s2-2026-12-14-1800-856687.pdf"
 },
 {
 "id": "ar4-mam-2026-12-15-1600",
 "cls": "ar4",
 "disc": "mam",
 "type": "l",
-"title": "Lucrarea 8b. Senzori inerțiali (IMU): unghiurile de ruliu și tangaj, filtrul complementar",
-"nr": "L8b",
+"title": "Lucrarea 9a. Clapeta electronică de accelerație: punte H, comandă PWM și regulator PID",
+"nr": "L9a",
 "date": "2026-12-15",
 "time": "16:00",
 "end": "18:00",
@@ -1950,12 +1954,12 @@
 "module": "Mecatronica automobilului modern I",
 "sgr": "",
 "loc": "A02",
-"seq": 10,
-"n": 13,
+"seq": 11,
+"n": 14,
 "parts": [
-"Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 8b"
+"Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 9a"
 ],
-"pdf": "pdf/ar4-mam-2026-12-15-1600-7184b1.pdf"
+"pdf": "pdf/ar4-mam-2026-12-15-1600-896ddd.pdf"
 },
 {
 "id": "arifr-pc-2026-12-15-1900",
@@ -2106,12 +2110,34 @@
 "pdf": "pdf/ar4-da-2026-12-18-1600-29cad7.pdf"
 },
 {
+"id": "ar4-saa-2026-12-18-1800",
+"cls": "ar4",
+"disc": "saa",
+"type": "l",
+"title": "Lucrarea 7. Sistemul de pornire și bilanțul energetic al sistemelor stop-start și mild-hybrid 48 V",
+"nr": "L7",
+"date": "2026-12-18",
+"time": "18:00",
+"end": "20:00",
+"week": 12,
+"module": "Sisteme auxiliare ale autovehiculelor",
+"sgr": "",
+"loc": "A02",
+"seq": 6,
+"n": 7,
+"parts": [
+"Îndrumar de laborator – Sisteme auxiliare ale autovehiculelor – Lucrarea 7"
+],
+"rec": true,
+"pdf": "pdf/ar4-saa-2026-12-18-1800-985f89.pdf"
+},
+{
 "id": "iaii3-st-2026-12-21-1600",
 "cls": "iaii3",
 "disc": "st",
 "type": "l",
-"title": "Lucrarea 11. Accelerometre și IMU – măsurarea vibrațiilor",
-"nr": "L11",
+"title": "Lucrarea 12. Interfațarea industrială: bucla de curent 4–20 mA, conversia analog-numerică",
+"nr": "L12",
 "date": "2026-12-21",
 "time": "16:00",
 "end": "18:00",
@@ -2119,8 +2145,8 @@
 "module": "Senzori și traductoare",
 "sgr": "",
 "loc": "sală de stabilit",
-"seq": 11,
-"n": 13,
+"seq": 12,
+"n": 14,
 "parts": [
 "Programa propusă a laboratoarelor (de validat cu titularul de curs)",
 "Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
@@ -2128,12 +2154,34 @@
 "pdf": "pdf/iaii3-st-2026-12-21-1600-d8d07a.pdf"
 },
 {
+"id": "ar2-mf-s2-2026-12-21-1800",
+"cls": "ar2",
+"disc": "mf",
+"type": "l",
+"title": "Lucrarea 6. Pierderi de sarcină longitudinale și locale într-un circuit de răcire",
+"nr": "L6",
+"date": "2026-12-21",
+"time": "18:00",
+"end": "20:00",
+"week": 13,
+"module": "Mecanica fluidelor",
+"sgr": "subgrupa 2",
+"loc": "C1M13",
+"seq": 6,
+"n": 7,
+"parts": [
+"Îndrumar de laborator – Mecanica fluidelor – Lucrarea 6"
+],
+"rec": true,
+"pdf": "pdf/ar2-mf-s2-2026-12-21-1800-66b2b7.pdf"
+},
+{
 "id": "ar4-mam-2026-12-22-1600",
 "cls": "ar4",
 "disc": "mam",
 "type": "l",
-"title": "Lucrarea 9a. Clapeta electronică de accelerație: punte H, comandă PWM și regulator PID",
-"nr": "L9a",
+"title": "Lucrarea 9b. Clapeta electronică de accelerație: punte H, comandă PWM și regulator PID",
+"nr": "L9b",
 "date": "2026-12-22",
 "time": "16:00",
 "end": "18:00",
@@ -2141,10 +2189,10 @@
 "module": "Mecatronica automobilului modern I",
 "sgr": "",
 "loc": "A02",
-"seq": 11,
-"n": 13,
+"seq": 12,
+"n": 14,
 "parts": [
-"Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 9a"
+"Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 9b"
 ],
 "pdf": "pdf/ar4-mam-2026-12-22-1600-60d36a.pdf"
 },
@@ -2231,8 +2279,8 @@
 "cls": "iaii3",
 "disc": "st",
 "type": "l",
-"title": "Lucrarea 12. Interfațarea industrială: bucla de curent 4–20 mA, conversia analog-numerică",
-"nr": "L12",
+"title": "Lucrarea 13. Senzori digitali și rețele de senzori: I²C, SPI, Modbus/IO-Link – achiziția și prelucrarea datelor",
+"nr": "L13",
 "date": "2027-01-11",
 "time": "16:00",
 "end": "18:00",
@@ -2240,8 +2288,8 @@
 "module": "Senzori și traductoare",
 "sgr": "",
 "loc": "sală de stabilit",
-"seq": 12,
-"n": 13,
+"seq": 13,
+"n": 14,
 "parts": [
 "Programa propusă a laboratoarelor (de validat cu titularul de curs)",
 "Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
@@ -2253,8 +2301,8 @@
 "cls": "ar4",
 "disc": "mam",
 "type": "l",
-"title": "Lucrarea 9b. Clapeta electronică de accelerație: punte H, comandă PWM și regulator PID",
-"nr": "L9b",
+"title": "Lucrarea 10a. Magistrala CAN: construirea mesajelor, arbitrajul și decodarea semnalelor",
+"nr": "L10a",
 "date": "2027-01-12",
 "time": "16:00",
 "end": "18:00",
@@ -2262,12 +2310,12 @@
 "module": "Mecatronica automobilului modern I",
 "sgr": "",
 "loc": "A02",
-"seq": 12,
-"n": 13,
+"seq": 13,
+"n": 14,
 "parts": [
-"Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 9b"
+"Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 10a"
 ],
-"pdf": "pdf/ar4-mam-2027-01-12-1600-2b53cd.pdf"
+"pdf": "pdf/ar4-mam-2027-01-12-1600-2ac1e4.pdf"
 },
 {
 "id": "arifr-pc-2027-01-12-1900",
@@ -2422,8 +2470,8 @@
 "cls": "iaii3",
 "disc": "st",
 "type": "l",
-"title": "Lucrarea 13. Senzori digitali și rețele de senzori: I²C, SPI, Modbus/IO-Link – achiziția și prelucrarea datelor · Lucrarea 14. Aplicație finală de achiziție de date. Verificarea referatelor – colocviu de laborator",
-"nr": "L13, L14",
+"title": "Lucrarea 14. Aplicație finală de achiziție de date. Verificarea referatelor – colocviu de laborator",
+"nr": "L14",
 "date": "2027-01-18",
 "time": "16:00",
 "end": "18:00",
@@ -2431,8 +2479,8 @@
 "module": "Senzori și traductoare",
 "sgr": "",
 "loc": "sală de stabilit",
-"seq": 13,
-"n": 13,
+"seq": 14,
+"n": 14,
 "parts": [
 "Programa propusă a laboratoarelor (de validat cu titularul de curs)",
 "Îndrumarul de laborator este în pregătire – se adaugă aici pe măsură ce este redactat"
@@ -2444,8 +2492,8 @@
 "cls": "ar4",
 "disc": "mam",
 "type": "l",
-"title": "Lucrarea 10. Magistrala CAN: construirea mesajelor, arbitrajul și decodarea semnalelor",
-"nr": "L10",
+"title": "Lucrarea 10b. Magistrala CAN: construirea mesajelor, arbitrajul și decodarea semnalelor",
+"nr": "L10b",
 "date": "2027-01-19",
 "time": "16:00",
 "end": "18:00",
@@ -2453,10 +2501,10 @@
 "module": "Mecatronica automobilului modern I",
 "sgr": "",
 "loc": "A02",
-"seq": 13,
-"n": 13,
+"seq": 14,
+"n": 14,
 "parts": [
-"Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 10"
+"Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 10b"
 ],
 "pdf": "pdf/ar4-mam-2027-01-19-1600-9a607c.pdf"
 },

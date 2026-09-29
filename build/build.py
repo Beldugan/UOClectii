@@ -169,8 +169,8 @@ UNITS = {
     "saa": lab_units("SAA", SAA, [S(0), S(1, 3), S(2), S(4), S(5), S(6), S(7)]),
     "da": lab_units("DA", DA, [S(i) for i in range(7)]),
     "mam": lab_units("MAM", MAM, [[(0, "a")], [(0, "b")], S(1), S(2), S(3), S(4), S(5), S(6),
-                                   [(7, "a")], [(7, "b")], [(8, "a")], [(8, "b")], S(9)]),
-    "st": iaii_units(ST, 1, [[i] for i in range(12)] + [[12, 13]]),
+                                   [(7, "a")], [(7, "b")], [(8, "a")], [(8, "b")], [(9, "a")], [(9, "b")]]),
+    "st": iaii_units(ST, 1, [[i] for i in range(14)]),
     "api": iaii_units(API, 2, [[i] for i in range(14)]),
 }
 
