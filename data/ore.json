@@ -72,6 +72,29 @@
 "pdf": "pdf/arifr-pc-2026-10-06-1900-fae880.pdf"
 },
 {
+"id": "iaii3-api-2026-10-07-1600",
+"cls": "iaii3",
+"disc": "api",
+"type": "l",
+"date": "2026-10-07",
+"time": "16:00",
+"end": "18:00",
+"week": 2,
+"module": "Analiza și prelucrarea imaginilor",
+"sgr": "",
+"loc": "sală de stabilit",
+"seq": 1,
+"n": 14,
+"title": "Lucrarea 1. Sistemul de viziune: cameră, senzor, obiectiv, iluminare. Achiziția și reprezentarea imaginii digitale",
+"nr": "L1",
+"parts": [
+"Îndrumar de laborator – Analiza și prelucrarea imaginilor – Introducere și norme de securitate",
+"Îndrumar de laborator – Analiza și prelucrarea imaginilor – Lucrarea 1",
+"Îndrumar de laborator – Analiza și prelucrarea imaginilor – Anexa C. Mediul de lucru Python"
+],
+"pdf": "pdf/iaii3-api-2026-10-07-1600-833f2b.pdf"
+},
+{
 "id": "ar3-pc-s1-2026-10-07-1800",
 "cls": "ar3",
 "disc": "pc",
@@ -240,6 +263,27 @@
 ]
 ],
 "pdf": "pdf/arifr-pc-2026-10-13-1900-82a110.pdf"
+},
+{
+"id": "iaii3-api-2026-10-14-1600",
+"cls": "iaii3",
+"disc": "api",
+"type": "l",
+"date": "2026-10-14",
+"time": "16:00",
+"end": "18:00",
+"week": 3,
+"module": "Analiza și prelucrarea imaginilor",
+"sgr": "",
+"loc": "sală de stabilit",
+"seq": 2,
+"n": 14,
+"title": "Lucrarea 2. Spații de culoare și segmentarea după culoare",
+"nr": "L2",
+"parts": [
+"Îndrumar de laborator – Analiza și prelucrarea imaginilor – Lucrarea 2"
+],
+"pdf": "pdf/iaii3-api-2026-10-14-1600-d8cf78.pdf"
 },
 {
 "id": "ar3-pc-s1-2026-10-14-1800",
@@ -412,6 +456,27 @@
 "pdf": "pdf/arifr-pc-2026-10-20-1900-ccc96c.pdf"
 },
 {
+"id": "iaii3-api-2026-10-21-1600",
+"cls": "iaii3",
+"disc": "api",
+"type": "l",
+"date": "2026-10-21",
+"time": "16:00",
+"end": "18:00",
+"week": 4,
+"module": "Analiza și prelucrarea imaginilor",
+"sgr": "",
+"loc": "sală de stabilit",
+"seq": 3,
+"n": 14,
+"title": "Lucrarea 3. Histograma și operațiile punctuale: contrast, gamma, egalizare",
+"nr": "L3",
+"parts": [
+"Îndrumar de laborator – Analiza și prelucrarea imaginilor – Lucrarea 3"
+],
+"pdf": "pdf/iaii3-api-2026-10-21-1600-4d08d5.pdf"
+},
+{
 "id": "ar3-pc-s1-2026-10-21-1800",
 "cls": "ar3",
 "disc": "pc",
@@ -579,6 +644,27 @@
 ]
 ],
 "pdf": "pdf/arifr-pc-2026-10-27-1900-63da7a.pdf"
+},
+{
+"id": "iaii3-api-2026-10-28-1600",
+"cls": "iaii3",
+"disc": "api",
+"type": "l",
+"date": "2026-10-28",
+"time": "16:00",
+"end": "18:00",
+"week": 5,
+"module": "Analiza și prelucrarea imaginilor",
+"sgr": "",
+"loc": "sală de stabilit",
+"seq": 4,
+"n": 14,
+"title": "Lucrarea 4. Filtrarea în domeniul spațial: convoluția, filtre liniare și neliniare",
+"nr": "L4",
+"parts": [
+"Îndrumar de laborator – Analiza și prelucrarea imaginilor – Lucrarea 4"
+],
+"pdf": "pdf/iaii3-api-2026-10-28-1600-53dd88.pdf"
 },
 {
 "id": "ar3-pc-s1-2026-10-28-1800",
@@ -750,6 +836,27 @@
 "pdf": "pdf/arifr-pc-2026-11-03-1900-82feae.pdf"
 },
 {
+"id": "iaii3-api-2026-11-04-1600",
+"cls": "iaii3",
+"disc": "api",
+"type": "l",
+"date": "2026-11-04",
+"time": "16:00",
+"end": "18:00",
+"week": 6,
+"module": "Analiza și prelucrarea imaginilor",
+"sgr": "",
+"loc": "sală de stabilit",
+"seq": 5,
+"n": 14,
+"title": "Lucrarea 5. Transformata Fourier 2D și filtrarea în domeniul frecvență",
+"nr": "L5",
+"parts": [
+"Îndrumar de laborator – Analiza și prelucrarea imaginilor – Lucrarea 5"
+],
+"pdf": "pdf/iaii3-api-2026-11-04-1600-79340e.pdf"
+},
+{
 "id": "ar3-pc-s1-2026-11-04-1800",
 "cls": "ar3",
 "disc": "pc",
@@ -917,6 +1024,27 @@
 ]
 ],
 "pdf": "pdf/arifr-pc-2026-11-10-1900-b72ef4.pdf"
+},
+{
+"id": "iaii3-api-2026-11-11-1600",
+"cls": "iaii3",
+"disc": "api",
+"type": "l",
+"date": "2026-11-11",
+"time": "16:00",
+"end": "18:00",
+"week": 7,
+"module": "Analiza și prelucrarea imaginilor",
+"sgr": "",
+"loc": "sală de stabilit",
+"seq": 6,
+"n": 14,
+"title": "Lucrarea 6. Detecția muchiilor: operatorii Sobel, Prewitt, Laplacian și Canny",
+"nr": "L6",
+"parts": [
+"Îndrumar de laborator – Analiza și prelucrarea imaginilor – Lucrarea 6"
+],
+"pdf": "pdf/iaii3-api-2026-11-11-1600-2b2b65.pdf"
 },
 {
 "id": "ar3-pc-s1-2026-11-11-1800",
@@ -1087,6 +1215,27 @@
 "pdf": "pdf/arifr-pc-2026-11-17-1900-49cf3c.pdf"
 },
 {
+"id": "iaii3-api-2026-11-18-1600",
+"cls": "iaii3",
+"disc": "api",
+"type": "l",
+"date": "2026-11-18",
+"time": "16:00",
+"end": "18:00",
+"week": 8,
+"module": "Analiza și prelucrarea imaginilor",
+"sgr": "",
+"loc": "sală de stabilit",
+"seq": 7,
+"n": 14,
+"title": "Lucrarea 7. Segmentarea imaginilor: prag global, metoda Otsu, prag adaptiv, watershed",
+"nr": "L7",
+"parts": [
+"Îndrumar de laborator – Analiza și prelucrarea imaginilor – Lucrarea 7"
+],
+"pdf": "pdf/iaii3-api-2026-11-18-1600-b9773b.pdf"
+},
+{
 "id": "ar3-pc-s1-2026-11-18-1800",
 "cls": "ar3",
 "disc": "pc",
@@ -1255,6 +1404,27 @@
 "pdf": "pdf/arifr-pc-2026-11-24-1900-8af990.pdf"
 },
 {
+"id": "iaii3-api-2026-11-25-1600",
+"cls": "iaii3",
+"disc": "api",
+"type": "l",
+"date": "2026-11-25",
+"time": "16:00",
+"end": "18:00",
+"week": 9,
+"module": "Analiza și prelucrarea imaginilor",
+"sgr": "",
+"loc": "sală de stabilit",
+"seq": 8,
+"n": 14,
+"title": "Lucrarea 8. Morfologie matematică: operatori de bază și derivați, top-hat, hit-or-miss, schelet – detectarea defectelor",
+"nr": "L8",
+"parts": [
+"Îndrumar de laborator – Analiza și prelucrarea imaginilor – Lucrarea 8"
+],
+"pdf": "pdf/iaii3-api-2026-11-25-1600-ada5f1.pdf"
+},
+{
 "id": "ar3-pc-s1-2026-11-25-1800",
 "cls": "ar3",
 "disc": "pc",
@@ -1352,6 +1522,27 @@
 "Îndrumar de laborator – Sisteme auxiliare ale autovehiculelor – Lucrarea 6"
 ],
 "pdf": "pdf/ar4-saa-2026-11-27-1600-c525ac.pdf"
+},
+{
+"id": "iaii3-api-2026-12-02-1600",
+"cls": "iaii3",
+"disc": "api",
+"type": "l",
+"date": "2026-12-02",
+"time": "16:00",
+"end": "18:00",
+"week": 10,
+"module": "Analiza și prelucrarea imaginilor",
+"sgr": "",
+"loc": "sală de stabilit",
+"seq": 9,
+"n": 14,
+"title": "Lucrarea 9. Analiza obiectelor (blob analysis): etichetare, proprietăți geometrice, numărare și sortare",
+"nr": "L9",
+"parts": [
+"Îndrumar de laborator – Analiza și prelucrarea imaginilor – Lucrarea 9"
+],
+"pdf": "pdf/iaii3-api-2026-12-02-1600-0d5257.pdf"
 },
 {
 "id": "ar3-pc-s1-2026-12-02-1800",
@@ -1565,6 +1756,27 @@
 "pdf": "pdf/arifr-pc-2026-12-08-1900-5cbd49.pdf"
 },
 {
+"id": "iaii3-api-2026-12-09-1600",
+"cls": "iaii3",
+"disc": "api",
+"type": "l",
+"date": "2026-12-09",
+"time": "16:00",
+"end": "18:00",
+"week": 11,
+"module": "Analiza și prelucrarea imaginilor",
+"sgr": "",
+"loc": "sală de stabilit",
+"seq": 10,
+"n": 14,
+"title": "Lucrarea 10. Calibrarea camerei și măsurarea dimensională din imagini",
+"nr": "L10",
+"parts": [
+"Îndrumar de laborator – Analiza și prelucrarea imaginilor – Lucrarea 10"
+],
+"pdf": "pdf/iaii3-api-2026-12-09-1600-ddd6fe.pdf"
+},
+{
 "id": "ar3-pc-s1-2026-12-09-1800",
 "cls": "ar3",
 "disc": "pc",
@@ -1760,6 +1972,27 @@
 ]
 ],
 "pdf": "pdf/arifr-pc-2026-12-15-1900-202d2e.pdf"
+},
+{
+"id": "iaii3-api-2026-12-16-1600",
+"cls": "iaii3",
+"disc": "api",
+"type": "l",
+"date": "2026-12-16",
+"time": "16:00",
+"end": "18:00",
+"week": 12,
+"module": "Analiza și prelucrarea imaginilor",
+"sgr": "",
+"loc": "sală de stabilit",
+"seq": 11,
+"n": 14,
+"title": "Lucrarea 11. Localizarea pieselor: transformata Hough, potrivirea după model și după trăsături",
+"nr": "L11",
+"parts": [
+"Îndrumar de laborator – Analiza și prelucrarea imaginilor – Lucrarea 11"
+],
+"pdf": "pdf/iaii3-api-2026-12-16-1600-727488.pdf"
 },
 {
 "id": "ar3-pc-s1-2026-12-16-1800",
@@ -1974,6 +2207,27 @@
 "pdf": "pdf/arifr-pc-2026-12-22-1900-bbd6a4.pdf"
 },
 {
+"id": "iaii3-api-2026-12-23-1600",
+"cls": "iaii3",
+"disc": "api",
+"type": "l",
+"date": "2026-12-23",
+"time": "16:00",
+"end": "18:00",
+"week": 13,
+"module": "Analiza și prelucrarea imaginilor",
+"sgr": "",
+"loc": "sală de stabilit",
+"seq": 12,
+"n": 14,
+"title": "Lucrarea 12. Citirea automată a codurilor de bare, a codurilor 2D și a textului (OCR)",
+"nr": "L12",
+"parts": [
+"Îndrumar de laborator – Analiza și prelucrarea imaginilor – Lucrarea 12"
+],
+"pdf": "pdf/iaii3-api-2026-12-23-1600-d163e8.pdf"
+},
+{
 "id": "ar3-pc-s1-2026-12-23-1800",
 "cls": "ar3",
 "disc": "pc",
@@ -2070,6 +2324,27 @@
 ]
 ],
 "pdf": "pdf/arifr-pc-2027-01-12-1900-38505f.pdf"
+},
+{
+"id": "iaii3-api-2027-01-13-1600",
+"cls": "iaii3",
+"disc": "api",
+"type": "l",
+"date": "2027-01-13",
+"time": "16:00",
+"end": "18:00",
+"week": 14,
+"module": "Analiza și prelucrarea imaginilor",
+"sgr": "",
+"loc": "sală de stabilit",
+"seq": 13,
+"n": 14,
+"title": "Lucrarea 13. Învățarea profundă pentru inspecție: clasificarea pieselor OK/NOK și detecția defectelor",
+"nr": "L13",
+"parts": [
+"Îndrumar de laborator – Analiza și prelucrarea imaginilor – Lucrarea 13"
+],
+"pdf": "pdf/iaii3-api-2027-01-13-1600-85ba1d.pdf"
 },
 {
 "id": "ar3-pc-s1-2027-01-13-1800",
@@ -2242,6 +2517,28 @@
 ]
 ],
 "pdf": "pdf/arifr-pc-2027-01-19-1900-d04c29.pdf"
+},
+{
+"id": "iaii3-api-2027-01-20-1600",
+"cls": "iaii3",
+"disc": "api",
+"type": "l",
+"date": "2027-01-20",
+"time": "16:00",
+"end": "18:00",
+"week": 15,
+"module": "Analiza și prelucrarea imaginilor",
+"sgr": "",
+"loc": "sală de stabilit",
+"seq": 14,
+"n": 14,
+"title": "Evaluarea portofoliului de lucrări de laborator (referatele L1–L13 și aplicația de inspecție realizată în echipă)",
+"nr": "Portofoliu",
+"parts": [
+"Îndrumar de laborator – Analiza și prelucrarea imaginilor – Anexa A (modelul referatului) și Anexa B (grila de evaluare a lucrării și a portofoliului)",
+"Portofoliul conține referatele lucrărilor 1–13 cu programele Python; fiecare echipă prezintă o aplicație de inspecție (5 minute)"
+],
+"pdf": "pdf/iaii3-api-2027-01-20-1600-88d48c.pdf"
 },
 {
 "id": "ar3-pc-s1-2027-01-20-1800",

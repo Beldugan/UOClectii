@@ -22,6 +22,7 @@ F = dict(
     PC=f"{SRC}/AR IF/PCMAI proiect/PCMAI_Indrumar_proiect_2026-2027.pdf",
     IAII=f"{SRC}/IAII/IAII_Laboratoare_Beldugan_2026-2027.pdf",
     ST=f"{SRC}/IAII/Senzori si traductoare/ST_Indrumar_laborator_2026-2027.pdf",
+    API=f"{SRC}/IAII/Analiza si prelucrarea imaginilor/API_Indrumar_laborator_2026-2027.pdf",
 )
 XLSX = f"{SRC}/AR IF/PCMAI proiect/PCMAI_Calcul_termic_2026-2027.xlsx"
 if not os.path.exists(XLSX):
@@ -30,7 +31,8 @@ if not os.path.exists(XLSX):
 MAN = dict(MF="Îndrumar de laborator – Mecanica fluidelor", SAA="Îndrumar de laborator – Sisteme auxiliare ale autovehiculelor",
            DA="Îndrumar de laborator – Diagnosticarea autovehiculelor", MAM="Îndrumar de laborator – Mecatronica automobilului modern I",
            PC="Îndrumar de proiect – PCMAI", IAII="Programa propusă a laboratoarelor IAII",
-           ST="Îndrumar de laborator – Senzori și traductoare")
+           ST="Îndrumar de laborator – Senzori și traductoare",
+           API="Îndrumar de laborator – Analiza și prelucrarea imaginilor")
 
 # ------------------------------------------------ conținut pe lucrări: (titlu, [(doc, a, b), ...])
 MF = [
@@ -195,6 +197,35 @@ STL = [
 ]
 
 
+APIL = [
+    ('Sistemul de viziune: cameră, senzor, obiectiv, iluminare. Achiziția și reprezentarea imaginii digitale', 6, 9),
+    ('Spații de culoare și segmentarea după culoare', 10, 12),
+    ('Histograma și operațiile punctuale: contrast, gamma, egalizare', 13, 15),
+    ('Filtrarea în domeniul spațial: convoluția, filtre liniare și neliniare', 16, 18),
+    ('Transformata Fourier 2D și filtrarea în domeniul frecvență', 19, 21),
+    ('Detecția muchiilor: operatorii Sobel, Prewitt, Laplacian și Canny', 22, 24),
+    ('Segmentarea imaginilor: prag global, metoda Otsu, prag adaptiv, watershed', 25, 27),
+    ('Morfologie matematică: operatori de bază și derivați, top-hat, hit-or-miss, schelet – detectarea defectelor', 28, 30),
+    ('Analiza obiectelor (blob analysis): etichetare, proprietăți geometrice, numărare și sortare', 31, 33),
+    ('Calibrarea camerei și măsurarea dimensională din imagini', 34, 36),
+    ('Localizarea pieselor: transformata Hough, potrivirea după model și după trăsături', 37, 39),
+    ('Citirea automată a codurilor de bare, a codurilor 2D și a textului (OCR)', 40, 42),
+    ('Învățarea profundă pentru inspecție: clasificarea pieselor OK/NOK și detecția defectelor', 43, 45),
+]
+
+
+def api_units():
+    """IAII III – APIM: 13 lucrări (L1 cu Anexa C – mediul Python) + evaluarea portofoliului."""
+    u = lab_units("API", APIL, [S(i) for i in range(13)])
+    u[0]["pages"].append(("API", 48, 48)); u[0]["parts"].append(f"{MAN['API']} – Anexa C. Mediul de lucru Python")
+    u.append(dict(title="Evaluarea portofoliului de lucrări de laborator (referatele L1–L13 și aplicația de inspecție realizată în echipă)",
+                  pages=[("API", 46, 47)],
+                  parts=[f"{MAN['API']} – Anexa A (modelul referatului) și Anexa B (grila de evaluare a lucrării și a portofoliului)",
+                         "Portofoliul conține referatele lucrărilor 1–13 cu programele Python; fiecare echipă prezintă o aplicație de inspecție (5 minute)"],
+                  nr="Portofoliu"))
+    return u
+
+
 def st_portfolio():
     """Ultima ședință ST: evaluarea portofoliului; aplicația finală (L14) se prezintă aici."""
     return dict(title="Evaluarea portofoliului de lucrări de laborator (referatele L1–L13 și aplicația finală – Lucrarea 14)",
@@ -215,8 +246,10 @@ UNITS = {
                                    [(7, "a")], [(7, "b")], [(8, "a")], [(8, "b")], [(9, "a")], [(9, "b")]]) + [portfolio("MAM")],
     # IAII III: 13 lucrări + ultima ședință = evaluarea portofoliului
     "st": lab_units("ST", STL, [S(i) for i in range(13)]) + [st_portfolio()],
-    "api": iaii_units(API, 2, [[i] for i in range(14)]),
+    "api": None,  # completat după definirea funcțiilor (api_units)
 }
+
+UNITS["api"] = api_units()
 
 # ------------------------------------------------ clasificarea evenimentelor
 PROG = {"AR II": "ar2", "AR III": "ar3", "AR IFR": "arifr", "AR IV": "ar4", "IAII III": "iaii3"}
