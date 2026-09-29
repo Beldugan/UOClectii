@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>UOC · Materialele orelor</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="top"><div class="wrap">
+  <div><h1>Materialele orelor</h1><small>FIMIM · Universitatea „Ovidius” din Constanța · sem. I 2026–2027 · Drd. ing. A.-M. Beldugan</small></div>
+</div></header>
+<main class="wrap">
+  <div class="tabs" role="group" aria-label="Program și an">
+    <button class="tab" data-cls="ar2">AR II</button>
+    <button class="tab" data-cls="ar3">AR III</button>
+    <button class="tab" data-cls="arifr">AR IFR</button>
+    <button class="tab" data-cls="ar4">AR IV</button>
+    <button class="tab" data-cls="iaii3">IAII III</button>
+  </div>
+  <div class="toolbar">
+    <select id="mod" aria-label="Disciplina"></select>
+    <input id="q" type="search" placeholder="Caută o temă sau o dată (ex. Bernoulli, 06.10)" aria-label="Caută">
+  </div>
+  <section id="today"></section>
+  <section id="weeks"></section>
+</main>
+<script>
+const $ = s => document.querySelector(s);
+const TYPE = {l:"Lab.", p:"Proiect"};
+const ZI = ["dum.","lun.","mar.","mie.","joi","vin.","sâm."];
+const fmt = d => { const x = new Date(d+"T12:00"); return `${ZI[x.getDay()]} ${d.slice(8,10)}.${d.slice(5,7)}.${d.slice(0,4)}`; };
+const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+let ORE = [], cls = "ar2";
+try { cls = localStorage.getItem("uoc-cls") || "ar2"; } catch(e) {}
+const key = o => o.disc + (o.sgr ? "|" + o.sgr : "");
+const kname = o => o.module + (o.sgr ? " – " + o.sgr : "");
+
+function row(o){
+  return `<li><a href="o.html?o=${o.id}">
+    <span class="when">${fmt(o.date)} · ${o.time}</span>
+    <span class="badge b-${o.type}">${TYPE[o.type]}</span>
+    <span class="ttl"><b>${esc(o.title)}</b><small>${esc(kname(o))} · ${esc(o.loc)}</small></span><span class="nr">${esc(o.nr)}</span></a></li>`;
+}
+function render(){
+  document.querySelectorAll(".tab").forEach(b => b.setAttribute("aria-pressed", b.dataset.cls===cls));
+  const list = ORE.filter(o => o.cls===cls);
+  const mods = [...new Map(list.map(o => [key(o), kname(o)])).entries()].sort((a,b)=>a[1].localeCompare(b[1]));
+  const sel = $("#mod"), cur = sel.value;
+  sel.innerHTML = `<option value="">Toate disciplinele</option>` + mods.map(([k,n]) => `<option value="${k}">${esc(n)}</option>`).join("");
+  if (mods.some(([k])=>k===cur)) sel.value = cur;
+  const q = $("#q").value.trim().toLowerCase();
+  const f = list.filter(o => (!sel.value || key(o)===sel.value) &&
+      (!q || (o.title+" "+o.module+" "+o.nr+" "+fmt(o.date)).toLowerCase().includes(q)));
+  const iso = d => d.toISOString().slice(0,10), now = new Date();
+  const t0 = iso(now), t7 = iso(new Date(now.getTime()+7*864e5));
+  const soon = f.filter(o => o.date>=t0 && o.date<=t7);
+  $("#today").innerHTML = soon.length ? `<div class="card today"><h2>Următoarele 7 zile <span>${soon.length} ședinț${soon.length>1?"e":"ă"}</span></h2><ul class="hours">${soon.map(row).join("")}</ul></div>` : "";
+  const byWeek = new Map();
+  f.forEach(o => { if(!byWeek.has(o.week)) byWeek.set(o.week, []); byWeek.get(o.week).push(o); });
+  const weeks = [...byWeek.entries()].sort((a,b)=>a[0]-b[0]);
+  $("#weeks").innerHTML = `<div class="card"><h2>Toate ședințele <span>${f.length} ședințe · ${weeks.length} săptămâni</span></h2>` +
+    (weeks.length ? weeks.map(([w, os]) => {
+      const open = q || os.some(o => o.date>=t0 && o.date<=t7);
+      return `<details class="week"${open?" open":""}><summary>S${w} · ${fmt(os[0].date).slice(5)}${os.length>1?" – "+fmt(os[os.length-1].date).slice(5):""} · ${os.length} ședinț${os.length>1?"e":"ă"}</summary><ul class="hours">${os.map(row).join("")}</ul></details>`;
+    }).join("") : `<div class="empty">Nicio ședință găsită.</div>`) + `</div>`;
+}
+document.querySelectorAll(".tab").forEach(b => b.onclick = () => { cls = b.dataset.cls; try{localStorage.setItem("uoc-cls",cls)}catch(e){}; $("#mod").value=""; render(); });
+$("#mod").onchange = render; $("#q").oninput = render;
+fetch("data/ore.json").then(r=>r.json()).then(d => { ORE = d; render(); })
+  .catch(() => $("#weeks").innerHTML = `<div class="empty">Nu pot încărca lista ședințelor.</div>`);
+</script>
+</body>
+</html>
