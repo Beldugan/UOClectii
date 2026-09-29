@@ -4,8 +4,6 @@
 "cls": "ar4",
 "disc": "mam",
 "type": "l",
-"title": "Lucrarea 1a. Microcontrolere: intrări/ieșiri, convertor A/D, timere, întreruperi și PWM",
-"nr": "L1a",
 "date": "2026-10-06",
 "time": "16:00",
 "end": "18:00",
@@ -15,6 +13,8 @@
 "loc": "A02",
 "seq": 1,
 "n": 14,
+"title": "Lucrarea 1a. Microcontrolere: intrări/ieșiri, convertor A/D, timere, întreruperi și PWM",
+"nr": "L1a",
 "parts": [
 "Îndrumar de laborator – Mecatronica automobilului modern I – Introducere și norme de securitate",
 "Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 1a"
@@ -132,8 +132,6 @@
 "cls": "ar4",
 "disc": "da",
 "type": "l",
-"title": "Lucrarea 1. Diagnoza computerizată și rețeaua de date CAN",
-"nr": "L1",
 "date": "2026-10-09",
 "time": "16:00",
 "end": "18:00",
@@ -143,6 +141,8 @@
 "loc": "A04",
 "seq": 1,
 "n": 7,
+"title": "Lucrarea 1. Diagnoza computerizată și rețeaua de date CAN",
+"nr": "L1",
 "parts": [
 "Îndrumar de laborator – Diagnosticarea autovehiculelor – Introducere și norme de securitate",
 "Îndrumar de laborator – Diagnosticarea autovehiculelor – Lucrarea 1"
@@ -154,8 +154,6 @@
 "cls": "ar4",
 "disc": "mam",
 "type": "l",
-"title": "Lucrarea 1b. Microcontrolere: intrări/ieșiri, convertor A/D, timere, întreruperi și PWM",
-"nr": "L1b",
 "date": "2026-10-13",
 "time": "16:00",
 "end": "18:00",
@@ -165,6 +163,8 @@
 "loc": "A02",
 "seq": 2,
 "n": 14,
+"title": "Lucrarea 1b. Microcontrolere: intrări/ieșiri, convertor A/D, timere, întreruperi și PWM",
+"nr": "L1b",
 "parts": [
 "Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 1b"
 ],
@@ -281,8 +281,6 @@
 "cls": "ar4",
 "disc": "saa",
 "type": "l",
-"title": "Lucrarea 1. Sistemul de injecție de benzină multipunct – caracteristicile de funcționare pe standul motorului 1.4 MPI",
-"nr": "L1",
 "date": "2026-10-16",
 "time": "16:00",
 "end": "18:00",
@@ -292,6 +290,8 @@
 "loc": "A02",
 "seq": 1,
 "n": 7,
+"title": "Lucrarea 1. Sistemul de injecție de benzină multipunct – caracteristicile de funcționare pe standul motorului 1.4 MPI",
+"nr": "L1",
 "parts": [
 "Îndrumar de laborator – Sisteme auxiliare ale autovehiculelor – Introducere și norme de securitate",
 "Îndrumar de laborator – Sisteme auxiliare ale autovehiculelor – Lucrarea 1"
@@ -303,8 +303,6 @@
 "cls": "ar4",
 "disc": "mam",
 "type": "l",
-"title": "Lucrarea 2. Condiționarea semnalelor și conversia analog-digitală",
-"nr": "L2",
 "date": "2026-10-20",
 "time": "16:00",
 "end": "18:00",
@@ -314,6 +312,8 @@
 "loc": "A02",
 "seq": 3,
 "n": 14,
+"title": "Lucrarea 2. Condiționarea semnalelor și conversia analog-digitală",
+"nr": "L2",
 "parts": [
 "Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 2"
 ],
@@ -429,8 +429,6 @@
 "cls": "ar4",
 "disc": "da",
 "type": "l",
-"title": "Lucrarea 2. Senzori și actuatori – date live și semnale reale",
-"nr": "L2",
 "date": "2026-10-23",
 "time": "16:00",
 "end": "18:00",
@@ -440,6 +438,8 @@
 "loc": "A04",
 "seq": 2,
 "n": 7,
+"title": "Lucrarea 2. Senzori și actuatori – date live și semnale reale",
+"nr": "L2",
 "parts": [
 "Îndrumar de laborator – Diagnosticarea autovehiculelor – Lucrarea 2"
 ],
@@ -450,8 +450,6 @@
 "cls": "ar4",
 "disc": "mam",
 "type": "l",
-"title": "Lucrarea 3. Senzorul pedalei de accelerație cu două piste: plauzibilitate și reacția la defect",
-"nr": "L3",
 "date": "2026-10-27",
 "time": "16:00",
 "end": "18:00",
@@ -461,10 +459,13 @@
 "loc": "A02",
 "seq": 4,
 "n": 14,
+"title": "Lucrarea 3. Senzorul pedalei de accelerație cu două piste: plauzibilitate și reacția la defect · Lucrarea 4. Senzori de temperatură: liniarizare și constanta de timp",
+"nr": "L3, L4",
 "parts": [
-"Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 3"
+"Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 3",
+"Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 4"
 ],
-"pdf": "pdf/ar4-mam-2026-10-27-1600-7dc30e.pdf"
+"pdf": "pdf/ar4-mam-2026-10-27-1600-fb9759.pdf"
 },
 {
 "id": "arifr-pc-2026-10-27-1900",
@@ -576,8 +577,6 @@
 "cls": "ar4",
 "disc": "saa",
 "type": "l",
-"title": "Lucrarea 2. Modelarea duratei de injecție pe baza debitului de aer – aplicație virtuală LabVIEW · Lucrarea 4. Sistemul de ungere – caracteristica presiunii uleiului",
-"nr": "L2, L4",
 "date": "2026-10-30",
 "time": "16:00",
 "end": "18:00",
@@ -587,6 +586,8 @@
 "loc": "A02",
 "seq": 2,
 "n": 7,
+"title": "Lucrarea 2. Modelarea duratei de injecție pe baza debitului de aer – aplicație virtuală LabVIEW · Lucrarea 4. Sistemul de ungere – caracteristica presiunii uleiului",
+"nr": "L2, L4",
 "parts": [
 "Îndrumar de laborator – Sisteme auxiliare ale autovehiculelor – Lucrarea 2",
 "Îndrumar de laborator – Sisteme auxiliare ale autovehiculelor – Lucrarea 4"
@@ -598,8 +599,6 @@
 "cls": "ar4",
 "disc": "mam",
 "type": "l",
-"title": "Lucrarea 4. Senzori de temperatură: liniarizare și constanta de timp",
-"nr": "L4",
 "date": "2026-11-03",
 "time": "16:00",
 "end": "18:00",
@@ -609,10 +608,12 @@
 "loc": "A02",
 "seq": 5,
 "n": 14,
+"title": "Lucrarea 5. Senzorul de presiune absolută din colector (MAP): calibrare și calculul densității aerului",
+"nr": "L5",
 "parts": [
-"Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 4"
+"Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 5"
 ],
-"pdf": "pdf/ar4-mam-2026-11-03-1600-a2e9f8.pdf"
+"pdf": "pdf/ar4-mam-2026-11-03-1600-4618bc.pdf"
 },
 {
 "id": "arifr-pc-2026-11-03-1900",
@@ -724,8 +725,6 @@
 "cls": "ar4",
 "disc": "da",
 "type": "l",
-"title": "Lucrarea 3. Starea mecanică a motorului",
-"nr": "L3",
 "date": "2026-11-06",
 "time": "16:00",
 "end": "18:00",
@@ -735,18 +734,19 @@
 "loc": "A04",
 "seq": 3,
 "n": 7,
+"title": "Lucrarea 3. Starea mecanică a motorului · Lucrarea 4. Sistemul de alimentare MAS și analiza gazelor de evacuare",
+"nr": "L3, L4",
 "parts": [
-"Îndrumar de laborator – Diagnosticarea autovehiculelor – Lucrarea 3"
+"Îndrumar de laborator – Diagnosticarea autovehiculelor – Lucrarea 3",
+"Îndrumar de laborator – Diagnosticarea autovehiculelor – Lucrarea 4"
 ],
-"pdf": "pdf/ar4-da-2026-11-06-1600-714a80.pdf"
+"pdf": "pdf/ar4-da-2026-11-06-1600-eb6b89.pdf"
 },
 {
 "id": "ar4-mam-2026-11-10-1600",
 "cls": "ar4",
 "disc": "mam",
 "type": "l",
-"title": "Lucrarea 5. Senzorul de presiune absolută din colector (MAP): calibrare și calculul densității aerului",
-"nr": "L5",
 "date": "2026-11-10",
 "time": "16:00",
 "end": "18:00",
@@ -756,10 +756,12 @@
 "loc": "A02",
 "seq": 6,
 "n": 14,
+"title": "Lucrarea 6. Senzori de turație și poziție: decodarea roții 60−2 prin captură de intrare",
+"nr": "L6",
 "parts": [
-"Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 5"
+"Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 6"
 ],
-"pdf": "pdf/ar4-mam-2026-11-10-1600-14fccd.pdf"
+"pdf": "pdf/ar4-mam-2026-11-10-1600-9094af.pdf"
 },
 {
 "id": "arifr-pc-2026-11-10-1900",
@@ -871,8 +873,6 @@
 "cls": "ar4",
 "disc": "saa",
 "type": "l",
-"title": "Lucrarea 3. Sistemul de injecție common-rail – reglarea presiunii în rampă și injecția multiplă (1.5 dCi)",
-"nr": "L3",
 "date": "2026-11-13",
 "time": "16:00",
 "end": "18:00",
@@ -882,6 +882,8 @@
 "loc": "A02",
 "seq": 3,
 "n": 7,
+"title": "Lucrarea 3. Sistemul de injecție common-rail – reglarea presiunii în rampă și injecția multiplă (1.5 dCi)",
+"nr": "L3",
 "parts": [
 "Îndrumar de laborator – Sisteme auxiliare ale autovehiculelor – Lucrarea 3"
 ],
@@ -892,8 +894,6 @@
 "cls": "ar4",
 "disc": "mam",
 "type": "l",
-"title": "Lucrarea 6. Senzori de turație și poziție: decodarea roții 60−2 prin captură de intrare",
-"nr": "L6",
 "date": "2026-11-17",
 "time": "16:00",
 "end": "18:00",
@@ -903,10 +903,12 @@
 "loc": "A02",
 "seq": 7,
 "n": 14,
+"title": "Lucrarea 7. Senzori ultrasonici de parcare: timpul de propagare și compensarea cu temperatura",
+"nr": "L7",
 "parts": [
-"Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 6"
+"Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 7"
 ],
-"pdf": "pdf/ar4-mam-2026-11-17-1600-991330.pdf"
+"pdf": "pdf/ar4-mam-2026-11-17-1600-4e7e04.pdf"
 },
 {
 "id": "arifr-pc-2026-11-17-1900",
@@ -1018,8 +1020,6 @@
 "cls": "ar4",
 "disc": "da",
 "type": "l",
-"title": "Lucrarea 4. Sistemul de alimentare MAS și analiza gazelor de evacuare",
-"nr": "L4",
 "date": "2026-11-20",
 "time": "16:00",
 "end": "18:00",
@@ -1029,18 +1029,18 @@
 "loc": "A04",
 "seq": 4,
 "n": 7,
+"title": "Lucrarea 5. Motorul diesel common rail și sistemele de post-tratare (EGR, DPF, SCR)",
+"nr": "L5",
 "parts": [
-"Îndrumar de laborator – Diagnosticarea autovehiculelor – Lucrarea 4"
+"Îndrumar de laborator – Diagnosticarea autovehiculelor – Lucrarea 5"
 ],
-"pdf": "pdf/ar4-da-2026-11-20-1600-676190.pdf"
+"pdf": "pdf/ar4-da-2026-11-20-1600-a3a707.pdf"
 },
 {
 "id": "ar4-mam-2026-11-24-1600",
 "cls": "ar4",
 "disc": "mam",
 "type": "l",
-"title": "Lucrarea 7. Senzori ultrasonici de parcare: timpul de propagare și compensarea cu temperatura",
-"nr": "L7",
 "date": "2026-11-24",
 "time": "16:00",
 "end": "18:00",
@@ -1050,10 +1050,12 @@
 "loc": "A02",
 "seq": 8,
 "n": 14,
+"title": "Lucrarea 8a. Senzori inerțiali (IMU): unghiurile de ruliu și tangaj, filtrul complementar",
+"nr": "L8a",
 "parts": [
-"Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 7"
+"Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 8a"
 ],
-"pdf": "pdf/ar4-mam-2026-11-24-1600-491fb6.pdf"
+"pdf": "pdf/ar4-mam-2026-11-24-1600-1252ac.pdf"
 },
 {
 "id": "arifr-pc-2026-11-24-1900",
@@ -1165,8 +1167,6 @@
 "cls": "ar4",
 "disc": "saa",
 "type": "l",
-"title": "Lucrarea 5. Sistemul de răcire și managementul termic",
-"nr": "L5",
 "date": "2026-11-27",
 "time": "16:00",
 "end": "18:00",
@@ -1176,10 +1176,13 @@
 "loc": "A02",
 "seq": 4,
 "n": 7,
+"title": "Lucrarea 5. Sistemul de răcire și managementul termic · Lucrarea 6. Sistemul de supraalimentare – presiunea de supraalimentare și actuatorii turbosuflantei",
+"nr": "L5, L6",
 "parts": [
-"Îndrumar de laborator – Sisteme auxiliare ale autovehiculelor – Lucrarea 5"
+"Îndrumar de laborator – Sisteme auxiliare ale autovehiculelor – Lucrarea 5",
+"Îndrumar de laborator – Sisteme auxiliare ale autovehiculelor – Lucrarea 6"
 ],
-"pdf": "pdf/ar4-saa-2026-11-27-1600-17fe42.pdf"
+"pdf": "pdf/ar4-saa-2026-11-27-1600-32993f.pdf"
 },
 {
 "id": "ar3-pc-s1-2026-12-02-1800",
@@ -1263,8 +1266,6 @@
 "cls": "ar4",
 "disc": "da",
 "type": "l",
-"title": "Lucrarea 5. Motorul diesel common rail și sistemele de post-tratare (EGR, DPF, SCR)",
-"nr": "L5",
 "date": "2026-12-04",
 "time": "16:00",
 "end": "18:00",
@@ -1274,18 +1275,18 @@
 "loc": "A04",
 "seq": 5,
 "n": 7,
+"title": "Lucrarea 6. Sistemul de frânare cu ABS/ESC și sistemele ADAS",
+"nr": "L6",
 "parts": [
-"Îndrumar de laborator – Diagnosticarea autovehiculelor – Lucrarea 5"
+"Îndrumar de laborator – Diagnosticarea autovehiculelor – Lucrarea 6"
 ],
-"pdf": "pdf/ar4-da-2026-12-04-1600-1c2f03.pdf"
+"pdf": "pdf/ar4-da-2026-12-04-1600-d4b31e.pdf"
 },
 {
 "id": "ar4-mam-2026-12-07-1800",
 "cls": "ar4",
 "disc": "mam",
 "type": "l",
-"title": "Lucrarea 8a. Senzori inerțiali (IMU): unghiurile de ruliu și tangaj, filtrul complementar",
-"nr": "L8a",
 "date": "2026-12-07",
 "time": "18:00",
 "end": "20:00",
@@ -1295,8 +1296,10 @@
 "loc": "A02",
 "seq": 9,
 "n": 14,
+"title": "Lucrarea 8b. Senzori inerțiali (IMU): unghiurile de ruliu și tangaj, filtrul complementar",
+"nr": "L8b",
 "parts": [
-"Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 8a"
+"Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 8b"
 ],
 "rec": true,
 "pdf": "pdf/ar4-mam-2026-12-07-1800-b7060c.pdf"
@@ -1306,8 +1309,6 @@
 "cls": "ar4",
 "disc": "mam",
 "type": "l",
-"title": "Lucrarea 8b. Senzori inerțiali (IMU): unghiurile de ruliu și tangaj, filtrul complementar",
-"nr": "L8b",
 "date": "2026-12-08",
 "time": "16:00",
 "end": "18:00",
@@ -1317,10 +1318,12 @@
 "loc": "A02",
 "seq": 10,
 "n": 14,
+"title": "Lucrarea 9a. Clapeta electronică de accelerație: punte H, comandă PWM și regulator PID",
+"nr": "L9a",
 "parts": [
-"Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 8b"
+"Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 9a"
 ],
-"pdf": "pdf/ar4-mam-2026-12-08-1600-5f40f7.pdf"
+"pdf": "pdf/ar4-mam-2026-12-08-1600-552538.pdf"
 },
 {
 "id": "arifr-pc-2026-12-08-1900",
@@ -1432,8 +1435,6 @@
 "cls": "ar4",
 "disc": "saa",
 "type": "l",
-"title": "Lucrarea 6. Sistemul de supraalimentare – presiunea de supraalimentare și actuatorii turbosuflantei",
-"nr": "L6",
 "date": "2026-12-11",
 "time": "16:00",
 "end": "18:00",
@@ -1443,10 +1444,12 @@
 "loc": "A02",
 "seq": 5,
 "n": 7,
+"title": "Lucrarea 7. Sistemul de pornire și bilanțul energetic al sistemelor stop-start și mild-hybrid 48 V",
+"nr": "L7",
 "parts": [
-"Îndrumar de laborator – Sisteme auxiliare ale autovehiculelor – Lucrarea 6"
+"Îndrumar de laborator – Sisteme auxiliare ale autovehiculelor – Lucrarea 7"
 ],
-"pdf": "pdf/ar4-saa-2026-12-11-1600-1d55d5.pdf"
+"pdf": "pdf/ar4-saa-2026-12-11-1600-ceb7b7.pdf"
 },
 {
 "id": "ar3-pc-s2-2026-12-14-1800",
@@ -1482,8 +1485,6 @@
 "cls": "ar4",
 "disc": "mam",
 "type": "l",
-"title": "Lucrarea 9a. Clapeta electronică de accelerație: punte H, comandă PWM și regulator PID",
-"nr": "L9a",
 "date": "2026-12-15",
 "time": "16:00",
 "end": "18:00",
@@ -1493,8 +1494,10 @@
 "loc": "A02",
 "seq": 11,
 "n": 14,
+"title": "Lucrarea 9b. Clapeta electronică de accelerație: punte H, comandă PWM și regulator PID",
+"nr": "L9b",
 "parts": [
-"Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 9a"
+"Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 9b"
 ],
 "pdf": "pdf/ar4-mam-2026-12-15-1600-896ddd.pdf"
 },
@@ -1608,8 +1611,6 @@
 "cls": "ar4",
 "disc": "da",
 "type": "l",
-"title": "Lucrarea 6. Sistemul de frânare cu ABS/ESC și sistemele ADAS",
-"nr": "L6",
 "date": "2026-12-18",
 "time": "16:00",
 "end": "18:00",
@@ -1619,18 +1620,18 @@
 "loc": "A04",
 "seq": 6,
 "n": 7,
+"title": "Lucrarea 7. Vehicule electrice și hibride: siguranța HV, bateria, invertorul și motorul electric",
+"nr": "L7",
 "parts": [
-"Îndrumar de laborator – Diagnosticarea autovehiculelor – Lucrarea 6"
+"Îndrumar de laborator – Diagnosticarea autovehiculelor – Lucrarea 7"
 ],
-"pdf": "pdf/ar4-da-2026-12-18-1600-9043a7.pdf"
+"pdf": "pdf/ar4-da-2026-12-18-1600-4d8171.pdf"
 },
 {
 "id": "ar4-saa-2026-12-18-1800",
 "cls": "ar4",
 "disc": "saa",
 "type": "l",
-"title": "Lucrarea 7. Sistemul de pornire și bilanțul energetic al sistemelor stop-start și mild-hybrid 48 V",
-"nr": "L7",
 "date": "2026-12-18",
 "time": "18:00",
 "end": "20:00",
@@ -1640,11 +1641,13 @@
 "loc": "A02",
 "seq": 6,
 "n": 7,
+"title": "Lucrarea 8. Sistemul de climatizare și pompa de căldură – determinarea parametrilor de funcționare",
+"nr": "L8",
 "parts": [
-"Îndrumar de laborator – Sisteme auxiliare ale autovehiculelor – Lucrarea 7"
+"Îndrumar de laborator – Sisteme auxiliare ale autovehiculelor – Lucrarea 8"
 ],
 "rec": true,
-"pdf": "pdf/ar4-saa-2026-12-18-1800-985f89.pdf"
+"pdf": "pdf/ar4-saa-2026-12-18-1800-01dc93.pdf"
 },
 {
 "id": "ar2-mf-s2-2026-12-21-1800",
@@ -1673,8 +1676,6 @@
 "cls": "ar4",
 "disc": "mam",
 "type": "l",
-"title": "Lucrarea 9b. Clapeta electronică de accelerație: punte H, comandă PWM și regulator PID",
-"nr": "L9b",
 "date": "2026-12-22",
 "time": "16:00",
 "end": "18:00",
@@ -1684,10 +1685,12 @@
 "loc": "A02",
 "seq": 12,
 "n": 14,
+"title": "Lucrarea 10a. Magistrala CAN: construirea mesajelor, arbitrajul și decodarea semnalelor",
+"nr": "L10a",
 "parts": [
-"Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 9b"
+"Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 10a"
 ],
-"pdf": "pdf/ar4-mam-2026-12-22-1600-60d36a.pdf"
+"pdf": "pdf/ar4-mam-2026-12-22-1600-1102e6.pdf"
 },
 {
 "id": "arifr-pc-2026-12-22-1900",
@@ -1750,8 +1753,6 @@
 "cls": "ar4",
 "disc": "mam",
 "type": "l",
-"title": "Lucrarea 10a. Magistrala CAN: construirea mesajelor, arbitrajul și decodarea semnalelor",
-"nr": "L10a",
 "date": "2027-01-12",
 "time": "16:00",
 "end": "18:00",
@@ -1761,10 +1762,12 @@
 "loc": "A02",
 "seq": 13,
 "n": 14,
+"title": "Lucrarea 10b. Magistrala CAN: construirea mesajelor, arbitrajul și decodarea semnalelor",
+"nr": "L10b",
 "parts": [
-"Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 10a"
+"Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 10b"
 ],
-"pdf": "pdf/ar4-mam-2027-01-12-1600-2ac1e4.pdf"
+"pdf": "pdf/ar4-mam-2027-01-12-1600-56f3e9.pdf"
 },
 {
 "id": "arifr-pc-2027-01-12-1900",
@@ -1876,8 +1879,6 @@
 "cls": "ar4",
 "disc": "saa",
 "type": "l",
-"title": "Lucrarea 8. Sistemul de climatizare și pompa de căldură – determinarea parametrilor de funcționare",
-"nr": "L8",
 "date": "2027-01-15",
 "time": "16:00",
 "end": "18:00",
@@ -1887,18 +1888,19 @@
 "loc": "A02",
 "seq": 7,
 "n": 7,
+"title": "Predarea portofoliului de lucrări de laborator",
+"nr": "Portofoliu",
 "parts": [
-"Îndrumar de laborator – Sisteme auxiliare ale autovehiculelor – Lucrarea 8"
+"Îndrumar de laborator – Sisteme auxiliare ale autovehiculelor – cerințele referatului și evaluarea",
+"Portofoliul conține referatele tuturor lucrărilor efectuate, cu tabelele de rezultate completate"
 ],
-"pdf": "pdf/ar4-saa-2027-01-15-1600-b910f5.pdf"
+"pdf": "pdf/ar4-saa-2027-01-15-1600-5b389b.pdf"
 },
 {
 "id": "ar4-mam-2027-01-19-1600",
 "cls": "ar4",
 "disc": "mam",
 "type": "l",
-"title": "Lucrarea 10b. Magistrala CAN: construirea mesajelor, arbitrajul și decodarea semnalelor",
-"nr": "L10b",
 "date": "2027-01-19",
 "time": "16:00",
 "end": "18:00",
@@ -1908,10 +1910,13 @@
 "loc": "A02",
 "seq": 14,
 "n": 14,
+"title": "Predarea portofoliului de lucrări de laborator",
+"nr": "Portofoliu",
 "parts": [
-"Îndrumar de laborator – Mecatronica automobilului modern I – Lucrarea 10b"
+"Îndrumar de laborator – Mecatronica automobilului modern I – cerințele referatului și evaluarea",
+"Portofoliul conține referatele tuturor lucrărilor efectuate, cu tabelele de rezultate completate"
 ],
-"pdf": "pdf/ar4-mam-2027-01-19-1600-9a607c.pdf"
+"pdf": "pdf/ar4-mam-2027-01-19-1600-1e2a5d.pdf"
 },
 {
 "id": "arifr-pc-2027-01-19-1900",
@@ -2023,8 +2028,6 @@
 "cls": "ar4",
 "disc": "da",
 "type": "l",
-"title": "Lucrarea 7. Vehicule electrice și hibride: siguranța HV, bateria, invertorul și motorul electric",
-"nr": "L7",
 "date": "2027-01-22",
 "time": "16:00",
 "end": "18:00",
@@ -2034,9 +2037,12 @@
 "loc": "A04",
 "seq": 7,
 "n": 7,
+"title": "Predarea portofoliului de lucrări de laborator",
+"nr": "Portofoliu",
 "parts": [
-"Îndrumar de laborator – Diagnosticarea autovehiculelor – Lucrarea 7"
+"Îndrumar de laborator – Diagnosticarea autovehiculelor – cerințele referatului și evaluarea",
+"Portofoliul conține referatele tuturor lucrărilor efectuate, cu tabelele de rezultate completate"
 ],
-"pdf": "pdf/ar4-da-2027-01-22-1600-af23b3.pdf"
+"pdf": "pdf/ar4-da-2027-01-22-1600-3ea235.pdf"
 }
 ]

@@ -57,7 +57,7 @@ DA = [
     ("Sistemul de alimentare MAS și analiza gazelor de evacuare", 19, 22),
     ("Motorul diesel common rail și sistemele de post-tratare (EGR, DPF, SCR)", 23, 27),
     ("Sistemul de frânare cu ABS/ESC și sistemele ADAS", 28, 31),
-    ("Vehicule electrice și hibride: siguranța HV, bateria, invertorul și motorul electric", 32, 38),
+    ("Vehicule electrice și hibride: siguranța HV, bateria, invertorul și motorul electric", 32, 36),
 ]
 MAM = [
     ("Microcontrolere: intrări/ieșiri, convertor A/D, timere, întreruperi și PWM", 6, 9),
@@ -69,7 +69,7 @@ MAM = [
     ("Senzori ultrasonici de parcare: timpul de propagare și compensarea cu temperatura", 28, 30),
     ("Senzori inerțiali (IMU): unghiurile de ruliu și tangaj, filtrul complementar", 31, 33),
     ("Clapeta electronică de accelerație: punte H, comandă PWM și regulator PID", 34, 37),
-    ("Magistrala CAN: construirea mesajelor, arbitrajul și decodarea semnalelor", 38, 44),
+    ("Magistrala CAN: construirea mesajelor, arbitrajul și decodarea semnalelor", 38, 41),
 ]
 PCS = [  # etape de proiect: (titlu, ore, pagini)
     ("Prezentarea proiectului și a temei; alegerea parametrilor inițiali; motorul de referință", 2, [(4, 5), (6, 6), (17, 17), (23, 23), (34, 35)]),
@@ -129,6 +129,18 @@ def lab_units(doc, labs, groups, intro=True):
     return out
 
 
+PORTF = dict(DA=[(4, 4), (37, 37)], MAM=[(4, 4), (42, 43)], SAA=[(3, 3)])
+
+
+def portfolio(doc):
+    """Ultima ședință: predarea portofoliului de referate (fără lucrare nouă)."""
+    return dict(title="Predarea portofoliului de lucrări de laborator",
+                pages=[(doc, a, b) for a, b in PORTF[doc]],
+                parts=[f"{MAN[doc]} – cerințele referatului și evaluarea",
+                       "Portofoliul conține referatele tuturor lucrărilor efectuate, cu tabelele de rezultate completate"],
+                nr="Portofoliu")
+
+
 def pc_units(n):
     tot = sum(h for _, h, _ in PCS)
     bounds, c = [], 0
@@ -166,10 +178,11 @@ def iaii_units(names, page, groups):
 S = lambda *ix: [(i, "") for i in ix]
 UNITS = {
     "mf": lab_units("MF", MF, [S(i) for i in range(7)]),
-    "saa": lab_units("SAA", SAA, [S(0), S(1, 3), S(2), S(4), S(5), S(6), S(7)]),
-    "da": lab_units("DA", DA, [S(i) for i in range(7)]),
-    "mam": lab_units("MAM", MAM, [[(0, "a")], [(0, "b")], S(1), S(2), S(3), S(4), S(5), S(6),
-                                   [(7, "a")], [(7, "b")], [(8, "a")], [(8, "b")], [(9, "a")], [(9, "b")]]),
+    # ultima ședință la AR IV: predarea portofoliului; se comasează câte două lucrări scurte
+    "saa": lab_units("SAA", SAA, [S(0), S(1, 3), S(2), S(4, 5), S(6), S(7)]) + [portfolio("SAA")],
+    "da": lab_units("DA", DA, [S(0), S(1), S(2, 3), S(4), S(5), S(6)]) + [portfolio("DA")],
+    "mam": lab_units("MAM", MAM, [[(0, "a")], [(0, "b")], S(1), S(2, 3), S(4), S(5), S(6),
+                                   [(7, "a")], [(7, "b")], [(8, "a")], [(8, "b")], [(9, "a")], [(9, "b")]]) + [portfolio("MAM")],
     "st": iaii_units(ST, 1, [[i] for i in range(14)]),
     "api": iaii_units(API, 2, [[i] for i in range(14)]),
 }
